@@ -2,6 +2,44 @@
 layout: home
 permalink: /
 
+title: "Lone Wolf Theme"
+excerpt: "A simple bootstrap based jekyll theme."
+action: true
+action_btn:
+  - label: "Download"
+    fa_icon : "fas fa-download"
+    class: "btn btn-lg btn-success"
+    url: "https://github.com/manid2/lone-wolf-theme/releases/latest"
+  - dropdown: false
+  - dropdown_items:
+    - label: "v1.0.2"
+      url: "https://github.com/manid2/lone-wolf-theme/releases/tag/v1.0.2"
+      fa_icon: "fas fa-arrow-down"
+
+feature_rows:
+  - title: "Apps"
+    excerpt: "List of apps."
+    url: "/apps/"
+    img_path: "feature_rows/pexels-torsten-dettlaff-apps.jpg"
+    img_alt: "Apps"
+  - title: "Blog"
+    excerpt: "List of recent blogs.."
+    url: "/blog/"
+    img_path: "feature_rows/pexels-pixabay-blog.jpg"
+    img_alt: "Blog"
+  - title: "TODO"
+    excerpt: "TODO items."
+    url: "/todo/"
+    img_path: "feature_rows/pexels-breakingpic-todo.jpg"
+    img_alt: Todo"
+---
+
+
+<!--
+---
+layout: home
+permalink: /
+
 title: "Viktors Webseite"
 
 feature_rows:
@@ -26,6 +64,7 @@ feature_rows:
     img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
     img_alt: "Eiskunstlauf"
 ---
+-->
 
 
 ![](Entwurf/herzlich-willkommen.jpg)
