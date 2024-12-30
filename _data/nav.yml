@@ -8,11 +8,11 @@ header:
     description: "Was ich immer schon schreiben wollte"
   - title: "Technik"
     url: "/tech/"
-    description: "Ich interessiere mich für Technik"
+    description: "Habt ihr Fragen? Kein Problem. Ich schreibe ihnen Ein Paar Daten."
   - title: "Eiskunstlauf"
     url: "/ice/"
     description: "Ich bin Eiskunstläufer"
-  - title: "Links"
+  - title: "Links
     url: "/links/"
     description: "Meine Linkliste"
   - title: "Buch"
