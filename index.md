@@ -3,15 +3,16 @@ layout: default
 ---
 
 
-![](Entwurf/VIKTOR-WEBBILD.jpg)
+![](Entwurf/herzlich-willkommen.jpg)
 
-
+![](Entwurf/hallo.jpg)
    [Über mich](about)
 
    Das ist noch eine Baustelle.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/58/Hinweissignal_Baustelle.png)
 
+<!--
 # Was hierher soll
 
 <p>#Website Wunsch 1 (this_well_me.md[Markdown_Dokument]) (Für meine Webseite)[<a href="http://viktor-chiarcos.github.io">http://viktor-chiarcos.github.io</a>]</p>
@@ -26,3 +27,4 @@ layout: default
 <p>Ein Speicher Für Kontakte</p>
 
    
+-->
