@@ -15,7 +15,7 @@ bootswatch_theme: "united" # cerulean, spacelab, united
 lang: "de"
 title: "Viktor Chiarcos"
 description: "website von @viktor-chiarcos"
-url: # site url e.g. "https://manid2.github.io"
+url: "https://viktor-chiarcos.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 author: viktor-chiarcos
 #twitter:
