@@ -32,11 +32,6 @@ feature_rows:
     url: "/tech/"
     img_path: "/Entwurf/hallo.jpg"
     img_alt: Todo"
-- title: "Eis"
-    excerpt: "TODO items."
-    url: "/ice/"
-    img_path: "/Entwurf/eis.jpg"
-    img_alt: Todo"
 ---
 
 
