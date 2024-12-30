@@ -7,7 +7,7 @@ permalink: /about/
 # Hallo, Ich bin Viktor,
 ## Ich bin der Host von der Webseite weil sie mir gehört
 
-# (Github Account README.md)[http://github.com/viktor-chiarcos/viktor-chiarcos]
+# [Github Account README.md](http://github.com/viktor-chiarcos/viktor-chiarcos)
 
 ## - 🇩🇪 Hallo, ich bin @viktor-chiarcos
 ## - 👀 Ich interessiere mich für Elektronik
