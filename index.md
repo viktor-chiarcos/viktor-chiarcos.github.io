@@ -17,9 +17,9 @@ action_btn:
       fa_icon: "fas fa-arrow-down"
 
 feature_rows:
-  - title: "Apps"
+  - title: "about"
     excerpt: "List of apps."
-    url: "/apps/"
+    url: "/about/"
     img_path: "/Entwurf/VIKTOR-WEBBILD.jpg"
     img_alt: "Apps"
   - title: "Blog"
@@ -27,9 +27,9 @@ feature_rows:
     url: "/blog/"
     img_path: "/Entwurf/VIKTOR-WEBBILD.jpg"
     img_alt: "Blog"
-  - title: "TODO"
+  - title: "Technik"
     excerpt: "TODO items."
-    url: "/todo/"
+    url: "/tech/"
     img_path: "/Entwurf/VIKTOR-WEBBILD.jpg"
     img_alt: Todo"
 ---
