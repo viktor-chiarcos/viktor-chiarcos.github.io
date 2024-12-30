@@ -16,7 +16,7 @@ header:
     url: "/links/"
     description: "Meine Linkliste"
   - title: "Buch"
-    url: "/My-Book.github.com/viktor-chiarcos/My-Book/"
+    url: "/buch.md/"
     descripton: "Das ist das Buch das ich schreibe"
     
 # footer links
