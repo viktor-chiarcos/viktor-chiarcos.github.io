@@ -16,7 +16,7 @@ header:
     url: "/links/"
     description: "Meine Linkliste"
   - title: "Buch"
-    url: "/buch.md/"
+    url: "/buch/"
     descripton: "Das ist das Buch das ich schreibe"
     
 # footer links
