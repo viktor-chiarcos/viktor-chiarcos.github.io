@@ -1,6 +1,6 @@
 ---
-layout: list
-permalink: /blog/
+layout: page
+permalink: /buch/
 title: "Das ist das Buch vom Viktor"
 excerpt: "List of posts grouped by categories."
 ---
