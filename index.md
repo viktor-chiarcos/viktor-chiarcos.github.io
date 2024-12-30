@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 permalink: /
 
 title: "Viktors Webseite"
