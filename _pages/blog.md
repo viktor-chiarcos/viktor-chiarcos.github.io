@@ -1,7 +1,7 @@
 ---
 layout: list
-permalink: /categories/
-title: "Categories"
+permalink: /blog/
+title: "Was ich immer schon schreiben wollte ;)"
 excerpt: "List of posts grouped by categories."
 ---
 
