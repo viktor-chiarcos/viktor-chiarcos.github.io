@@ -18,4 +18,5 @@ Ein Webseitnlogo mit meiеm Bild
 
 Ein Speicher Für Kontakte 
 
+einen Kalender der keine Verknüpfungen braucht
                                                                                                      
