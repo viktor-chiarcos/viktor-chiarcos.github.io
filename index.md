@@ -33,9 +33,10 @@ feature_rows:
 ![](Entwurf/hallo.jpg)
 
 # Mitteilungen (Werden maximal 2 Tage Gelagert):
-- ***Abteil Technik: Terminal Unterstützung: Dateien öffnen: Hinweis Bereit*** (2024-12-30, 17:50) 
-- ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Aktiv***(2024-12-30,17:51)
-- ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Erstellen***(2024-12-30,18:23)
+- ***Abteil Technik: Terminal Unterstützung: Dateien öffnen: Hinweis Bereit zum verwenden*** (2024-12-30, 17:50) 
+- ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Aktiv*** (2024-12-30,17:51)
+- ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Erstellen*** (2024-12-30,18:23)
+- ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Bereit zum verwenden*** (2024-12-30,18:53)
 
 &nbsp;
 
