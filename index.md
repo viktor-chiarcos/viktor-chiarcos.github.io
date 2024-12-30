@@ -81,6 +81,7 @@ feature_rows:
 - ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Aktiv*** (2024-12-30,17:51)
 - ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Erstellen*** (2024-12-30,18:23)
 - ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Bereit zum verwenden*** (2024-12-30,18:53)
+- ***Abteil Homepage: Settings: Russische Sprache Hinzugefügt*** (2024-12-30,19:30)
 
 &nbsp;
 
