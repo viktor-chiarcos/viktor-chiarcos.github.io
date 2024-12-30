@@ -1,5 +1,23 @@
 ---
 layout: default
+
+feature_rows:
+  - title: "Apps"
+    excerpt: "List of apps."
+    url: "/apps/"
+    img_path: "feature_rows/pexels-torsten-dettlaff-apps.jpg"
+    img_alt: "Apps"
+  - title: "Blog"
+    excerpt: "List of recent blogs.."
+    url: "/blog/"
+    img_path: "feature_rows/pexels-pixabay-blog.jpg"
+    img_alt: "Blog"
+  - title: "TODO"
+    excerpt: "TODO items."
+    url: "/todo/"
+    img_path: "feature_rows/pexels-breakingpic-todo.jpg"
+    img_alt: Todo"
+---
 ---
 
 
