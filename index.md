@@ -75,14 +75,19 @@ feature_rows:
 - [включить Русский Язик](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Power On English Language](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Deutsche Sprache Aktivieren](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp)
+[Andere Sprachen verwenden](https://translate.google.com/?hl=de&sl=auto&tl=de&op=websites) (bitte geben sie da die Webseite ein)
 
 # Mitteilungen (Werden maximal 2 Tage Gelagert):
 - ***Abteil Technik: Terminal Unterstützung: Dateien öffnen: Hinweis Bereit zum verwenden*** (2024-12-30, 17:50) 
 - ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Aktiv*** (2024-12-30,17:51)
 - ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Erstellen*** (2024-12-30,18:23)
 - ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Bereit zum verwenden*** (2024-12-30,18:53)
-- ***Abteil Homepage: Settings: Russische Sprache Hinzugefügt*** (2024-12-30,19:30)
+- ***Abteil Homepage: Settings: Russische Sprache Hinzugefügt: Goole Translate ist Betriebsbereit*** (2024-12-30,19:30)
+- ***Abteil Homepage: Settings: Englische Sprache Hinzugefügt: Google Translate ist Betriebsbereit*** (2024-12-30, 19:35)
+- ***Abteil Homepage: Settings: Deutsche Sprache Hinzugefügt: Google Translate ist Betriebsbereit*** (2024-12-30, 19:50)
+- ***Abteil Homepage: Settings: Viele Sonstigen Sprachen erlaubt: Google Translate ist Betriebsbereit*** (2024-12-30, 20:04)
 
+  
 &nbsp;
 
 - [Über mich](about)
