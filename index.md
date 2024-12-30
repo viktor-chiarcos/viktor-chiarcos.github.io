@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 permalink: /
 
 title: "Viktors Webseite"
@@ -26,7 +26,6 @@ feature_rows:
     img_path: "feature_rows/pexels-breakingpic-todo.jpg"
     img_alt: "Eiskunstlauf"
 ---
-
 
 
 ![](Entwurf/herzlich-willkommen.jpg)
