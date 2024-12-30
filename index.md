@@ -86,6 +86,7 @@ feature_rows:
 - ***Abteil Homepage: Settings: Englische Sprache Hinzugefügt: Google Translate ist Betriebsbereit*** (2024-12-30, 19:35)
 - ***Abteil Homepage: Settings: Deutsche Sprache Hinzugefügt: Google Translate ist Betriebsbereit*** (2024-12-30, 19:50)
 - ***Abteil Homepage: Settings: Viele Sonstigen Sprachen erlaubt: Google Translate ist Betriebsbereit*** (2024-12-30, 20:04)
+- ***Abteil Homepage: Miteilungen:Mitteilungen werden an volgender Zeit 2024-12-31,12:00 gelöscht***(2024-12-30, 20:50)
 
   
 &nbsp;
