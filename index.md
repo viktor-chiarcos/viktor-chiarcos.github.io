@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: home
+permalink: /
+
+title: "Viktors Webseite"
 
 feature_rows:
   - title: "Über mich"
