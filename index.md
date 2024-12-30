@@ -2,6 +2,11 @@
 layout: default
 ---
 
+
+![](Entwurf/VIKTOR-WEBBILD.jpg)
+
+   Das ist noch eine Baustelle.
+
 ![](https://upload.wikimedia.org/wikipedia/commons/5/58/Hinweissignal_Baustelle.png)
 
 # Was hierher soll
@@ -17,14 +22,4 @@ layout: default
 <p>Ein Webseitnlogo mit meiеm Bild</p>
 <p>Ein Speicher Für Kontakte</p>
 
-        <p><img src="Entwurf/VIKTOR-WEBBILD.jpg"/></p>
-        
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm">
-        <p>Welcome to my theme, <a href="{{ '/welcome/' | relative_url }}">Lone Wolf Theme</a></p>
-      </div>
-    </div>
-  </div>
-</section>
+   
