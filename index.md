@@ -11,8 +11,9 @@ layout: default
 # Mitteilungen (Werden maximal 2 Tage Gelagert):
 - ***Abteil Technik: Terminal Unterstützung: Dateien öffnen: Hinweis Bereit*** (2024-12-30, 17:50) 
 - ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Aktiv***(2024-12-30,17:51)
--
-- 
+
+&nbsp;
+
 - [Über mich](about)
 
    Das ist noch eine Baustelle.
