@@ -71,6 +71,11 @@ feature_rows:
 
 ![](Entwurf/hallo.jpg)
 
+# Settngs
+- [включить Русский Язик](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=de&_x_tr_pto=wapp)
+- [Power On English Language](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp)
+
+
 # Mitteilungen (Werden maximal 2 Tage Gelagert):
 - ***Abteil Technik: Terminal Unterstützung: Dateien öffnen: Hinweis Bereit zum verwenden*** (2024-12-30, 17:50) 
 - ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Aktiv*** (2024-12-30,17:51)
