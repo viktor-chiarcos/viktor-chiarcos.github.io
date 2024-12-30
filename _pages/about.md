@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
+title: "Über mich"
 permalink: /about/
 ---
 
-Write your about story.
+Hier kommt eine Beschreibung von Viktor hin.
