@@ -1,3 +1,18 @@
+---
+layout: post
+title:  "Das bin ich!"
+excerpt: "Kurzvorstellung"
+date:   2024-12-30 14:30:34 +0530
+categories: stories
+
+image: assets/images/coding-langs.jpg
+image_alt: sample post 1
+image_caption: testing post caption
+
+permalink: /welcome/
+---
+
+
 - 🇩🇪 Hallo, ich bin @viktor-chiarcos
 - 👀 Ich interessiere mich für Elektronik
 - 🌱 Ich lerne gerade Stromkreise Programmieren
