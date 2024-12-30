@@ -16,6 +16,6 @@ Check out my [ZNATOK programming shows](https://www.youtube.com/playlist?list=PL
 - ***Der Computer sagt: chiarcos_viktor@Linux-Viktor:~/Videos $***
 - *** Sie Konnen nun auch raus aus Dem Verzeichnis***
 - *** Um ein neues Verzeichnis zu öffnen machen sie genau das gleiche***
-***- wenn sie ein weiteres Verzeichnis öffnen wollen dann sagen sie: cd Videos/Ordner Name***
+- ***wenn sie ein weiteres Verzeichnis öffnen wollen dann sagen sie: cd Videos/Ordner Name***
 - **Ende**
 ## Was Bedeutet der befehl sudo?
