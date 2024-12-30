@@ -2,22 +2,26 @@
 layout: default
 
 feature_rows:
-  - title: "Apps"
-    excerpt: "List of apps."
-    url: "/apps/"
+  - title: "Über mich"
+    excerpt: "Ich bin Viktor"
+    url: "/about/"
     img_path: "feature_rows/pexels-torsten-dettlaff-apps.jpg"
-    img_alt: "Apps"
+    img_alt: "..."
   - title: "Blog"
     excerpt: "List of recent blogs.."
     url: "/blog/"
     img_path: "feature_rows/pexels-pixabay-blog.jpg"
     img_alt: "Blog"
-  - title: "TODO"
-    excerpt: "TODO items."
-    url: "/todo/"
+  - title: "Technik"
+    excerpt: "Ich interessiere mich für Technik"
+    url: "/tech/"
     img_path: "feature_rows/pexels-breakingpic-todo.jpg"
-    img_alt: Todo"
----
+    img_alt: Technik"
+ - title: "Eiskunstlauf"
+    excerpt: "Ich bin Eiskunstläufer"
+    url: "/ice/"
+    img_path: "feature_rows/pexels-breakingpic-todo.jpg"
+    img_alt: Eiskunstlauf"
 ---
 
 
