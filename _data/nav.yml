@@ -15,13 +15,10 @@ header:
   - title: "Links"
     url: "/links/"
     description: "Meine Linkliste"
- # - title: "Features"
-  #  url: "/features/"
-   # description: "List of features in the theme"
-#  - title: "Source"
- #   url: "/source/"
-  #  description: "Theme source code"
-
+  - title: "Buch"
+    url: "/My-Book.github.com/viktor-chiarcos/My-Book/"
+    descripton: "Das ist das Buch das ich schreibe"
+    
 # footer links
 footer:
   - owner: "Viktor Chiarcos"
@@ -33,12 +30,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/viktor-chiarcos"
-    #- label: "LinkedIn"
-     # icon: "fab fa-fw fa-linkedin"
-    #  url: # linkedin profile link
-#    - label: "Twitter"
- #     icon: "fab fa-fw fa-twitter-square"
-  #    url: # twitter profile link
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/chiarcos_viktor_krasavin/profilecard"
