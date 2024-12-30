@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 
-title: "Lone Wolf Theme"
+title: "Viktors Webseite"
 excerpt: "A simple bootstrap based jekyll theme."
 action: true
 action_btn:
@@ -20,7 +20,7 @@ feature_rows:
   - title: "about"
     excerpt: "List of apps."
     url: "/about/"
-    img_path: "/Entwurf/hallo.jpg"
+    img_path: "Entwurf/hallo.jpg"
     img_alt: "Apps"
   - title: "Blog"
     excerpt: "List of recent blogs.."
