@@ -1,4 +1,5 @@
 # WebseitenwÃ¼nsche
+
 ## viktor-chiarcos.github.io
 **von Viktor**
 
@@ -8,9 +9,9 @@
 -*GraphZ ZNATOK Programms*
 
 ***Linkliste***  No 4                                                                     
--*Um Beliebige Links nach meiner eingabe zu öffnen*
+-*Um Beliebige Links nach meiner eingabe zu Ã¶ffnen*
 
-***Über Mich*** No 1
+***Ãœber Mich*** No 1
 -*Instagram*
 -*GitHub*
 
