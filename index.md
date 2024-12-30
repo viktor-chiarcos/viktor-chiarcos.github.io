@@ -6,7 +6,8 @@ layout: default
 ![](Entwurf/herzlich-willkommen.jpg)
 
 ![](Entwurf/hallo.jpg)
-   [Über mich](about)
+
+[Über mich](about)
 
    Das ist noch eine Baustelle.
 
