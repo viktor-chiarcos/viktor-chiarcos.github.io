@@ -19,12 +19,12 @@ feature_rows:
     excerpt: "Ich interessiere mich für Technik"
     url: "/tech/"
     img_path: "feature_rows/pexels-breakingpic-todo.jpg"
-    img_alt: Technik"
+    img_alt: "Technik"
  - title: "Eiskunstlauf"
     excerpt: "Ich bin Eiskunstläufer"
     url: "/ice/"
     img_path: "feature_rows/pexels-breakingpic-todo.jpg"
-    img_alt: Eiskunstlauf"
+    img_alt: "Eiskunstlauf"
 ---
 
 
