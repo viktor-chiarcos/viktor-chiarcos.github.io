@@ -18,4 +18,12 @@ Check out my [ZNATOK programming shows](https://www.youtube.com/playlist?list=PL
 - ***Um ein neues Verzeichnis zu öffnen machen sie genau das gleiche***
 - ***wenn sie ein weiteres Verzeichnis öffnen wollen dann sagen sie: cd Videos/Ordner Name***
 - **Ende**
+
+&nbsp;
+
 ## Was Bedeutet der befehl sudo?
+- ***sudo ist ein Befehl um Administratorrechte zu aktivieren***
+- ***sudo benötigst du um daten im System zu verstellen***
+- ***Benutzer die keine Administratorrechte haben können sudo nicht verwenden***
+- ***Mit sudo kannst du: Apps installieren, Herrunterfahren, Zugrifsrechte von anderen Personen Verwenden, Benutzer Hinzufügen und vieles mehr***
+
