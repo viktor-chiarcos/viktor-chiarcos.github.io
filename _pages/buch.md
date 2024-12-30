@@ -8,7 +8,7 @@ excerpt: "List of posts grouped by categories."
 {%- include archive-list.html list_items=site.categories -%}
 # Das Buch
 
-# [Auf GitHub öffnen](https;//giithub.com/viktor-chiarcos/My-Book)
+# [Auf GitHub öffnen](https;//github.com/viktor-chiarcos/My-Book)
 
 [Ich](https://github.com/viktor-chiarcos) schreibe ein Buch über mich und verwende dabei Persöhnliche Daten
 
