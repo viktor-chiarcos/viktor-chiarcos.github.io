@@ -11,7 +11,7 @@ permalink: /about/
 
 ## Ich bin der Host von der Webseite weil sie mir gehört
 
-# [Github Account README.md](http://github.com/viktor-chiarcos/viktor-chiarcos)
+# [Github Account README.md] (http://github.com/viktor-chiarcos/viktor-chiarcos)
 
 ## - 🇩🇪 Hallo, ich bin @viktor-chiarcos
 ## - 👀 Ich interessiere mich für Elektronik
@@ -25,4 +25,6 @@ permalink: /about/
 ## - 🎶 Meine Lieblings Musik findet ihr [Hier (auf Spotify) ](https://open.spotify.com/playlist/33a3P5kT2XK7V2NE11puD2?si=TZKCPxLFRGmnVrRYJPqH_g&pi=e-7_wwSH6USaOR)
 ## - 🙁 Das mag ich nicht: lange Sport zu machen, viele Hausaufgaben machen
 ## - 👴 Alter: Verrate ich nicht
+
+# Information : Dieser  Programmiertext ist nicht korrekt
 
