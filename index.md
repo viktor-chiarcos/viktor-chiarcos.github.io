@@ -78,7 +78,8 @@ feature_rows:
 - [Power On English Language](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Deutsche Sprache Aktivieren](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Andere Sprachen verwenden](https://translate.google.com/?hl=de&sl=auto&tl=de&op=websites) (bitte geben sie da die Webseite: viktor-chiarcos.github.io ein)
-- ## Software: ViktorOS 1.5 
+- [Error Demo öffnen](http://viktor-chiarcos.github.io/error)
+- ## Software: ViktorOS 2.0
 
 # Mitteilungen (Werden maximal 2 Tage Gelagert):
 - ***Abteil Technik: Terminal Unterstützung: Dateien öffnen: Hinweis Bereit zum verwenden*** (2024-12-30, 17:50) 
@@ -93,7 +94,8 @@ feature_rows:
 - ## Ab hier ist Silvester Datenschutz: Inhalte werden An diesem Tag ohne Uhrzeit geschrieben
 - ***Update ViktorOS 1.5 aktualisiert*** **(SILVESTER 2024)**
 - ***Zukunft: bald ist der Code Von der Webseite verfügbar*** **(SILVESTR 2024)**
-  
+- ***Error Seite ganz anderes Desing + Demo in Einstellungen ausführbar*** **(SILVESWTER 2024)**
+- ## Softwareupdate: ViktorOS 2.0 (SILVESTER 2024)
 &nbsp;
 
 - [Über mich](about)
