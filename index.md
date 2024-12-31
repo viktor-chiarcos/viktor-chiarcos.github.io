@@ -31,7 +31,7 @@ feature_rows:
     excerpt: "TODO items."
     url: "/tech/"
     img_path: "/Entwurf/hallo.jpg"
-    img_alt: Todo"
+    img_alt: "Todo"
 ---
 
 
