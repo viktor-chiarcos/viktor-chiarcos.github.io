@@ -1,9 +1,10 @@
 # Spiele
 
 ---
+- layout: "page"
 - title: "Spiele mit Andre"
   excerpt: 
-  url: "_pages/Spiele/Ich-Spiele-mit-Andre-Zusammen.md"
+  url: "games/Ich-Spiele-mit-Andre-Zusammen/"
   img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
   img_alt: "Spiele mit Andre"
 ---
