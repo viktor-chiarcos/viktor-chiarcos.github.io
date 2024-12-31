@@ -63,6 +63,14 @@ feature_rows:
     url: "/ice/"
     img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
     img_alt: "Eiskunstlauf"
+ - title: "Spiele"
+  excerpt: 
+  url: "/games/"
+  img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
+  img_alt: "Spiele"
+ 
+  
+    
  
     
 ---
