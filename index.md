@@ -63,12 +63,11 @@ feature_rows:
     url: "/ice/"
     img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
     img_alt: "Eiskunstlauf"
- - title: "Spiele"
+- title: "Spiele mit Andre"
   excerpt: 
-  url: "_pages/Spiele/Ich-Spiele-mit-Andre-Zusammen.md"
+  url: "/Spiele/"
   img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
-  img_alt: "Spiele mit Andre"
- 
+  img_alt: "Spiele"
   
     
  
