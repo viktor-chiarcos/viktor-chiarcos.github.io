@@ -65,7 +65,7 @@ feature_rows:
     img_alt: "Eiskunstlauf"
 - title: "Spiele mit Andre"
   excerpt: 
-  url: "/Spiele/"
+  url: "/games/"
   img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
   img_alt: "Spiele"
   
