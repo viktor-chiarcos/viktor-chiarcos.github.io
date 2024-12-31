@@ -5,16 +5,16 @@ permalink: /
 title: "Viktors Webseite"
 excerpt: "A simple bootstrap based jekyll theme."
 action: true
-action_btn:
-  - label: "Download"
-    fa_icon : "fas fa-download"
-    class: "btn btn-lg btn-success"
-    url: "https://github.com/manid2/lone-wolf-theme/releases/latest"
-  - dropdown: false
-  - dropdown_items:
-    - label: "v1.0.2"
-      url: "https://github.com/manid2/lone-wolf-theme/releases/tag/v1.0.2"
-      fa_icon: "fas fa-arrow-down"
+#action_btn:
+#  - label: "Download"
+#    fa_icon : "fas fa-download"
+#    class: "btn btn-lg btn-success"
+#    url: "https://github.com/manid2/lone-wolf-theme/releases/latest"
+#  - dropdown: false
+#  - dropdown_items:
+#    - label: "v1.0.2"
+#      url: "https://github.com/manid2/lone-wolf-theme/releases/tag/v1.0.2"
+#      fa_icon: "fas fa-arrow-down"
 
 feature_rows:
   - title: "about"
