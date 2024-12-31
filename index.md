@@ -85,8 +85,9 @@ feature_rows:
 - [Power On English Language](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Deutsche Sprache Aktivieren](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Andere Sprachen verwenden](https://translate.google.com/?hl=de&sl=auto&tl=de&op=websites) (bitte geben sie da die Webseite: viktor-chiarcos.github.io ein)
-- [Error Demo öffnen](http://viktor-chiarcos.github.io/404-error/demonstraion)
+- [404-Error Demonstration öffnen](http://viktor-chiarcos.github.io/404-error/demonstraion)
 - ## Software: ViktorOS 2.0
+- [Änderungen Vornehmen](https://chat.whatsapp.com/CggRJX5SJn8FMcLwCfd8VJ)
 
 # Mitteilungen (Werden maximal 2 Tage Gelagert):
 - ***Abteil Technik: Terminal Unterstützung: Dateien öffnen: Hinweis Bereit zum verwenden*** (2024-12-30, 17:50) 
@@ -98,6 +99,7 @@ feature_rows:
 - ***Abteil Homepage: Settings: Deutsche Sprache Hinzugefügt: Google Translate ist Betriebsbereit*** (2024-12-30, 19:50)
 - ***Abteil Homepage: Settings: Viele Sonstigen Sprachen erlaubt: Google Translate ist Betriebsbereit*** (2024-12-30, 20:04)
 - ***Aktion Abgebrochen: Abteil Homepage: Miteilungen:Mitteilungen werden an volgender Zeit 2024-12-31,12:00 gelöscht***(2024-12-30, 20:50)
+- ***Software ViktorOS 2 Update: ViktorOS 2 ist aktuell in verarbeitung...*** (unnknow time)
 - ## Ab hier ist Silvester Datenschutz: Inhalte werden An diesem Tag ohne Uhrzeit geschrieben
 - ***Update ViktorOS 1.5 aktualisiert*** **(SILVESTER 2024)**
 - ***Zukunft: bald ist der Code Von der Webseite verfügbar*** **(SILVESTR 2024)**
