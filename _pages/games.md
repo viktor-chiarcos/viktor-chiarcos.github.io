@@ -1,10 +1,8 @@
-# Spiele
+---
+layout: page
+title: "Spiele mit Andre"
+excerpt: "Spiele mit Andre"
+permalink: /games/Ich-Spiele-mit-Andre-Zusammen/
+---
 
----
-- layout: "page"
-- title: "Spiele mit Andre"
-  excerpt: "Spiele mit Andre"
-  url: "games/Ich-Spiele-mit-Andre-Zusammen/"
-  img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
-  img_alt: "Spiele mit Andre"
----
+# Spiele
