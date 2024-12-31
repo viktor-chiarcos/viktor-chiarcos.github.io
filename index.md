@@ -63,10 +63,7 @@ feature_rows:
     url: "/ice/"
     img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
     img_alt: "Eiskunstlauf"
- -  title: Code auflösung
-    url: "/code.web/"
-    img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
-    img_alt: "Als Code Anzeigen"
+ 
     
 ---
 -->
@@ -94,8 +91,8 @@ feature_rows:
 - ***Abteil Homepage: Settings: Viele Sonstigen Sprachen erlaubt: Google Translate ist Betriebsbereit*** (2024-12-30, 20:04)
 - ***Aktion Abgebrochen: Abteil Homepage: Miteilungen:Mitteilungen werden an volgender Zeit 2024-12-31,12:00 gelöscht***(2024-12-30, 20:50)
 - ## Ab hier ist Silvester Datenschutz: Inhalte werden An diesem Tag ohne Uhrzeit geschrieben
-- ***Update ViktorOS 1.5 aktualisiert*** **SILVESTER 2024**
-
+- ***Update ViktorOS 1.5 aktualisiert*** **(SILVESTER 2024)**
+- ***Zukunft: bald ist der Code Von der Webseite verfügbar*** **(SILVESTR 2024)**
   
 &nbsp;
 
