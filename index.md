@@ -78,7 +78,7 @@ feature_rows:
 - [Power On English Language](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Deutsche Sprache Aktivieren](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Andere Sprachen verwenden](https://translate.google.com/?hl=de&sl=auto&tl=de&op=websites) (bitte geben sie da die Webseite: viktor-chiarcos.github.io ein)
-- [Error Demo öffnen](http://viktor-chiarcos.github.io/error)
+- [Error Demo öffnen](http://viktor-chiarcos.github.io/404-error/demonstraion)
 - ## Software: ViktorOS 2.0
 
 # Mitteilungen (Werden maximal 2 Tage Gelagert):
