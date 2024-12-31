@@ -87,7 +87,7 @@ feature_rows:
 - [Andere Sprachen verwenden](https://translate.google.com/?hl=de&sl=auto&tl=de&op=websites) (bitte geben sie da die Webseite: viktor-chiarcos.github.io ein)
 - [404-Error Demonstration öffnen](http://viktor-chiarcos.github.io/404-error/demonstraion)
 - ## Software: ViktorOS 2.0
-- [Änderungen Vornehmen](https://chat.whatsapp.com/CggRJX5SJn8FMcLwCfd8VJ)
+- [Änderungen Vorschlagen und Vornehmen, Kommentare Senden und Webseite Bewerten](https://chat.whatsapp.com/CggRJX5SJn8FMcLwCfd8VJ)
 
 # Mitteilungen (Werden maximal 2 Tage Gelagert):
 - ***Abteil Technik: Terminal Unterstützung: Dateien öffnen: Hinweis Bereit zum verwenden*** (2024-12-30, 17:50) 
