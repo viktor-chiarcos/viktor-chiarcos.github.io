@@ -20,13 +20,13 @@ header:
     description: "Meine Linkliste"
   - title: "Buch"
     url: "/buch/"
-    descripton: "Das ist das Buch das ich schreibe"
+    description: "Das ist das Buch das ich schreibe"
   - title: "Linux"
     url: "/linux/"
-    descripton: "Mein Computer Buch"
-  - title: "GitHub
+    description: "Mein Computer Buch"
+  - title: "GitHub"
     url: "/github/"
-    descripton: ""
+    description: ""
     
 # footer links
 footer:
