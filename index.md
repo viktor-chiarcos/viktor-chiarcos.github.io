@@ -76,6 +76,9 @@ feature_rows:
 -->
 
 
+![](Entwurf/Viktor-Studio-2025.jpg)
+
+
 ![](Entwurf/herzlich-willkommen.jpg)
 
 ![](Entwurf/hallo.jpg)
