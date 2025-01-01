@@ -24,6 +24,9 @@ header:
   - title: "Linux"
     url: "Linux"
     descripton: "Mein Computer Buch"
+  - title: "GitHub
+    url: "/GitHub/"
+    descripton: ""
     
 # footer links
 footer:
