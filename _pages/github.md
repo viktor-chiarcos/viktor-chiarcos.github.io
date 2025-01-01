@@ -8,5 +8,4 @@ permalink: /github/
 
 Kontoübersicht:
 
-- [dfghjk](github/viktor-chiarcos)
-- [fhgjkl](viktor-chiarcos)
+- [viktor.chiarcos@outlook.de-viktor-chiarcos@github](viktor-chiarcos)
