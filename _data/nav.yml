@@ -21,6 +21,9 @@ header:
   - title: "Buch"
     url: "/buch/"
     descripton: "Das ist das Buch das ich schreibe"
+  - title: "Linux"
+    url: "Linux"
+    descripton: "Mein Computer Buch"
     
 # footer links
 footer:
