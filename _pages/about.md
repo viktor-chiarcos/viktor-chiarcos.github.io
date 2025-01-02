@@ -16,7 +16,7 @@ permalink: /about/
 ## - 🇩🇪 Hallo, ich bin @viktor-chiarcos
 ## - 👀 Ich interessiere mich für Elektronik
 ## - 🌱 Ich lerne gerade Stromkreise Programmieren
-## - 💞️ Ich möchte mitarbeiten an Programmem
+## - 💞️ Ich möchte mitarbeiten an Programmen
 ## - 📫 So erreichen Sie mich über [meinen Papa](https://github.com/chiarcos)
 ## - 😄 Typ: Junge
 ## - ❤️ Spaßfakt: Ich habe schon im Kindergarten Geräte aus Papier gebastelt.
