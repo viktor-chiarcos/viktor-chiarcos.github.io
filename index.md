@@ -3,7 +3,7 @@ layout: home
 permalink: /
 
 title: "Viktors Webseite"
-excerpt: "A simple bootstrap based jekyll theme."
+excerpt: "Willkommen bei mir"
 action: true
 #action_btn:
 #  - label: "Download"
@@ -17,21 +17,21 @@ action: true
 #      fa_icon: "fas fa-arrow-down"
 
 feature_rows:
-  - title: "about"
-    excerpt: "List of apps."
+  - title: "Über mich"
+    excerpt: "Ich bin Viktor"
     url: "/about/"
-    img_path: "Entwurf/hallo.jpg"
-    img_alt: "Apps"
-  - title: "Blog"
-    excerpt: "List of recent blogs.."
-    url: "/blog/"
-    img_path: "/Entwurf/hallo.jpg"
-    img_alt: "Blog"
+    #img_path: "Entwurf/hallo.jpg"
+    #img_alt: "Apps"
+  - title: "Eiskunstlauf"
+    excerpt: "Ich bin Eiskunstläufer"
+    url: "/ice/"
+    #img_path: "/Entwurf/hallo.jpg"
+    #img_alt: "Blog"
   - title: "Technik"
-    excerpt: "TODO items."
+    excerpt: "Ich interessiere mich für Technik"
     url: "/tech/"
-    img_path: "/Entwurf/hallo.jpg"
-    img_alt: "Todo"
+    #img_path: "/Entwurf/hallo.jpg"
+    #img_alt: "Todo"
 ---
 
 
