@@ -6,8 +6,14 @@ permalink: /about/
 
 # Hallo, Ich bin Viktor
 
-![](../Entwurf/VIKTOR-WEBBILD.jpg)
 
+<!-- mit automatischer skalierung -->
+<img src="../Entwurf/VIKTOR-WEBBILD.jpg" alt="Bild: Das bin ich" style="width: 75%;" />
+
+
+<!--
+![](../Entwurf/VIKTOR-WEBBILD.jpg)
+-->
 
 <!-- 
 	Ich bin der Host von der Webseite weil sie mir gehört
