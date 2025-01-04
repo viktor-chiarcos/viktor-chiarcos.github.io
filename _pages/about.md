@@ -8,8 +8,9 @@ permalink: /about/
 
 
 <!-- mit automatischer skalierung -->
-<img src="../Entwurf/VIKTOR-WEBBILD.jpg" alt="Bild: Das bin ich" style="width: 75%;text-align: center;" />
-
+<div style="text-align: center;">
+	<img src="../Entwurf/VIKTOR-WEBBILD.jpg" alt="Bild: Das bin ich" style="width: 75%;text-align: center;" />
+</div>
 
 <!--
 ![](../Entwurf/VIKTOR-WEBBILD.jpg)
