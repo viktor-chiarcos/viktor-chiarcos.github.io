@@ -55,4 +55,8 @@ Ich interessiere mich für Technik.
 
 
 
+![](../assets/images/2024-11-23-graphz.jpg)
+
+<!-- 
 ![](../assets/images/2024-11-23-wir-lernen-git.jpg)
+-->
