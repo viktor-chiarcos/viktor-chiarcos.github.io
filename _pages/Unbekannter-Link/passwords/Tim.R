@@ -4,10 +4,10 @@ title: "Deine Anmeldedaten"
 permalink: /open-link/passwords/Tim.R/
 ---
 
-    E-Mail: rybkintimofey28@googlemail.com
+    $ E-Mail: rybkintimofey28@googlemail.com
     oder
-    E-Mail: rybkintimofey28@googlemail.com
+    $ E-Mail: rybkintimofey28@googlemail.com
 
-    Username: Tim.R
+    $ Username: Tim.R
 
-    Password: T1m0fey
+    $ Password: T1m0fey
