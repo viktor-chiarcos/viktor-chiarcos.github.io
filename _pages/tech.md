@@ -9,6 +9,8 @@ Ich interessiere mich für Technik.
 - Mit [ZNATOK](https://znatok.ru) baue ich Schaltkreise und programmiere sie mit [GraphZ](https://znatok.ru/files/arduino_mobile/Znatok-Arduino-Mobile-Graph-Z-Manual-Rus_1.pdf)
 - Mit meinem Raspberry Pi 5 erkunde ich Linux 
 
+![](../assets/images/2024-10-13-technoseum.jpg)
+
 # Linux Terminal 
 
 ## Wie kann ich ein Verzeichnis  öffnen?
@@ -50,3 +52,7 @@ Ich interessiere mich für Technik.
 
 - Meine [GraphZ](https://znatok.ru/link/?start-graphz))-Schaltkreise auf [GitHub](https://github.com/viktor-chiarcos/GraphZ)
 - Check out my [ZNATOK programming shows](https://www.youtube.com/playlist?list=PLSWV8OnoemY7cPA46sp0pD5PcdmatZXrN)
+
+
+
+![](../assets/images/2024-11-23-wir-lernen-git.jpg)
