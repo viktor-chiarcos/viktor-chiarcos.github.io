@@ -9,7 +9,7 @@ Ich interessiere mich für Technik.
 - Mit [ZNATOK](https://znatok.ru) baue ich Schaltkreise und programmiere sie mit [GraphZ](https://znatok.ru/files/arduino_mobile/Znatok-Arduino-Mobile-Graph-Z-Manual-Rus_1.pdf)
 - Mit meinem Raspberry Pi 5 erkunde ich Linux 
 
-<img src="../assets/images/2024-10-13-technoseum-ausschnitt.jpg" alt="Bild: GraphZ-Programmierung" style="height: 75%;" />
+<img src="../assets/images/2024-10-13-technoseum-ausschnitt.jpg" alt="Bild: GraphZ-Programmierung" style="width: 75%;" />
 
 
 <!--
@@ -60,7 +60,7 @@ Ich interessiere mich für Technik.
 
 <!-- mit automatischer skalierung -->
 
-<img src="../assets/images/2024-11-23-graphz.jpg" alt="Bild: GraphZ-Programmierung" style="height: 60%;" />
+<img src="../assets/images/2024-11-23-graphz.jpg" alt="Bild: GraphZ-Programmierung" style="width: 60%;" />
 
 <!--
 ![](../assets/images/2024-11-23-graphz.jpg)
