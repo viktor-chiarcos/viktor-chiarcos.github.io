@@ -89,11 +89,17 @@ feature_rows:
 - [Andere Sprachen verwenden](https://translate.google.com/?hl=de&sl=auto&tl=de&op=websites) (bitte geben sie da die Webseite: viktor-chiarcos.github.io ein)
 - [404-Error Demonstration öffnen](http://viktor-chiarcos.github.io/404-error/demonstraion)
 
-- ## Software: ViktorOS 2.2
+- ## Software: ViktorOS 2.5
 
 Das ist die Version der Webseite ;)
 
 - [Änderungen Vorschlagen und Vornehmen, Kommentare Senden und Webseite Bewerten](https://chat.whatsapp.com/CggRJX5SJn8FMcLwCfd8VJ)
+
+&nbsp;
+
+# Mich treffen
+- [erste möglichkeit](https://meet.google.com/qdp-pqtz-fso)
+- [zweite möglichkeit](https://telemost.yandex.ru/j/48912595575715)
 
 # Mitteilungen (Werden maximal 7 Tage Gelagert)
 
