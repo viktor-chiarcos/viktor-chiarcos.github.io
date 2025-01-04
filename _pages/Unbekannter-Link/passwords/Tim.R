@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Deine Anmeldedaten"
-permalink: /open-link/passwords/Tim.R/
+permalink: ../open-link/passwords/Tim.R/
 ---
 
     $ E-Mail: rybkintimofey28@googlemail.com
