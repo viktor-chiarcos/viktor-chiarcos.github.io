@@ -7,7 +7,7 @@ permalink: /games/
 
 &nbsp;
 
-##  Spiele mit Andre
+##  Spiele mit meinem Bruder André
 
 ![](../assets/images/viktor-und-andre.png)
 
