@@ -176,5 +176,5 @@ defaults:
       path: ""
     values:
       # for SEO and social sharing
-      image: assets/images/lwt-logo-wolf-v2.png
-      image_alt: Lone Wolf Theme logo version 2
+      image: assets/images/logo.jpg # lwt-logo-wolf-v2.png
+      image_alt: Viktor on Ice
