@@ -13,7 +13,7 @@ header:
     url: "/ice/"
     description: "Ich bin Eiskunstläufer"
   - title: "Spiele"
-    url: "/games/Ich-Spiele-mit-Andre-Zusammen/"
+    url: "/games/" #Ich-Spiele-mit-Andre-Zusammen/"
     description: "Spiele mit meinem Bruder"
   #- title: "Links"
   #  url: "/links/"
@@ -31,7 +31,7 @@ header:
 # footer links
 footer:
   - owner: "Viktor Chiarcos"
-    url: # link if any
+    url: "https://github.com/viktor-chiarcos"
     description: # tool tip for your url
     bio: "I am awesome" # short bio
     address: # location
