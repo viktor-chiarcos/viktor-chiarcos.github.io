@@ -60,7 +60,7 @@ Ich interessiere mich für Technik.
 
 <!-- mit automatischer skalierung -->
 
-<img src="../assets/images/2024-11-23-graphz.jpg" alt="Bild: GraphZ-Programmierung" style="max-height: 75%;" />
+<img src="../assets/images/2024-11-23-graphz.jpg" alt="Bild: GraphZ-Programmierung" style="height: 60%;" />
 
 <!--
 ![](../assets/images/2024-11-23-graphz.jpg)
