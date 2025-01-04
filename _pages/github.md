@@ -4,6 +4,8 @@ title: "GitHub"
 permalink: /github/
 ---
 
+![](../assets/images/2024-11-23-wir-lernen-git.jpg)
+
 Zusammen mit meiner Familie sind wir auf GitHub:
 
 - [viktor-chiarcos](viktor-chiarcos)
