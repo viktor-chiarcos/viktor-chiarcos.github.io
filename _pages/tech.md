@@ -9,7 +9,7 @@ Ich interessiere mich für Technik.
 - Mit [ZNATOK](https://znatok.ru) baue ich Schaltkreise und programmiere sie mit [GraphZ](https://znatok.ru/files/arduino_mobile/Znatok-Arduino-Mobile-Graph-Z-Manual-Rus_1.pdf)
 - Mit meinem Raspberry Pi 5 erkunde ich Linux 
 
-![](../assets/images/2024-10-13-technoseum.jpg)
+![](../assets/images/2024-10-13-technoseum-ausschnitt.jpg)
 
 # Linux Terminal 
 
