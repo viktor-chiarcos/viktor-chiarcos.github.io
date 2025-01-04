@@ -54,7 +54,6 @@ Ich interessiere mich für Technik.
 - Check out my [ZNATOK programming shows](https://www.youtube.com/playlist?list=PLSWV8OnoemY7cPA46sp0pD5PcdmatZXrN)
 
 
-
 ![](../assets/images/2024-11-23-graphz.jpg)
 
 <!-- 
