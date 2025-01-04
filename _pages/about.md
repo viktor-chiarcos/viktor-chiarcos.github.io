@@ -9,7 +9,7 @@ permalink: /about/
 
 <!-- mit automatischer skalierung -->
 <div style="text-align: center;">
-	<img src="../Entwurf/VIKTOR-WEBBILD.jpg" alt="Bild: Das bin ich" style="width: 75%;text-align: center;" />
+	<img src="../Entwurf/VIKTOR-WEBBILD.jpg" alt="Bild: Das bin ich" style="height: 75%;text-align: center;" />
 </div>
 
 <!--

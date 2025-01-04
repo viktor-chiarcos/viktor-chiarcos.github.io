@@ -8,6 +8,8 @@ permalink: /github/
 	<img src="../assets/images/2024-11-23-wir-lernen-git.jpg" alt="Bild: wir lernen git" style="width: 75%" />
 </div>
 
+&nbsp;
+
 Zusammen mit meiner Familie sind wir auf GitHub:
 
 - [viktor-chiarcos](viktor-chiarcos)
