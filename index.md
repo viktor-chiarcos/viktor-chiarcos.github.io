@@ -98,9 +98,10 @@ Das ist die Version der Webseite ;)
 &nbsp;
 
 # Mich treffen
+
+- [Bitte benachrichtigen (Bitte schreiben sie die nachricht: Hallo ich bin ..., Ich will Telefonieren und verwende die ... möglichkeit)](https://chat.whatsapp.com/CggRJX5SJn8FMcLwCfd8VJ)
 - [erste möglichkeit](https://meet.google.com/qdp-pqtz-fso)
 - [zweite möglichkeit](https://telemost.yandex.ru/j/48912595575715)
-- [Bitte benachrichtigen (Bitte schreiben sie die nachricht: Hallo ich bin ..., Ich will Telefonieren und verwende die ... möglichkeit)](https://chat.whatsapp.com/CggRJX5SJn8FMcLwCfd8VJ)
 
 # Mitteilungen (Werden maximal 7 Tage Gelagert)
 
