@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "Bestätigungscodes"
-permalink: /open-link/Tim.R
+permalink: /open-link/bestaetigungscodes/Tim.R
 ---
