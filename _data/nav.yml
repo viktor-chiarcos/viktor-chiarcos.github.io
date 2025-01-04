@@ -27,6 +27,9 @@ header:
   - title: "GitHub"
     url: "/github/"
     description: ""
+  - title: "Link öffnen"
+    url: "/open-link/"
+    descripton: ""
     
 # footer links
 footer:
