@@ -4,7 +4,8 @@ title: "GitHub"
 permalink: /github/
 ---
 
-![](../assets/images/2024-11-23-wir-lernen-git.jpg)
+
+<img src="../assets/images/2024-11-23-wir-lernen-git.jpg" alt="Bild: wir lernen git" style="width: 100%; height: 20%;" />
 
 Zusammen mit meiner Familie sind wir auf GitHub:
 
