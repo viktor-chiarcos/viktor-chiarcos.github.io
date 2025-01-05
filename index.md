@@ -73,13 +73,31 @@ feature_rows:
 ---
 -->
 
-
+<!-- 
 ![](Entwurf/Viktor-Studio-2025.jpg)
+-->
+
+<div style="text-align: center;">
+        <img src="Entwurf/Viktor-Studio-2025.jpg" alt="Bild: Frohes Neues Jahr!" style="width: 80%" />
+</div>
 
 
+<!--
 ![](Entwurf/herzlich-willkommen.jpg)
+-->
 
+<div style="text-align: center;">
+        <img src="Entwurf/herzlich-willkommen.jpg" alt="Bild: Herzlich Willkommen!" style="width: 80%" />
+</div>
+
+<!--
 ![](Entwurf/hallo.jpg)
+-->
+
+<div style="text-align: center;">
+        <img src="Entwurf/hallo.jpg" alt="Bild: Hallo liebe Gäste" style="width: 80%" />
+</div>
+
 
 # Settings
 
