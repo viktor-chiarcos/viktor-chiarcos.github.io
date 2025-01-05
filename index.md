@@ -124,8 +124,8 @@ Das ist die aktuelle Version der Webseite ;)
 # Mich treffen
 
 - [Bitte benachrichtigen (Bitte schreiben Sie die Nachricht: "Hallo ich bin ..., Ich will telefonieren und möchte folgende Möglichkeit verwenden")](https://chat.whatsapp.com/CggRJX5SJn8FMcLwCfd8VJ)
-  - [erste Möglichkeit (Google)](https://meet.google.com/qdp-pqtz-fso)
-  - [zweite Möglichkeit (Yandex)](https://telemost.yandex.ru/j/48912595575715)
+  - [Google(erste Möglichkeit))](https://meet.google.com/qdp-pqtz-fso)
+  - [Yandex (Zweite Möglichkeit)](https://telemost.yandex.ru/j/48912595575715)
 
 # Mitteilungen (Werden maximal 7 Tage Gelagert)
 
