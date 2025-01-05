@@ -78,7 +78,7 @@ feature_rows:
 -->
 
 <div style="text-align: center;">
-        <img src="Entwurf/Viktor-Studio-2025.jpg" alt="Bild: Frohes Neues Jahr!" style="width: 80%" />
+        <img src="Entwurf/Viktor-Studio-2025.jpg" alt="Bild: Frohes Neues Jahr!" style="width: 100%" />
 </div>
 
 
@@ -87,7 +87,7 @@ feature_rows:
 -->
 
 <div style="text-align: center;">
-        <img src="Entwurf/herzlich-willkommen.jpg" alt="Bild: Herzlich Willkommen!" style="width: 80%" />
+        <img src="Entwurf/herzlich-willkommen.jpg" alt="Bild: Herzlich Willkommen!" style="width: 100%" />
 </div>
 
 <!--
@@ -95,7 +95,7 @@ feature_rows:
 -->
 
 <div style="text-align: center;">
-        <img src="Entwurf/hallo.jpg" alt="Bild: Hallo liebe Gäste" style="width: 80%" />
+        <img src="Entwurf/hallo.jpg" alt="Bild: Hallo liebe Gäste" style="width: 100%" />
 </div>
 
 
