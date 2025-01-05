@@ -51,7 +51,7 @@ Ich interessiere mich für Technik.
 - Benutzer, die keine Administratorrechte haben, können `sudo` nicht verwenden
 - Mit `sudo` kannst du: Apps installieren, Herrunterfahren, Zugrifsrechte von anderen Personen Verwenden, Benutzer Hinzufügen und vieles mehr
 - Zum Beispiel:
-    chiarcos_viktor@>Linux-Viktor:~ $ sudo adduser neue-person-1
+    chiarcos_viktor@Linux-Viktor:~ $ sudo adduser neue-person-1
 
 
 &nbsp;
@@ -78,10 +78,10 @@ Geben Sie ein neues Passwort ein:
      Vollständiger Name []:
     	Zimmernummer []:
       Telefon geschäftlich []:
-    Telefon privat []:
-    Sonstiges []: 
+      Telefon privat []:
+      Sonstiges []: 
 - Dannach fragt er mich ob die Info korrekt ist:
-    Sind die Informationen korrekt? [J/n]
+     Sind die Informationen korrekt? [J/n]
 - Wenn Ja dann Drücken sie ENTER
 - Wenn Nein dann schreiben sie n
 
