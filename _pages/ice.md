@@ -15,7 +15,7 @@ Ich bin Eiskunstläufer, ich lade hier Bilder hoch, manche habe ich gemalt und m
 -->
 
 <div style="text-align: center;">
-<img src="Viktor-Platz-1.jpg" alt="Bild: Platz 1 in meiner Gruppe, gemalt" style="width: 60%;text-align: center;" />
+<img src="../Entwurf/Viktor-Platz-1.jpg" alt="Bild: Platz 1 in meiner Gruppe, gemalt" style="width: 60%;text-align: center;" />
 </div>
 
 
@@ -25,5 +25,5 @@ Ich bin Eiskunstläufer, ich lade hier Bilder hoch, manche habe ich gemalt und m
 -->
 
 <div style="text-align: center;">
-<img src="ice-platz-1.jpg" alt="Bild: Platz 1 in meiner Gruppe, Foto" style="width: 60%;text-align: center;" />
+<img src="../Entwurf/ice-platz-1.jpg" alt="Bild: Platz 1 in meiner Gruppe, Foto" style="width: 60%;text-align: center;" />
 </div>
