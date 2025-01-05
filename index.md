@@ -138,7 +138,7 @@ Das ist die aktuelle Version der Webseite ;)
 - ***Aktion Abgebrochen: Abteil Homepage: Miteilungen:Mitteilungen werden an volgender Zeit 2024-12-31,12:00 gelöscht***(2024-12-30, 20:50)
 - ***Software ViktorOS 2 Update: ViktorOS 2 ist aktuell in verarbeitung...*** (unnknow time)
 
-- ## Ab hier ist Silvester
+## Ab hier ist Silvester
 
 Datenschutz: Inhalte werden An diesem Tag ohne Uhrzeit geschrieben
 
@@ -146,14 +146,18 @@ Datenschutz: Inhalte werden An diesem Tag ohne Uhrzeit geschrieben
 - ***Zukunft: Bald ist der Code von der Webseite verfügbar*** **(SILVESTER 2024)**
 - ***Error Seite ganz anderes Design + Demo in Einstellungen ausführbar*** **(SILVESTER 2024)**
 
-- ## Softwareupdate: ViktorOS 2.0 (SILVESTER 2024)
+## Softwareupdate: ViktorOS 2.0 (SILVESTER 2024)
 
+Das ist die erste Version der Webseite.
+
+<!--
 &nbsp;
 
    Das ist noch eine Baustelle.
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/58/Hinweissignal_Baustelle.png)
+--
 
 <!-- 
 # Was hierher soll
