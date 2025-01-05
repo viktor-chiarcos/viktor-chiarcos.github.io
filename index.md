@@ -99,7 +99,9 @@ feature_rows:
 </div>
 
 
-# Settings
+<!--
+
+# Sprache
 
 - [включить Русский Язик](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Power On English Language](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp)
@@ -107,9 +109,11 @@ feature_rows:
 - [Andere Sprachen verwenden](https://translate.google.com/?hl=de&sl=auto&tl=de&op=websites) (bitte geben sie da die Webseite: viktor-chiarcos.github.io ein)
 - [404-Error Demonstration öffnen](http://viktor-chiarcos.github.io/404-error/demonstraion)
 
+-->
+
 - ## Software: ViktorOS 2.5
 
-Das ist die Version der Webseite ;)
+Das ist die aktuelle Version der Webseite ;)
 
 - [Änderungen Vorschlagen und Vornehmen, Kommentare Senden und Webseite Bewerten](https://chat.whatsapp.com/CggRJX5SJn8FMcLwCfd8VJ)
 
@@ -117,9 +121,9 @@ Das ist die Version der Webseite ;)
 
 # Mich treffen
 
-- [Bitte benachrichtigen (Bitte schreiben sie die nachricht: Hallo ich bin ..., Ich will Telefonieren und verwende die ... möglichkeit)](https://chat.whatsapp.com/CggRJX5SJn8FMcLwCfd8VJ)
-- [erste möglichkeit](https://meet.google.com/qdp-pqtz-fso)
-- [zweite möglichkeit](https://telemost.yandex.ru/j/48912595575715)
+- [Bitte benachrichtigen (Bitte schreiben Sie die Nachricht: "Hallo ich bin ..., Ich will telefonieren und möchte folgende Möglichkeit verwenden")](https://chat.whatsapp.com/CggRJX5SJn8FMcLwCfd8VJ)
+  - [erste Möglichkeit (Google)](https://meet.google.com/qdp-pqtz-fso)
+  - [zweite Möglichkeit (Yandex)](https://telemost.yandex.ru/j/48912595575715)
 
 # Mitteilungen (Werden maximal 7 Tage Gelagert)
 
@@ -147,6 +151,7 @@ Datenschutz: Inhalte werden An diesem Tag ohne Uhrzeit geschrieben
 &nbsp;
 
    Das ist noch eine Baustelle.
+
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/58/Hinweissignal_Baustelle.png)
 

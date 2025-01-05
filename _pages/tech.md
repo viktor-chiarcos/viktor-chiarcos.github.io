@@ -57,33 +57,48 @@ Ich interessiere mich für Technik.
 &nbsp;
 
 # Wie kann ich einen Benutzer Hinzufügen?
-- Wenn du einen Benutzer Hinzufügen willst soltest du dir einen Nutzernamen überlegen
+
+- Wenn du einen Benutzer hinzufügen willst soltest du dir einen Nutzernamen überlegen
 - Dannach gibst du den Befehl ein:
-    chiarcos_viktor@Linux-Viktor:~ $ adduser neue-person-1
+
+    	chiarcos_viktor@Linux-Viktor:~ $ adduser neue-person-1
+
 - adduser gibt eine Rückmeldung:
-    adduser: Nur root darf Benutzer oder Gruppen zum System hinzufügen.
+
+    	adduser: Nur root darf Benutzer oder Gruppen zum System hinzufügen.
+
 - Wir haben gelernt wofür man sudo braucht.
 - bevor sie adduser schreiben setzen sie sudo.
 - nächster versuch:
-    chiarcos_viktor@Linux-Viktor:~ $ sudo adduser neue_person_eins
+    
+    	chiarcos_viktor@Linux-Viktor:~ $ sudo adduser neue_person_eins
+
 - Also es geht:
-    Lege Benutzer »neue_person_eins« an ...
-Lege neue Gruppe »neue_person_eins« (1003) an ...
-Lege neuen Benutzer »neue_person_eins« (1003) mit Gruppe »neue_person_eins« (1003) an ...
-Erstelle Home-Verzeichnis »/home/neue_person_eins« ...
-Kopiere Dateien aus »/etc/skel« ...
-Geben Sie ein neues Passwort ein:
-- Zu ihrer Sicherheit Wird die Passworteingabe nicht angezeigt
+    
+    	Lege Benutzer »neue_person_eins« an ...
+		Lege neue Gruppe »neue_person_eins« (1003) an ...
+		Lege neuen Benutzer »neue_person_eins« (1003) mit Gruppe »neue_person_eins« (1003) an ...
+		Erstelle Home-Verzeichnis »/home/neue_person_eins« ...
+		Kopiere Dateien aus »/etc/skel« ...
+		Geben Sie ein neues Passwort ein:
+
+	Zu ihrer Sicherheit Wird die Passworteingabe nicht angezeigt
+
 - Wenn sie das Passwort eingegeben haben kommt diese Rückmeldung:
-     Vollständiger Name []:
-    	Zimmernummer []:
-      Telefon geschäftlich []:
-      Telefon privat []:
-      Sonstiges []: 
+
+	     Vollständiger Name []:
+	   	 Zimmernummer []:
+	     Telefon geschäftlich []:
+	     Telefon privat []:
+	     Sonstiges []: 
+
 - Dannach fragt er mich ob die Info korrekt ist:
-     Sind die Informationen korrekt? [J/n]
-- Wenn Ja dann Drücken sie ENTER
-- Wenn Nein dann schreiben sie n
+
+	     Sind die Informationen korrekt? [J/n]
+
+- Wenn Ja dann Drücken sie `<ENTER>`
+
+- Wenn Nein dann schreiben sie `n`
 
   ***ENDE*** 
 
