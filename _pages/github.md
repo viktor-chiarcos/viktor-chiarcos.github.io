@@ -13,7 +13,6 @@ permalink: /github/
 Zusammen mit meiner Familie sind wir auf GitHub:
 
 - [viktor-chiarcos](viktor-chiarcos)
-- Mein Papa hat [ein paar persönliche Repos](https://github.com/chiarcos)
-- ... und [ganz viele von der Arbeit](https://github.com/acoli-repo/)
-- Und meine Mama ist [auch bei GitHub](https://github.com/chia01)  
+  - [chiarcos](https://github.com/chiarcos)
+  - [chia01](https://github.com/chia01)  
 
