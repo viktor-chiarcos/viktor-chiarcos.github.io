@@ -12,3 +12,4 @@ excerpt: ""
 - [Afar](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=de&_x_tr_tl=aa&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Afrikaan](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=de&_x_tr_tl=af&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Albanisch](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=de&_x_tr_tl=sq&_x_tr_hl=de&_x_tr_pto=wapp)
+- [Alur](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sch=http&_x_tr_sl=de&_x_tr_tl=alz&_x_tr_hl=de&_x_tr_pto=wapp)
