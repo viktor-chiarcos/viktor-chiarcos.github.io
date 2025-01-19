@@ -14,3 +14,4 @@ excerpt: ""
 - [Albanisch](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=de&_x_tr_tl=sq&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Alur](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sch=http&_x_tr_sl=de&_x_tr_tl=alz&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Amharisch](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=de&_x_tr_tl=am&_x_tr_hl=de&_x_tr_pto=wapp)
+- [Arabisch](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=de&_x_tr_tl=ar&_x_tr_hl=de&_x_tr_pto=wapp)
