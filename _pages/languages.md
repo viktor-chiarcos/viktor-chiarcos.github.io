@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /lamguages/
+permalink: /languages/
 title: ""
 excerpt: ""
 ---
