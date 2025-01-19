@@ -10,3 +10,4 @@ excerpt: ""
 - [aceh](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=ace&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Acholi](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=de&_x_tr_tl=ach&_x_tr_hl=de&_x_tr_pto=wapp)
 - [Afar](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=de&_x_tr_tl=aa&_x_tr_hl=de&_x_tr_pto=wapp)
+- [Afrikaan](https://viktor--chiarcos-github-io.translate.goog/?_x_tr_sl=de&_x_tr_tl=af&_x_tr_hl=de&_x_tr_pto=wapp)
