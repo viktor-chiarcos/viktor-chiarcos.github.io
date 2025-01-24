@@ -49,8 +49,8 @@ footer:
   - owner: "Viktor Chiarcos"
     url: "https://github.com/viktor-chiarcos"
     description: # tool tip for your url
-    bio: "32 Bahnhofstraße, Ladenburg, Baden Würtemberg, Deutschland, Europa, Erde" # short bio
-    address: # location
+    bio: " # short bio
+    address: "32 Bahnhofstraße, Ladenburg, Baden Würtemberg, Deutschland"
   - social:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
