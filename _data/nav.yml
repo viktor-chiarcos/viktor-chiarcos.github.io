@@ -43,8 +43,7 @@ header:
     url: "/Sprachen/"
     descripton: ""
     
-    
-# footer links
+    # footer links
 footer:
   - owner: "Viktor Chiarcos"
     url: "https://github.com/viktor-chiarcos"
