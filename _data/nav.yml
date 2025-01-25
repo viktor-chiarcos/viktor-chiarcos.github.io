@@ -47,8 +47,8 @@ header:
 footer:
   - owner: "Viktor Chiarcos"
     url: "https://github.com/viktor-chiarcos"
-    description: # tool tip for your url
-    bio: " # short bio
+    description: "" # tool tip for your url
+    bio: "" # short bio
     address: "32 Bahnhofstraße, Ladenburg, Baden Würtemberg, Deutschland"
   - social:
     - label: "GitHub"
