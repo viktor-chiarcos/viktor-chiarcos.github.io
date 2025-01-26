@@ -58,13 +58,13 @@ Ich habe kurz meine Sprünge gesprungen, Meine Kür durchgegangen und noch die D
 
    ***Reihnfolge:***
 
-| wann | was |
-| ---- | --- |
-| Als erstes | Aufwährmungsübungen |
-| Als zweites|  Sprünge |
-| Als drittes| Drehungen |
-| Als viertes| Kür laufen | 
-| Als fünftes| Dehnen |
+|wann | was |
+|-----|-----|
+|Als erstes |Aufwährmungsübungen|
+|Als zweites|Sprünge|
+|Als drittes|Drehungen|
+|Als viertes|Kür laufen| 
+|Als fünftes|Dehnen|
 
 ## Kapitel 3: Der Auftritt 
 
@@ -73,9 +73,10 @@ Nach dem ***Aufwärmen*** musste ich aufs Eis
 ***Reihnfolge:***
 
 |Was | Was habe ich gemacht|
+|----|---------------------|
 |Als Erstes habe ich | Mich Angezogen|
-|Dannach bin ich | Aufs Eis gegangen |
-|Anschließend hat Andre versuchte Hasen zu mir zu werfen aber hat ihn nur |auf den Boden geworfen. |
+|Dannach bin ich | Aufs Eis gegangen|
+|Anschließend hat Andre versuchte Hasen zu mir zu werfen aber hat ihn nur |auf den Boden geworfen.|
 |Als ich meine Kür gelaufen habe|Bekam ich ein Flauschihasen|
 
 
@@ -86,8 +87,9 @@ Weil ich der einzige Junge in der Kategorie war hatte ich natürlich den # 1.PLA
 
 
 |Was | Welcher|
+|----|--------|
 |Platz| Erster|
-|Punkte| 20 |
+|Punkte|20|
 |Vergleich mit Mädchen |Nicht der schlechteste|
 
 
