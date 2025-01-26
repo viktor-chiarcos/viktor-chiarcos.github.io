@@ -58,19 +58,20 @@ Ich habe kurz meine Sprünge gesprungen, Meine Kür durchgegangen und noch die D
 
    ***Reihnfolge:***
 
----
-Als erstes: "Aufwährmungsübungen"
-Als zweites: "Sprünge"
-Als drittes: "Drehungen"
-Als viertes: "Kür laufen"
-Als fünftes: "Dehnen"
---- 
+| wann | was |
+| ---- | --- |
+| Als erstes: | "Aufwährmungsübungen" |
+| Als zweites: | "Sprünge" |
+| Als drittes: | "Drehungen" |
+| Als viertes: | "Kür laufen" | 
+| Als fünftes: | "Dehnen" |
 
 ## Kapitel 3: Der Auftritt 
 
 Nach dem ***Aufwärmen*** musste ich aufs Eis
 
 ---
+# Reihnfolge
 Als Erstes habe ich: "Mich Angezogen"
 Dannach bin ich: "Aufs Eis gegangen"
 Anschließend hat Andre versucht versucht den Hasen zu mir zu werfen aber hat ihn nur auf den Boden geworfen. 
@@ -82,9 +83,8 @@ Als ich meine Kür gelaufen habe: "Bekam ich ein Flauschihasen"
 Um ***13:10*** hatte ich ***Siegerehrung***.
 Weil ich der einzige Junge in der Kategorie war hatte ich natürlich den # 1.PLATZ
 
-## Info zu meinen Ergebnissen:
-
 ---
+# Info zu meinen Ergebnissen
 Platz: "Erster"
 Punkte: "20"
 Vergleich m,it Mädchen: "Nicht der schlechteste"
