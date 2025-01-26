@@ -75,7 +75,7 @@ Nach dem ***Aufwärmen*** musste ich aufs Eis
 |Was | Was habe ich gemacht|
 |Als Erstes habe ich | Mich Angezogen|
 |Dannach bin ich | Aufs Eis gegangen |
-|Anschließend hat Andre versucht versucht den Hasen zu mir zu werfen aber hat ihn nur auf den Boden geworfen. 
+|Anschließend hat Andre versuchte Hasen zu mir zu werfen aber hat ihn nur |auf den Boden geworfen. |
 |Als ich meine Kür gelaufen habe|Bekam ich ein Flauschihasen|
 
 
