@@ -30,9 +30,15 @@ Nun bin ich los gefahren.
 
 ## Kapitel 3: Die Siegerehrung
 
+
 Zum Schluss ging ich raus, aber habe die Axels nicht ausgelassen.
 Dann dauerte es nur eine Stunde bis zur Siegerehrung.
 Am Ende Dauerte es ein bischen, bis ich meine Uhrkunde, und meine Medallie bekommen.
 Ich hatte den 5. Platz, von 5. Plätzen
 
 ***Ende***
+
+# 1. Platz auf dem Bodensee Arena Cup 2025
+
+
+
