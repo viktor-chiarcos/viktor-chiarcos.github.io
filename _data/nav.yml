@@ -48,8 +48,7 @@ footer:
   - owner: "Viktor Chiarcos"
     url: "https://github.com/viktor-chiarcos"
     description: "" # tool tip for your url
-    bio: "" # short bio
-    address: "32 Bahnhofstraße, Ladenburg, Baden Würtemberg, Deutschland"
+    bio: "I am a figure skater, and a big fan of tech. I love traveling the world 🌎, music 🎵 & programming🧑‍🔧." # short bio
   - social:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
