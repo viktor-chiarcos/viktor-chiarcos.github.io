@@ -128,6 +128,7 @@ Das ist die aktuelle Version der Webseite ;)
   - [Yandex (Zweite Möglichkeit)](https://telemost.yandex.ru/j/48912595575715)
 
 # Mitteilungen (Werden maximal 7 Tage Gelagert)
+## [Aktivieren sie die Elektronische Benachrichtigungen](https://chat.whatsapp.com/L4rY65bQCVtIRQMpIIz06b)
 
 - Der Viktor ChatBot ist jetzt verfügbar (2025-2-14)
 
