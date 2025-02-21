@@ -45,9 +45,9 @@ header:
   - title: "Viktor ChatBot"
     url: https://colab.research.google.com/drive/1iEXHz0RyameR91slG6ztZO0hKNCi9_UF?usp=sharing
     description: "Weiterleitender Link auf Google Codab unter spacer.py"
-  - title: "Russische KIDSPAGE"
-    url: "https://www.deti-online.com"
-    description: "deti-online.com"
+  - title: "Extras"
+    url: "/html/"
+    descripton: "Meine Selbstgemachten Seiten"
     
     # footer links
 footer:
