@@ -128,29 +128,9 @@ Das ist die aktuelle Version der Webseite ;)
   - [Yandex (Zweite Möglichkeit)](https://telemost.yandex.ru/j/48912595575715)
 
 # Mitteilungen (Werden maximal 7 Tage Gelagert)
+## [Aktivieren sie die Elektronische Benachrichtigungen](https://chat.whatsapp.com/L4rY65bQCVtIRQMpIIz06b)
 
-- ***Abteil Technik: Terminal Unterstützung: Dateien öffnen: Hinweis Bereit zum verwenden*** (2024-12-30, 17:50) 
-- ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Aktiv*** (2024-12-30,17:51)
-- ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Erstellen*** (2024-12-30,18:23)
-- ***Abteil Technik: Terminal Unterstützung: Was bedeutet sudo?: Hinweis Bereit zum verwenden*** (2024-12-30,18:53)
-- ***Abteil Homepage: Settings: Russische Sprache Hinzugefügt: Goole Translate ist Betriebsbereit*** (2024-12-30,19:30)
-- ***Abteil Homepage: Settings: Englische Sprache Hinzugefügt: Google Translate ist Betriebsbereit*** (2024-12-30, 19:35)
-- ***Abteil Homepage: Settings: Deutsche Sprache Hinzugefügt: Google Translate ist Betriebsbereit*** (2024-12-30, 19:50)
-- ***Abteil Homepage: Settings: Viele Sonstigen Sprachen erlaubt: Google Translate ist Betriebsbereit*** (2024-12-30, 20:04)
-- ***Aktion Abgebrochen: Abteil Homepage: Miteilungen:Mitteilungen werden an volgender Zeit 2024-12-31,12:00 gelöscht***(2024-12-30, 20:50)
-- ***Software ViktorOS 2 Update: ViktorOS 2 ist aktuell in verarbeitung...*** (unnknow time)
-
-## Ab hier ist Silvester
-
-Datenschutz: Inhalte werden An diesem Tag ohne Uhrzeit geschrieben
-
-- ***Update ViktorOS 1.5 aktualisiert*** **(SILVESTER 2024)**
-- ***Zukunft: Bald ist der Code von der Webseite verfügbar*** **(SILVESTER 2024)**
-- ***Error Seite ganz anderes Design + Demo in Einstellungen ausführbar*** **(SILVESTER 2024)**
-
-## Softwareupdate: ViktorOS 2.0 (SILVESTER 2024)
-
-Das ist die erste Version der Webseite.
+- Der Viktor ChatBot ist jetzt verfügbar (2025-2-14)
 
 <!--
 &nbsp;
