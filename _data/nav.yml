@@ -48,6 +48,9 @@ header:
   - title: "Extras"
     url: "/html/"
     descripton: "Meine Selbstgemachten Seiten"
+  - title: "Wetter"
+    url: "/wetter.de"
+    description: "Wetterinformation"
     
     # footer links
 footer:
