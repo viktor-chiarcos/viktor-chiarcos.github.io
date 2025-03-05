@@ -58,20 +58,27 @@ footer:
     url: "https://github.com/viktor-chiarcos"
     description: "" # tool tip for your url
     bio: "I am a figure skater, and a big fan of tech. I love traveling the world 🌎, music 🎵 & programming🧑‍🔧." # short bio
-  - social:
+  - Soziale Netze:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/viktor-chiarcos"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/chiarcos_viktor_krasavin/profilecard"
+      url: "https://www.instagram.com/chiarcos_viktor_krasavin"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/playlist?list=PLd4CqUFU7eIhaAKQimD99k0PSTV4GEl3W&si=Nx8STZMkiXjCuECX"			
-  - feed:
+      url: "https://youtube.com/playlist?list=PLd4CqUFU7eIhaAKQimD99k0PSTV4GEl3W&si=Nx8STZMkiXjCuECX"
+    - label: "Whatsapp"
+      icon: "fab fa-fw fa-whatsapp"
+      url: "http://wa.me/4915750181646"
+  - Über die Seite:
     - label: "Sitemap"
       icon: "fas fa-sitemap"
       url: "/sitemap.xml"
     - label: "RSS"
       icon: "fas fa-fw fa-rss-square"
       url: "/feed.xml"
+  - Sonstige:
+      label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/playlist?list=PLd4CqUFU7eIhaAKQimD99k0PSTV4GEl3W&si=Nx8STZMkiXjCuECX"
