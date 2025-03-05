@@ -58,7 +58,7 @@ footer:
     url: "https://github.com/viktor-chiarcos"
     description: "" # tool tip for your url
     bio: "I am a figure skater, and a big fan of tech. I love traveling the world 🌎, music 🎵 & programming🧑‍🔧." # short bio
-  - Soziale Netze:
+  - social:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/viktor-chiarcos"
@@ -71,7 +71,7 @@ footer:
     - label: "Whatsapp"
       icon: "fab fa-fw fa-whatsapp"
       url: "http://wa.me/4915750181646"
-  - Über die Seite:
+  - feed:
     - label: "Sitemap"
       icon: "fas fa-sitemap"
       url: "/sitemap.xml"
