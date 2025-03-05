@@ -78,6 +78,9 @@ footer:
     - label: "RSS"
       icon: "fas fa-fw fa-rss-square"
       url: "/feed.xml"
+    - label: "Andere Seiten"
+      icon: ""
+      url: "/other"
   - Sonstige:
       label: "YouTube"
       icon: "fab fa-fw fa-youtube"
