@@ -65,9 +65,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/chiarcos_viktor_krasavin/profilecard"
-		- label: "YouTube"
-			icon: "fab fa-fw fa-youtube"
-			url: "https://youtube.com/playlist?list=PLd4CqUFU7eIhaAKQimD99k0PSTV4GEl3W&si=Nx8STZMkiXjCuECX"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/playlist?list=PLd4CqUFU7eIhaAKQimD99k0PSTV4GEl3W&si=Nx8STZMkiXjCuECX"
 			
   - feed:
     - label: "Sitemap"
