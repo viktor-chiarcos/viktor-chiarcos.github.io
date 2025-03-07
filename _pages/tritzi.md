@@ -2,8 +2,8 @@
 layout: page
 permalink: /dino-park
 
-title: "Tritzi und seine Familie"
-excerpt: "Sinopark hier"
+title: "Der Dinopark"
+excerpt: "Dinopark hier"
 action: true
 #action_btn:
 
