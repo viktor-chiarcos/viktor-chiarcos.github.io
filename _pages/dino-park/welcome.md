@@ -12,7 +12,8 @@ action: true
 # Dino Menü
 [Startseite](/dino-park)\
 Über uns\
-[Lieder](/dino-park/songs)
+[Lieder](/dino-park/songs)\
+[Stolz](/dino-park/stolz)
 
 
 # Wir sind die Tritzi Familie im Dinopark
