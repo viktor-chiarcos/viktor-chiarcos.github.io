@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /dino-park/stolz
+permalink: /dino-park/stolz/
 
 title: "Unser Stolz - Dinopark"
 excerpt: "Wir Dinos sind sehr stolz auf unseren Park"
