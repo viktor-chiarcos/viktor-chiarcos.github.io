@@ -15,7 +15,7 @@ action: true
 [Startseite](/dino-park)\
 [Über uns]()\
 Lieder\
-[Stolz](https://viktor-chiarcos.github.io/dino-park/stolz)
+[Stolz](/dino-park/stolz)
 
 # Texte
 ## Tritzi Baby
