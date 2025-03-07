@@ -3,7 +3,7 @@ layout: home
 permalink: /dino-park/welcome
 
 title: "Über Uns - Dinopark"
-excerpt: "WIR SIND DIE TRITZI FAMILIE IM DINOPARK"
+excerpt: "Wir sind die beliebten Dinos"
 action: true
 #action_btn:
 
