@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 permalink: /dino-park
 
 title: "Der Dinopark"
