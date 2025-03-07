@@ -3,7 +3,7 @@ layout: page
 permalink: /dino-park
 
 title: "Tritzi und seine Familie"
-excerpt: "Achtung, hier ist der GROßE TIM"
+excerpt: "Sinopark hier"
 action: true
 #action_btn:
 
