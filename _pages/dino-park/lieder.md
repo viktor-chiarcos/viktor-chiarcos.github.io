@@ -15,7 +15,7 @@ action: true
 [Startseite](/dino-park)\
 [Über uns]()\
 Lieder\
-[Stolz](stolz/)
+[Stolz](/dino-park/stolz/)
 
 # Texte
 ## Tritzi Baby
