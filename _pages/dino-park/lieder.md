@@ -19,7 +19,7 @@ Lieder
 # Texte
 ## Tritzi Baby
 Tritzi Baby,\
-la la la, la la la la\
+la la la, la la la la * du du, du du\
 ...
 ## Fiesta
 Fiesta, Fiesta Mexikana,\
@@ -27,4 +27,5 @@ Heute gibt's zum Abschied für alle ein Fest\
 ...
 
 ### Zeichen
-... = Weitermachen so viel ihr wollt
+... = Weitermachen so viel ihr wollt\
+* = Zusätzlich (Nicht erforderlich)
