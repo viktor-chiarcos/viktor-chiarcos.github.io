@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /dino-park
+permalink: /dino-park/
 
 title: "Dinopark"
 excerpt: "Wir sind die lieben Dinos!"
