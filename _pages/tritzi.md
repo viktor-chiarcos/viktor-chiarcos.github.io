@@ -14,7 +14,6 @@ Startseite\
 [Über uns](/dino-park/welcome)
 
 # Wir 
-  <img src="/dino-park/Fotos/team1.jpg" alt="Unser Team als Bild" style="width: 50%;"/>
 
 #  Dinopark
 Einladung zu der Familie Chiarcos\
