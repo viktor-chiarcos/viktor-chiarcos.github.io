@@ -13,7 +13,7 @@ action: true
 # Dino Menü
 
 [Startseite](/dino-park)\
-[Über uns]()\
+[Über uns](/dino-park/welcome)\
 Lieder\
 [Stolz](/dino-park/stolz)
 
