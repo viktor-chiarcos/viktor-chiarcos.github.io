@@ -12,7 +12,8 @@ action: true
 # Dino Menü
 Startseite\
 [Über uns](/dino-park/welcome)\
-[Lieder](/dino-park/songs)
+[Lieder](/dino-park/songs)\
+[Stolz](/dino-park/stolz)
 
 # Wir 
 
