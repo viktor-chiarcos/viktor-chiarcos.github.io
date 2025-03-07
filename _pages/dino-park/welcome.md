@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /dino-park/welcome
+permalink: /dino-park/welcome/
 
 title: "Über Uns - Dinopark"
 excerpt: "Wir sind die beliebten Dinos"
