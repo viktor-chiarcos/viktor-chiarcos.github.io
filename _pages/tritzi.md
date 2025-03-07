@@ -3,7 +3,7 @@ layout: home
 permalink: /dino-park
 
 title: "Der Dinopark"
-excerpt: "Dinopark hier"
+excerpt: "Wir sind die lieben Dinos!"
 action: true
 #action_btn:
 
