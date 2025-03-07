@@ -27,5 +27,5 @@ Heute gibt's zum Abschied für alle ein Fest\
 ...
 
 ### Zeichen
-... = Weitermachen so viel ihr wollt\
+zum Weitermachen so viel ihr wollt nehmt ...\
 Für Zusätzliche sachen ist (Nicht erforderlich) * da
