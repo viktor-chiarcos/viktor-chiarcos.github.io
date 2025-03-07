@@ -14,7 +14,7 @@ action: true
 Über uns
 
 ![](Fotos/team1.jpg)
-
+	<img src="Fotos/team1.jpg" alt="Wir als Team" style="width: 50%;" /> 
 # Wir sind die Tritzi Familie im Dinopark
 - ***Mit vielen Dinos gehen wir auf Reisen.***
 - ***Wir werden von Frau Direktorin und dem Riesn und sogar dem Zauberer geleitet.***
