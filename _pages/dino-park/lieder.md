@@ -2,8 +2,8 @@
 layout: home
 permalink: /dino-park/songs
 
-title: "Über Uns - Dinopark"
-excerpt: "Wir sind die beliebten Dinos"
+title: "Liederbibliothek - Dinopark"
+excerpt: "Unsere schönen Lieder"
 action: true
 #action_btn:
 
