@@ -28,4 +28,4 @@ Heute gibt's zum Abschied für alle ein Fest\
 
 ### Zeichen
 ... = Weitermachen so viel ihr wollt\
-* = Zusätzlich (Nicht erforderlich)
+Für Zusätzliche sachen ist (Nicht erforderlich) * da
