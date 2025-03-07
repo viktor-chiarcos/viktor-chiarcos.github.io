@@ -9,6 +9,10 @@ action: true
 
 ---
 
+# Dino Menü
+Startseite\
+[Über uns](/dino-park/welcome)
+
 #  Dinopark
 Einladung zu der Familie Chiarcos\
 2025-3-7, 12:20 von dem Zauberer\
