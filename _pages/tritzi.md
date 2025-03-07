@@ -29,4 +29,8 @@ Tritzi Familie bei Familie Chiarcos beigetreten\
 –––––––––––––––––––––––––––\
 Planung von einem Dino Konzert gewünscht\
 2025-3-7, 13:10 von Tritzi Baby\
-**Ungelesen**
+**Ungelesen**\
+–––––––––––––––––––––\
+Anki und Tritzi haben heute Geburtstag\
+2025-3-7, 14:42 von kleiner:großer Riese\
+**Gelesen (Private info)**
