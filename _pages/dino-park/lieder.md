@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /dino-park/songs
+permalink: /dino-park/songs/
 
 title: "Liederbibliothek - Dinopark"
 excerpt: "Unsere schönen Lieder"
