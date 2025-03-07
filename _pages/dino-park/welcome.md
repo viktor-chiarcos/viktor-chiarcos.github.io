@@ -13,6 +13,7 @@ action: true
 [Startseite](/dino-park)\
 Über uns
 
+![](/dino-patk/Fotos/team1.jpg)
 
 # Wir sind die Tritzi Familie im Dinopark
 - ***Mit vielen Dinos gehen wir auf Reisen.***
