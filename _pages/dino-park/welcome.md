@@ -10,7 +10,8 @@ action: true
 ---
 
 # Dino Menü
-[Startseite](/dino-park)
+[Startseite](/dino-park)\
+Über uns
 
 
 # Wir sind die Tritzi Familie im Dinopark
