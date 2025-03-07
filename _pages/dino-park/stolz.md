@@ -14,7 +14,7 @@ action: true
 
 [Startseite](/dino-park)\
 [Über uns](/dino-park/welcome)\
-[Lieder](/dino-park/songs/)/
+[Lieder](/dino-park/songs/)\
 Stolz
 
 # Wir sind stolz auf den Park
