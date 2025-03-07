@@ -13,7 +13,6 @@ action: true
 [Startseite](/dino-park)\
 Über uns
 
-![](Fotos/team1.jpg)
 	<img src="Fotos/team1.jpg" alt="Wir als Team" style="width: 50%;" /> 
 # Wir sind die Tritzi Familie im Dinopark
 - ***Mit vielen Dinos gehen wir auf Reisen.***
