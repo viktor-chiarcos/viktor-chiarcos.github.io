@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /ssps/
+permalink: /ssps/caller/132
 
 title: "Anrüfe für das Krallenteam"
 excerpt: "ssps://caller"
