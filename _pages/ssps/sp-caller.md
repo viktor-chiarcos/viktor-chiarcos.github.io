@@ -13,3 +13,11 @@ action: true
 so ruft man an:  sagen sie: "Anruf an ..."
 
      Drücken zum Anrufen
+
+# Anmelden
+
+     Drücken zum Anmelden von 121323242526
+
+     Drücken zum Anmelden von 132
+
+     Drücken zum Anmelden von 134
