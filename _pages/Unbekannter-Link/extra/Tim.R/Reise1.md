@@ -19,5 +19,3 @@ action: true
   <h1>Ankunft um 21:15</h1>
 </body>
 
-[Ziel 1](/tim/reise1/kordinanten/13522687bf578zyh009/)\
-[Ziel 2](/tim/reise1/kordinanten/i87527ggf098756/)
