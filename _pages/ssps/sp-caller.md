@@ -3,7 +3,7 @@ layout: home
 permalink: /ssps/sp-caller/
 
 title: "Schnellanrüfe - 121323242526"
-excerpt: "ssps://caler"
+excerpt: "ssps://caller"
 action: true
 #action_btn:
 
