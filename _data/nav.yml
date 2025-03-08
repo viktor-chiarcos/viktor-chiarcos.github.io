@@ -51,6 +51,12 @@ header:
   - title: "Wetter"
     url: "/wetter.de"
     description: "Wetterinformation"
+  - title: "Linux Store"
+    url: "https://github.com/viktor-chiarcos/Programms"
+    description: "Installerpakete von mir für Linux"
+  - title: "Windows Store"
+    url: "https://github.com/viktor-chiarcos/Windows-Programms"
+    description: "Installerpakete von mir für Windows"
     
     # footer links
 footer:
