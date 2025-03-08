@@ -15,5 +15,5 @@ action: true
   <h3>Ankunft Zwischenziel: 12:28</h3>
   <h4>Endziel: Bahnhofstraße 32, 68526 Ladenburg, Baden Würtemberg, Deutschland</h4>
   <h4>Aktuelle Route oder Standort: Eisstadion Ilmenau</h4>
-  <h5>Veranstaltung um 13:00</h5>
+  <h5>Veranstaltung um 13:00 oder um 13:30</h5>
 </body>
