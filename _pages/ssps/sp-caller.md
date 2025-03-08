@@ -10,6 +10,6 @@ action: true
 ---
 
 # Anruf senden.
-so ruft man an: Anruf an ...\
+so ruft man an:  sagen sie: "Anruf an ..."
 
      Drücken
