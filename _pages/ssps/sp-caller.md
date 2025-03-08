@@ -12,4 +12,4 @@ action: true
 # Anruf senden.
 so ruft man an:  sagen sie: "Anruf an ..."
 
-     Drücken
+     Drücken zum Anrufen
