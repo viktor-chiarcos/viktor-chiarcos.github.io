@@ -21,3 +21,5 @@ so ruft man an:  sagen sie: "Anruf an ..."
      Drücken zum Anmelden von 132
 
      Drücken zum Anmelden von 134
+
+     Drücken zum Anmelden von Gesicht
