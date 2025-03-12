@@ -57,6 +57,9 @@ header:
   - title: "Windows Store"
     url: "https://github.com/viktor-chiarcos/Windows-Programms"
     description: "Installerpakete von mir für Windows"
+  - title: "YouTube"
+    url: "/youtube/"
+    description: "Mein YouTube Kanal"
     
     # footer links
 footer:
