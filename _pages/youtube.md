@@ -10,13 +10,7 @@ action: true
 ---
 
 # Meine Videos
-Upload Abgeschlossen mit 3 versuchen!\
-100%\
-**Start:________________________________________________________________**\
-**Einbettlung:__________________________________\
-Abspielung:...!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\
-Fehler: Videoplayer nicht verfügbar!*\
-Lösung: sid entfernt**
+
 
 # Tritz Baby Staffel 1
 ## Mit wem kann ich mich treffen?
