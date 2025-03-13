@@ -10,12 +10,13 @@ action: true
 ---
 
 # Meine Videos
-Upload Abgeschlossen\
+Upload Abgeschlossen mit 3 versuchen!\
 100%\
 **Start:________________________________________________________________**\
 **Einbettlung:__________________________________\
 Abspielung:...!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\
-Fehler: Videoplayer nicht verfügbar!**
+Fehler: Videoplayer nicht verfügbar!*\
+Lösung: sid eentfernt**
 
 # Tritz Baby Staffel 1
 ## Mit wem kann ich mich treffen?
