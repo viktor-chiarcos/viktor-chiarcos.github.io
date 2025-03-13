@@ -25,3 +25,6 @@ action: true
 ## Mascha und der Bär
 ### Süßes Leben
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pgz2rTSN-k8" title="Mascha und der Bär | Süßes Leben" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Man braucht nur ien Ziel
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y8kfx6O_dPM" title="Mascha und der Bär - Man braucht nur ein Ziel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
