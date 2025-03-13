@@ -21,3 +21,7 @@ action: true
 ## Mein bester Freund
 **Otto Und Sid (Otto Waalkes)**
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WRUjq7t4rC8?si=jWlUjr4hlCnujGMC" title="Mein bester Freund - Otto und Sid" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Mascha und der Bär
+### Süßes Leben
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Pgz2rTSN-k8" title="Mascha und der Bär | Süßes Leben" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
