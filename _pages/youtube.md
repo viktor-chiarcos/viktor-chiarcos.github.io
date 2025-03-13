@@ -30,5 +30,8 @@ action: true
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y8kfx6O_dPM" title="Mascha und der Bär - Man braucht nur ein Ziel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Grizzy und die Lemmings
-### DieGrizzy Schule
+### Die Grizzy Schule
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KFzOiDVzS9k" title="Die Grizzy Schule - Grizzy und die Lemmings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Die Tanz Challange 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sq6gmnSnayQ" title="Die Tanz Challange | Grizzy und die Lemmings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
