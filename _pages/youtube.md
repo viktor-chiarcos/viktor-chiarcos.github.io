@@ -12,7 +12,7 @@ action: true
 # Meine Videos
 
 
-# Tritz Baby Staffel 1
+# Tritzi Baby Staffel 1
 ## Mit wem kann ich mich treffen?
 
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pF8L0zaRBLI" title="Tritzi's Suche nach jemandem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
