@@ -10,7 +10,7 @@ action: true
 ---
 
 # Meine Videos
-Upload Mit Fehlern Abgeschlossen\
+Upload Abgeschlossen\
 100%\
 **Start:________________________________________________________________**\
 **Einbettlung:__________________________________\
