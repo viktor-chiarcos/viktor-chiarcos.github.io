@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: https://edit.rybkintimofey28.com
+permalink: /edit/tim/
 title: ""
 excerpt: ""
 ---
