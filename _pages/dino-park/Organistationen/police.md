@@ -28,7 +28,6 @@ Er hat Batman schon gesehen!
 Neben der Polizeistation steht eine große Station.\
 Deshalb sind sie stärker!
 
-**!!!</br>
-Es gab neben der großen Polizeistation einen Vulkan!<br>
-Deshalb ist die große Staion beschädigt!</br>
+**!!!Es gab neben der großen Polizeistation einen Vulkan!<br>
+Deshalb ist die große Staion beschädigt!
 !!!**
