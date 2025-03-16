@@ -15,7 +15,7 @@ action: true
 [Startseite](/dino-park)\
 [Über uns](/dino-park/welcome)\
 Lieder\
-[Stolz](/dino-park/stolz)
+[Stolz](/dino-park/stolz)\
 [Organisationen](/dino-park/orgas/)
 
 # Texte
