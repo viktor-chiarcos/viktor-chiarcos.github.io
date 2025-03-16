@@ -17,3 +17,6 @@ action: true
 - Riesenriese
 - Fr. Direktorin
 
+# Der große Riese ist ein Zauberer!
++ er heißt Viktor
++ Er sorgt bei Geburtstagen dafür dass sie **WACHBLEIBEN** können
