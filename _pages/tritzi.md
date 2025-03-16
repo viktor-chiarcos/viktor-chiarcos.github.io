@@ -14,6 +14,7 @@ Startseite\
 [Über uns](/dino-park/welcome)\
 [Lieder](/dino-park/songs)\
 [Stolz](/dino-park/stolz)
+[Organiisationen](/dino-park/orgas/)
 
 # Wir 
 
