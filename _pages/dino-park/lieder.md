@@ -16,6 +16,7 @@ action: true
 [Über uns](/dino-park/welcome)\
 Lieder\
 [Stolz](/dino-park/stolz)
+[Organisationen](/dino-park/orgas/)
 
 # Texte
 ## Tritzi Baby
