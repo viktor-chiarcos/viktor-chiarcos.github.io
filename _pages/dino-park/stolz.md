@@ -16,6 +16,7 @@ action: true
 [Über uns](/dino-park/welcome)\
 [Lieder](https://viktor-chiarcos.github.io/dino-park/songs)\
 Stolz
+[Organisationen](/dino-park/orgas/)
 
 # Wir sind stolz auf den Park
 - **Superkräfte**
