@@ -9,6 +9,8 @@ action: true
 
 ---
 
+# [ORGANISATIONEN](/dino-park/orgas/)
+
 # Mitwirkende
 - Kleiner Riese
 - Großer Riese
