@@ -9,7 +9,6 @@ action: true
 
 ---
 
-
 # Dino Menü
 
 [Startseite](/dino-park)\
