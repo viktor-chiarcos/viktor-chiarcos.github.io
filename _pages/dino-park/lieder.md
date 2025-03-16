@@ -8,8 +8,6 @@ action: true
 #action_btn:
 
 ---
-
-
 # Dino Menü
 
 [Startseite](/dino-park)\
