@@ -17,4 +17,5 @@ action: true
 Organisationen
 
 # Organisationen
-[Polizeistation](police/)
+[Polizeistation](/dino-park/orgas/police/)
+[Geburtstagsamt](/dino-park/orgas/birthday/)
