@@ -21,7 +21,7 @@ action: true
 # Anmeldung
 **Bereits 3. Mitglieder gesammelt**\
 Zur Anmeldung bitte mir eine E-Mail schreiben:\
-**Absender: (euere E-Mail)\
+**Absender: (eure E-Mail)\
 Empfänger: viktor.chiarcos@googlemail.com\
 Titel: Anfrage zur Zusammenarbeit mit Viktor**
 
