@@ -10,11 +10,12 @@ action: true
 ---
 
 # Bedingungen
-1) Auf dieser Seite bin ich auf dem Weg Für mich und meine Freunde als eine Organisation zu versammeln. 
-2) Jeder der sich anmeldet bekommt eine Webseite
-3) Auf dieser Webseite darf man seine fragen abstellen. Wir können uns dann Zusammen die fragen beantworten.
-4) Jerder soll für die Anmeldung einen [GitHub Acount haben.](https://github.com/)
-5) Nach 5. Anmeldungen wird die Organisation gegründet. (Anmelder bekommen bei der gründung eine E-Mail)
+
+1. Auf dieser Seite bin ich auf dem Weg Für mich und meine Freunde als eine Organisation zu versammeln.
+2. Jeder der sich anmeldet bekommt eine Webseite
+3. Auf dieser Webseite darf man seine fragen abstellen. Wir können uns dann Zusammen die fragen beantworten.
+4. Jerder soll für die Anmeldung einen [GitHub Acount haben.](https://github.com/)
+5. Nach 5. Anmeldungen wird die Organisation gegründet. (Anmelder bekommen bei der gründung eine E-Mail)
 
 
 # Anmeldung
