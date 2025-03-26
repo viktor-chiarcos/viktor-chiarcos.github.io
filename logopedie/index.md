@@ -17,3 +17,5 @@ action: true
 
 Denk an die Wörter:\
 Der **Sch**lauch, **s**pielen und mache jeden Satz min. 1x mit einem **SCH-Wort**
+
+- 1x Joghurt
