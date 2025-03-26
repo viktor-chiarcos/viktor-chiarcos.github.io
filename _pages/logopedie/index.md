@@ -8,6 +8,7 @@ action: true
 #action_btn:
 
 ---
+<meta http-equiv="refresh" content="120; URL=" />
 
 # André Chiarcos
 ## 26.03.2025
@@ -38,3 +39,4 @@ Der **Sch**lauch, **s**pielen und mache jeden Satz min. 1x mit einem **SCH-Wort*
 ## 29.03.2025
 - 1x Früh aufstehen
 - 1x Joghurt
+- **Zu Logopedie gehen**
