@@ -16,4 +16,4 @@ action: true
 - 3x **Satz mit SCH Ausdenken**
 
 Denk an die Wörter:\
-Der **Sch**lauch, **s**pielen und mache jeden Satz min. 1x mit **SCH**
+Der **Sch**lauch, **s**pielen und mache jeden Satz min. 1x mit einem **SCH-Wort**
