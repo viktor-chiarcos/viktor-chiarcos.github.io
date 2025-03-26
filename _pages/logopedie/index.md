@@ -2,7 +2,7 @@
 layout: home
 permalink: /logo/
 
-title: "Die Logopedie Hausaufgaben"
+title: "Die Logopädie Hausaufgaben"
 excerpt: "von Viktor Chiarcos"
 action: true
 #action_btn:
@@ -39,4 +39,4 @@ Der **Sch**lauch, **s**pielen und mache jeden Satz min. 1x mit einem **SCH-Wort*
 ## 29.03.2025
 - 1x Früh aufstehen
 - 1x Joghurt
-- **Zu Logopedie gehen**
+- **Zu Logopädie gehen**
