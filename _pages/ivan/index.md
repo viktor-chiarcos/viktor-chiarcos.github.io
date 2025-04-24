@@ -9,7 +9,7 @@ action: true
 
 <script>
 	function button1() {
-    		alert("Antwort: Ja, herzlich Willkommen")
+    		alert("Antwort: Ja, Herzlich Willkommen")
     }
 </script>
 
@@ -30,11 +30,6 @@ nein - нет\
 Antwort - ответ\
 Aufgaben - задание\
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 # комбинация Rot + Auto
 
@@ -42,16 +37,6 @@ rot = rotes\
 Auto = Auto
 
 rotes Auto - красная машина 
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 # Artikel
 
@@ -61,27 +46,7 @@ der, die, das
 - die Auto: nein
 - das Auto: ja
 
-&nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 # Aufgaben
 
