@@ -14,7 +14,7 @@ action: true
     
     function button2() {
     			alert("Lösung: Nein, nach vorne")
-    {
+    }
 </script>
 
 # алфавит
