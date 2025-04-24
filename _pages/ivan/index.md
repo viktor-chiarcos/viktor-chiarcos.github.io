@@ -27,7 +27,8 @@ Auto - машина\
 rot - красный\
 ja - да\
 nein - нет\
-Antwort - ответ
+Antwort - ответ\
+Aufgaben - задание\
 
 &nbsp;
 
@@ -78,7 +79,11 @@ der, die, das
 
 &nbsp;
 
+&nbsp;
 
+&nbsp;
+
+# Aufgaben
 
 # что означает "да, добро пожаловать"?
 Antwort: <input type="text" id="Feld" value="" />
