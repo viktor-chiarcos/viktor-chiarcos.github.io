@@ -27,3 +27,11 @@ der, die, das
 - der Auto: nein
 - die Auto: nein
 - das Auto: ja
+
+# напиши Виктору что значит Auto и что rot
+
+Whatsapp (кнопка внизу):
+
+Слова Auto: \
+Слово rot: \
+По немецки Говорить красная машина: 
