@@ -57,6 +57,7 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 # слова
 
+André - Андрей\
 anzeigen - показать\
 überprüfen - проверить\
 Kontrolle - контроль\
@@ -85,7 +86,15 @@ links - лево\
 rechts - право\
 zurück - назад\
 Spiel - игра\
-nach - в / к
+nach - в / к\
+Hockey - Хоккей\
+Arktis - Арктика\
+Ivan - Иван\
+Aquarium - Аквариум\
+warm - Тепло\
+kalt - Холодно\
+und - и
+
 
 # комбинация Rot + Auto
 
@@ -93,6 +102,12 @@ rot = rotes\
 Auto = Auto
 
 rotes Auto - красная машина 
+
+# ü, ö, ä und ß
+ü = ю\
+ö = ё\
+ä = э\
+ß = с
 
 # Artikel
 
@@ -115,10 +130,10 @@ Auto*s
 
 Antwort: <input type="text" id="Feld" value="" />
 
-<input type="button" value="                   " onclick="button1();"/> 
+<input type="button" value="Antwort" onclick="button1();"/> 
 
-# что означает "нет, вперёд"
+# что означает "нет, вперёд"?
 
 Lösung: <input type="text" id="Feld" value=""/>
 
-<input type="button" value="                     " onclick="button2();"/> 
+<input type="button" value="Lösung" onclick="button2();"/> 
