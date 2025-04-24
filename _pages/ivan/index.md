@@ -37,5 +37,7 @@ der, die, das
 - das Auto: ja
 
 # что означает "да, добро пожаловать"?
+Antwort: <input type="text" id="Feld" value="" />
+
 
 <input type="button" value="контроль" onclick="button1();"/>
