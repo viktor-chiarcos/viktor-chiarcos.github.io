@@ -21,12 +21,28 @@ ja - да\
 nein - нет\
 Antwort - ответ
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # комбинация Rot + Auto
 
 rot = rotes\
 Auto = Auto
 
 rotes Auto - красная машина 
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 # Artikel
 
@@ -40,6 +56,11 @@ der, die, das
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 # что означает "да, добро пожаловать"?
 Antwort: <input type="text" id="Feld" value="" />
