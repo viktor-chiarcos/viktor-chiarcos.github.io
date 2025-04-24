@@ -11,6 +11,7 @@ action: true
 	function button1() {
     		alert("Antwort: Ja, Herzlich Willkommen")
     }
+    
     function button2() {
     			alert("Lösung: Nein, nach vorne")
     {
