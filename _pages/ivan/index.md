@@ -17,6 +17,8 @@ action: true
     }
 </script>
 
+# [Отключить](https://wa.me/message/CXQKM5CWMXR6O1)
+Напишите:"Отключить немецкий курс"
 # Zahlen
 
 1 = eins\
