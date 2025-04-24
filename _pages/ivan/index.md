@@ -55,6 +55,9 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 # слова
 
+anzeigen - показать\
+überprüfen - проверить\
+Kontrolle - контроль\
 Alphabet - алфавит\
 Zahlen - цифры\
 Lösung - ответ\
@@ -110,10 +113,10 @@ Auto*s
 
 Antwort: <input type="text" id="Feld" value="" />
 
-<input type="button" value="контроль" onclick="button1();"/> 
+<input type="button" value="Antwort anzeigen" onclick="button1();"/> 
 
 # что означает "нет, вперёд"
 
 Lösung: <input type="text" id="Feld" value="" />
 
-<input type="button" value="контроль" onclick="button2();"/> 
+<input type="button" value="überprüfen" onclick="button2();"/> 
