@@ -1,4 +1,4 @@
-ü---
+---
 layout: home
 permalink: /kurs/de-ru/
 
