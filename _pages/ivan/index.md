@@ -40,6 +40,7 @@ hinten - сзади\
 links - лево\
 rechts - право\
 zurück - назад\
+Spiel - игра
 
 # комбинация Rot + Auto
 
