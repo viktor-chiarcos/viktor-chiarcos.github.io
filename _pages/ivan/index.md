@@ -6,7 +6,7 @@ permalink: /kurs/de-ru/
 
 <script>
 	function button1() {
-    		alert("Ja, Herzlich Wilkommen")
+    		alert("Antwort: Ja, Herzlich Wilkommen")
     }
 </script>
 
@@ -18,7 +18,8 @@ Herz - сердце\
 Auto - машина\
 rot - красный\
 ja - да\
-nein - нет
+nein - нет\
+Antwort - ответ
 
 # комбинация Rot + Auto
 
@@ -35,6 +36,6 @@ der, die, das
 - die Auto: nein
 - das Auto: ja
 
-# что означает да, добро пожаловать ?
+# что означает "да, добро пожаловать"?
 
 <input type="button" value="контроль" onclick="button1();"/>
