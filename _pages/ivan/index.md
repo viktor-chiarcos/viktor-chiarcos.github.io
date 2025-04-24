@@ -1,7 +1,10 @@
 ---
-layout: page
-title: "Deutsch"
+layout: home
 permalink: /kurs/de-ru/
+
+title: "Deutsch lernen"
+excerpt: "Mit Hilfe von Viktor's Webseite"
+action: true
 ---
 
 <script>
@@ -12,6 +15,11 @@ permalink: /kurs/de-ru/
 
 # слова
 
+Webseite - веб-сайт\
+Viktor - Виктор\
+Hilfe - помощь\
+lernen - учиться\
+von - от\
 Hallo - привет\
 Herzlich Willkommen - добро пожаловать\
 Herz - сердце\
