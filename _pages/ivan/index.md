@@ -36,8 +36,14 @@ der, die, das
 - die Auto: nein
 - das Auto: ja
 
+&nbsp;
+
+&nbsp;
+
+
 # что означает "да, добро пожаловать"?
 Antwort: <input type="text" id="Feld" value="" />
 
+&nbsp;
 
-<input type="button" value="контроль" onclick="button1();"/>
+<input type="button" value="контроль" onclick="button1();"/> 
