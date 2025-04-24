@@ -3,6 +3,13 @@ layout: page
 title: "Deutsch"
 permalink: /kurs/de-ru/
 ---
+
+<script>
+	function button1() {
+    		alert("Ja, Herzlich Wilkommen")
+    }
+</script>
+
 # слова
 
 Hallo - привет\
@@ -28,10 +35,6 @@ der, die, das
 - die Auto: nein
 - das Auto: ja
 
-# напиши Виктору что значит Auto и что rot
+# что означает да, добро пожаловать ?
 
-[WhatsApp](http://wa.me/4915750181646): 
-
-Слова Auto: \
-Слово rot: \
-По немецки Говорить красная машина: 
+<input type="button" value="контроль" onclick="button1();"/>
