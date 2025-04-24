@@ -57,7 +57,12 @@ der, die, das
 - die Auto: nein
 - das Auto: ja
 
+# как говорить если одно и как говорить если больше чем одного?
 
+Один: das Auto
+Больше: die Autos
+
+Auto*s
 
 # Aufgaben
 
