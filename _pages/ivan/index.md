@@ -1,4 +1,4 @@
----
+ü---
 layout: home
 permalink: /kurs/de-ru/
 
@@ -43,7 +43,11 @@ action: true
 ...
 
 100 = hundert\
-200 = **zwei**hundert
+200 = **zwei**hundert\
+...
+
+1000 = tausend\
+2000 = **zwei**tausend
 
 # Alphabet 
 
