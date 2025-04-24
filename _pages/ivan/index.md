@@ -13,6 +13,10 @@ action: true
     }
 </script>
 
+# алфавит
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+
 # слова
 
 Webseite - веб-сайт\
@@ -29,7 +33,13 @@ ja - да\
 nein - нет\
 Antwort - ответ\
 Aufgaben - задание\
-
+dunkel - тёмно\
+hell - светло\
+vorne - впереди\
+hinten - сзади\
+links - лево\
+rechts - право\
+zurück - назад\
 
 # комбинация Rot + Auto
 
