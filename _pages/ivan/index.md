@@ -6,7 +6,7 @@ permalink: /kurs/de-ru/
 
 <script>
 	function button1() {
-    		alert("Antwort: Ja, Herzlich Wilkommen")
+    		alert("Antwort: Ja, herzlich Wilkommen")
     }
 </script>
 
