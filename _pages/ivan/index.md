@@ -6,14 +6,14 @@ permalink: /kurs/de-ru/
 
 <script>
 	function button1() {
-    		alert("Antwort: Ja, herzlich Wilkommen")
+    		alert("Antwort: Ja, herzlich Willkommen")
     }
 </script>
 
 # слова
 
 Hallo - привет\
-Herzlich Wilkommen - добро пожаловать\
+Herzlich Willkommen - добро пожаловать\
 Herz - сердце\
 Auto - машина\
 rot - красный\
