@@ -30,7 +30,7 @@ der, die, das
 
 # напиши Виктору что значит Auto и что rot
 
-Whatsapp (кнопка внизу):
+[WhatsApp](http://wa.me/4915750181646): 
 
 Слова Auto: \
 Слово rot: \
