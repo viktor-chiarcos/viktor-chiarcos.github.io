@@ -119,4 +119,4 @@ Antwort: <input type="text" id="Feld" value="" />
 
 Lösung: <input type="text" id="Feld" value="" />
 
-<input type="button" value="überprüfen" onclick="button2();"/> 
+<input type="button" value="Lösung anzeigen" onclick="button2();"/> 
