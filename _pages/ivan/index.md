@@ -3,7 +3,7 @@ layout: home
 permalink: /kurs/de-ru/
 
 title: "Online Deutschkurs bis 12:00"
-excerpt: "ещё ~10min.! Прошлый раз онлайн в 11:44"
+excerpt: "-~10min.! Прошлый раз онлайн в 11:50"
 action: true
 ---
 
@@ -137,22 +137,22 @@ Auto*s
 
 # (1) что означает "да, добро пожаловать"?
 
-a) 
+a) подумай и напиши ответ
 
 Antwort: <input type="text" id="Feld" value="" />
 
-b) 
+b) скрой ответ и проконтролируй
 
 <input type="button" value="Antwort" onclick="button1();"/> 
 
 # (2) что означает "нет, вперёд"?
 
-a) 
+a) подумай и напиши ответ
 
 Lösung: <input type="text" id="Feld" value=""/>
 
-b)
+b) скрой ответ и по контролируй
 
 <input type="button" value="Lösung" onclick="button2();"/> 
 
-И теперь сделай скриншот и отправь Виктору до 12:05
+И теперь сделай скриншот и отправь Виктору до 12:00
