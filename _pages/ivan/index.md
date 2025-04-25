@@ -130,10 +130,12 @@ Auto*s
 
 Antwort: <input type="text" id="Feld" value="" />
 
-<input type="button" value="Antwort" onclick="button1();"/> 
+<input type="button" value="Antwort: ..." onclick="button1();"/> 
 
 # что означает "нет, вперёд"?
 
 Lösung: <input type="text" id="Feld" value=""/>
 
-<input type="button" value="Lösung" onclick="button2();"/> 
+<input type="button" value="Lösung: ..." onclick="button2();"/> 
+
+
