@@ -2,8 +2,8 @@
 layout: home
 permalink: /kurs/de-ru/
 
-title: "Website is blocked"
-excerpt: "German Kurs started: 26.04.2025, 07:00"
+title: "----"
+excerpt: "--:--"
 action: true
 ---
 
@@ -18,8 +18,9 @@ action: true
 </script>
 
 
-# [Отключить](https://wa.me/message/CXQKM5CWMXR6O1)
-Напишите:"Отключить немецкий курс"
+# [--](https://wa.me/message/CXQKM5CWMXR6O1)
+<!--Напишите:"Отключить немецкий курс"-->
+--
 
 <!--
 # Zahlen
