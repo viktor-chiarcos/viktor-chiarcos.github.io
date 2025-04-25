@@ -3,7 +3,7 @@ layout: home
 permalink: /kurs/de-ru/
 
 title: "Online Deutschkurs bis 12:00"
-excerpt: "~30min."
+excerpt: "ещё ~30min. Прошлый раз онлайн в 11:24"
 action: true
 ---
 
