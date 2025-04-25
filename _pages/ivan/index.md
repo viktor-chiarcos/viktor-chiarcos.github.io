@@ -2,8 +2,8 @@
 layout: home
 permalink: /kurs/de-ru/
 
-title: "----"
-excerpt: "--:--"
+title: "Deutschkurs"
+excerpt: "Через веб-сайт от Виктора"
 action: true
 ---
 
@@ -18,11 +18,9 @@ action: true
 </script>
 
 
-# [--](https://wa.me/message/CXQKM5CWMXR6O1)
-<!--Напишите:"Отключить немецкий курс"-->
---
+# [Отключить](https://wa.me/message/CXQKM5CWMXR6O1)
+Напишите:"Отключить немецкий курс"
 
-<!--
 # Zahlen
 
 1 = eins\
@@ -101,7 +99,7 @@ und - и\
 Kurs - курс\
 bis - до
 
-<!--
+
 # комбинация Rot + Auto
 
 rot = rotes\
@@ -154,4 +152,3 @@ b) скрой ответ и по контролируй
 <input type="button" value="Lösung" onclick="button2();"/> 
 
 И теперь сделай скриншот и отправь Виктору до 12:00
--->
