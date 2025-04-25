@@ -17,6 +17,10 @@ action: true
     }
 </script>
 
+# 25.04.2025 до 12:00
+
+Если ты не пришлёшь скриншот как ты работаешь будет заблокирована на один день.
+
 # [Отключить](https://wa.me/message/CXQKM5CWMXR6O1)
 Напишите:"Отключить немецкий курс"
 # Zahlen
@@ -126,15 +130,23 @@ Auto*s
 
 # Aufgaben
 
-# что означает "да, добро пожаловать"?
+# (1) что означает "да, добро пожаловать"?
+
+a) 
 
 Antwort: <input type="text" id="Feld" value="" />
 
+b) 
+
 <input type="button" value="Antwort: ..." onclick="button1();"/> 
 
-# что означает "нет, вперёд"?
+# (2) что означает "нет, вперёд"?
+
+a) 
 
 Lösung: <input type="text" id="Feld" value=""/>
+
+b)
 
 <input type="button" value="Lösung: ..." onclick="button2();"/> 
 
