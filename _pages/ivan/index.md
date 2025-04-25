@@ -21,7 +21,7 @@ action: true
 # [Отключить](https://wa.me/message/CXQKM5CWMXR6O1)
 Напишите:"Отключить немецкий курс"
 
-# (1) Zahlen
+# (1) Учи цифры
 a)
 
 1 = eins\
@@ -64,12 +64,12 @@ f)
 1000 = tausend\
 2000 = **zwei**tausend
 
-# (2) Alphabet 
+# (2) Учи алфавит
 a)
 
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
 
-# (3) слова
+# (3) учи слова
 
 a)
 
@@ -120,7 +120,7 @@ Kurs - курс\
 bis - до
 
 
-# (4) комбинация Rot + Auto
+# (4) запомни как говорить комбинацию Rot + Auto
 a)
 
 rot = rotes\
@@ -136,7 +136,7 @@ rotes Auto - красная машина
 ä = э\
 ß = с
 
-# (5) Artikel
+# (5) запомни это (Artikel)
 a)
 
 der, die, das
@@ -145,13 +145,11 @@ der, die, das
 - die Auto: nein
 - das Auto: ja
 
-# (6) один и больше (Einzahl & Mehrzahl)
+# (6) запомни как говорится один и больше (Einzahl & Mehrzahl)
 a)
 
 Один: das Auto
 Больше: die Autos
-
-b)
 
 Auto*s
 
