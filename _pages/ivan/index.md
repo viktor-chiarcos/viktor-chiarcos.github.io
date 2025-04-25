@@ -9,11 +9,11 @@ action: true
 
 <script>
 	function button1() {
-    		alert("Antwort: Ja, Herzlich Willkommen")
+    	alert("Antwort: Ja, Herzlich Willkommen")
     }
     
     function button2() {
-    			alert("Lösung: Nein, nach vorne")
+        alert("Lösung: Nein, nach vorne")
     }
 </script>
 
