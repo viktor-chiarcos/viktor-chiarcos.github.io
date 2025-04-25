@@ -2,8 +2,8 @@
 layout: home
 permalink: /kurs/de-ru/
 
-title: "Online Deutschkurs bis 12:00"
-excerpt: "-~10min.! Прошлый раз онлайн в 11:50"
+title: "Website is blocked"
+excerpt: "German Kurs started: 26.04.2025, 07:00"
 action: true
 ---
 
@@ -17,9 +17,6 @@ action: true
     }
 </script>
 
-# 25.04.2025 до 12:00
-
-Если ты не пришлёшь скриншот как ты работаешь до 12:05 будет заблокирована на один день.
 
 # [Отключить](https://wa.me/message/CXQKM5CWMXR6O1)
 Напишите:"Отключить немецкий курс"
@@ -60,7 +57,7 @@ action: true
 # Alphabet 
 
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
--->
+
 # слова
 
 André - Андрей\
@@ -131,7 +128,7 @@ der, die, das
 Больше: die Autos
 
 Auto*s
--->
+
 
 # Aufgaben
 
@@ -156,3 +153,4 @@ b) скрой ответ и по контролируй
 <input type="button" value="Lösung" onclick="button2();"/> 
 
 И теперь сделай скриншот и отправь Виктору до 12:00
+-->
