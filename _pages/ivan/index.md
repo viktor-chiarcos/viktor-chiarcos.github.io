@@ -2,8 +2,8 @@
 layout: home
 permalink: /kurs/de-ru/
 
-title: "Deutsch lernen"
-excerpt: "Mit Hilfe von Viktor's Webseite"
+title: "Online Deutschkurs bis 12:05"
+excerpt: "если вы до этого не сделаете задание будет заблокирован курс на один день."
 action: true
 ---
 
@@ -99,7 +99,9 @@ Ivan - Иван\
 Aquarium - Аквариум\
 warm - Тепло\
 kalt - Холодно\
-und - и
+und - и\
+Kurs - курс\
+bis - до
 
 <!--
 # комбинация Rot + Auto
