@@ -2,8 +2,8 @@
 layout: home
 permalink: /kurs/de-ru/
 
-title: "Online Deutschkurs bis 12:05"
-excerpt: "если вы до этого не сделаете задание будет заблокирован курс на один день."
+title: "Online Deutschkurs bis 12:00"
+excerpt: "~30min."
 action: true
 ---
 
