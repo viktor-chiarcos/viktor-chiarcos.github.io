@@ -21,7 +21,8 @@ action: true
 # [Отключить](https://wa.me/message/CXQKM5CWMXR6O1)
 Напишите:"Отключить немецкий курс"
 
-# Zahlen
+# (1) Zahlen
+a)
 
 1 = eins\
 2 = zwei\
@@ -32,32 +33,45 @@ action: true
 7 = sieben\
 8 = acht\
 9 = neun\
+b)
+
 10 = zehn\
 11 = elf\
 12 = zwölf\
 13 = dreizehn\
 ...
 
+c)
+
 20 = zwanzig\
 21 = **ein**und**zwanzig**\
 22 = **zwei**und**zwanzig**\
 ...
 
+d)
+
 30 = dreißig\
 ...
+
+e)
 
 100 = hundert\
 200 = **zwei**hundert\
 ...
 
+f)
+
 1000 = tausend\
 2000 = **zwei**tausend
 
-# Alphabet 
+# (2) Alphabet 
+a)
 
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
 
-# слова
+# (3) слова
+
+a)
 
 André - Андрей\
 anzeigen - показать\
@@ -70,6 +84,9 @@ Webseite - веб-сайт\
 Viktor - Виктор\
 Hilfe - помощь\
 lernen - учиться\
+
+b)
+
 von - от\
 Hallo - привет\
 Herzlich Willkommen - добро пожаловать\
@@ -86,6 +103,9 @@ vorne - впереди\
 hinten - сзади\
 links - лево\
 rechts - право\
+
+c)
+
 zurück - назад\
 Spiel - игра\
 nach - в / к\
@@ -100,10 +120,13 @@ Kurs - курс\
 bis - до
 
 
-# комбинация Rot + Auto
+# (4) комбинация Rot + Auto
+a)
 
 rot = rotes\
 Auto = Auto
+
+b)
 
 rotes Auto - красная машина 
 
@@ -113,7 +136,8 @@ rotes Auto - красная машина
 ä = э\
 ß = с
 
-# Artikel
+# (5) Artikel
+a)
 
 der, die, das
 
@@ -121,17 +145,20 @@ der, die, das
 - die Auto: nein
 - das Auto: ja
 
-# один и больше (Einzahl & Mehrzahl)
+# (6) один и больше (Einzahl & Mehrzahl)
+a)
 
 Один: das Auto
 Больше: die Autos
+
+b)
 
 Auto*s
 
 
 # Aufgaben
 
-# (1) что означает "да, добро пожаловать"?
+# (7) что означает "да, добро пожаловать"?
 
 a) подумай и напиши ответ
 
@@ -141,14 +168,12 @@ b) скрой ответ и проконтролируй
 
 <input type="button" value="Antwort" onclick="button1();"/> 
 
-# (2) что означает "нет, вперёд"?
+# (8) что означает "нет, вперёд"?
 
 a) подумай и напиши ответ
 
 Lösung: <input type="text" id="Feld" value=""/>
 
-b) скрой ответ и по контролируй
+b) скрой ответ и Проконтролируй
 
 <input type="button" value="Lösung" onclick="button2();"/> 
-
-И теперь сделай скриншот и отправь Виктору до 12:00
