@@ -23,6 +23,8 @@ action: true
 
 # [Отключить](https://wa.me/message/CXQKM5CWMXR6O1)
 Напишите:"Отключить немецкий курс"
+
+<!--
 # Zahlen
 
 1 = eins\
@@ -58,7 +60,7 @@ action: true
 # Alphabet 
 
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
-
+-->
 # слова
 
 André - Андрей\
@@ -99,7 +101,7 @@ warm - Тепло\
 kalt - Холодно\
 und - и
 
-
+<!--
 # комбинация Rot + Auto
 
 rot = rotes\
@@ -127,6 +129,7 @@ der, die, das
 Больше: die Autos
 
 Auto*s
+-->
 
 # Aufgaben
 
