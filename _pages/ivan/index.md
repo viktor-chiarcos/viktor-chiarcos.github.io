@@ -2,8 +2,8 @@
 layout: home
 permalink: /kurs/de-ru/
 
-title: "Deutschkurs"
-excerpt: "Через веб-сайт от Виктора"
+title: "KURS RUSSIAN TO GERMAN"
+excerpt: "SOURCE: viktor-chiarcos.github.io"
 action: true
 ---
 
