@@ -3,7 +3,7 @@ layout: home
 permalink: /kurs/de-ru/
 
 title: "KURS RUSSIAN TO GERMAN"
-excerpt: "SOURCE: viktor-chiarcos.github.io"
+excerpt: "SOURCE: https://viktor-chiarcos.github.io"
 action: true
 ---
 
