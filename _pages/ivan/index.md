@@ -83,7 +83,7 @@ Lösung - ответ\
 Webseite - веб-сайт\
 Viktor - Виктор\
 Hilfe - помощь\
-lernen - учиться\
+lernen - учиться
 
 b)
 
@@ -102,7 +102,7 @@ hell - светло\
 vorne - впереди\
 hinten - сзади\
 links - лево\
-rechts - право\
+rechts - право
 
 c)
 
@@ -137,7 +137,7 @@ rot - красный\
 gelb - зелёный\
 lila - фиолетовый\
 orange - оранжевый\
-violett = как: lila\
+violett = как: lila
 
 e1) **светлый и тёмный**
 
