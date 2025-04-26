@@ -35,7 +35,8 @@ a)
 6 = sechs\
 7 = sieben\
 8 = acht\
-9 = neun\
+9 = neun
+
 b)
 
 10 = zehn\
