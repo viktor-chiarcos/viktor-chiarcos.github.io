@@ -17,6 +17,8 @@ action: true
     }
 </script>
 
+# календарь
+<iframe src="https://calendar.google.com/calendar/embed?src=42ab02c85685eddc4af6e18c9a5bbf1bb6a0b0701e8e5b0f27e52c893c978cc3%40group.calendar.google.com&ctz=Europe%2FMoscow" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 
