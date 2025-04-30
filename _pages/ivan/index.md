@@ -28,7 +28,7 @@ action: true
 # смотри видео и учись говорить | через YouTube
 a) **26.04.2025**
 
-Видео ещё не доступно на YouTube.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BQC7OH9fBmQ" title="Video 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # (2) Учи цифры
 a)
