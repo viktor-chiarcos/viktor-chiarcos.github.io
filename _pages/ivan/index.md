@@ -65,7 +65,7 @@ d)
 
 e)
 
-100 = hundert\
+100 = hundert или **ein**hundert\
 200 = **zwei**hundert\
 ...
 
