@@ -157,6 +157,7 @@ e1) **светлый и тёмный**
 	- **hell**blau - **светло** голубой
 	- **dunkel**blau - **темно** голубой
 
+
 # (5) запомни как говорить комбинацию **Rot + Auto**
 a)
 
@@ -212,3 +213,9 @@ b) скрой ответ и Проконтролируй
 
 <input type="button" value="Lösung" onclick="button2();"/> 
 
+# (10) Verben (что я делаю)
+a)
+
+Fahrt (Поезтка) - fahren (ехать)\
+Spaziergang (Прогулка) - spazieren (гулять)\
+Entspannung (отдых) - enstpannen (отдыхать)
