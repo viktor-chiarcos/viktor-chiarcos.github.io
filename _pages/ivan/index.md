@@ -186,7 +186,7 @@ der, die, das
 # (7) запомни как говорится один и больше (Einzahl & Mehrzahl)
 a)
 
-Один: das Auto
+Один: das Auto\
 Больше: die Autos
 
 Auto*s
