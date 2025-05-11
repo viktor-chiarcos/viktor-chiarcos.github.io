@@ -2,14 +2,14 @@
 authors:
   - name: "Blog Author"
     headline: "Awesome blogger."
-    avatar: "awesome_author.svg" # display_picture.jpg
+    avatar: "awesome_author.svga" # display_picture.jpg
     follow:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: # link
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: # link
+      url: "https://github.com/viktor-chiarcos"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/chiarcos_viktor_krasavin/"
 
 # blog post share links
 share:

@@ -20,7 +20,7 @@ header:
   #  description: "Meine Linkliste"
   - title: "Buch"
     url: "/buch/"
-    description: "Das ist das Buch das ich schreibe"
+    description: "Das ist das Buch das ich schreibe" 
   #- title: "Linux"
   #  url: "/linux/"
   #  description: "Mein Computer Buch"
@@ -42,21 +42,44 @@ header:
   - title: "Andere Sprachen suchen"
     url: "/Sprachen/"
     descripton: ""
+  - title: "Viktor ChatBot"
+    url: https://colab.research.google.com/drive/1iEXHz0RyameR91slG6ztZO0hKNCi9_UF?usp=sharing
+    description: "Weiterleitender Link auf Google Codab unter spacer.py"
+  - title: "Extras"
+    url: "/html/"
+    descripton: "Meine Selbstgemachten Seiten"
+  - title: "Wetter"
+    url: "/wetter.de"
+    description: "Wetterinformation"
+  - title: "Linux Store"
+    url: "https://github.com/viktor-chiarcos/Programms"
+    description: "Installerpakete von mir für Linux"
+  - title: "Windows Store"
+    url: "https://github.com/viktor-chiarcos/Windows-Programms"
+    description: "Installerpakete von mir für Windows"
+  - title: "YouTube"
+    url: "/youtube/"
+    description: "Mein YouTube Kanal"
     
     # footer links
 footer:
   - owner: "Viktor Chiarcos"
     url: "https://github.com/viktor-chiarcos"
     description: "" # tool tip for your url
-    bio: "" # short bio
-    address: "32 Bahnhofstraße, Ladenburg, Baden Würtemberg, Deutschland"
+    bio: "I am a figure skater, and a big fan of tech. I love traveling the world 🌎, music 🎵 & programming🧑‍🔧." # short bio
   - social:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/viktor-chiarcos"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/chiarcos_viktor_krasavin/profilecard"
+      url: "https://www.instagram.com/chiarcos_viktor_krasavin"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://youtube.com/playlist?list=PLd4CqUFU7eIhaAKQimD99k0PSTV4GEl3W&si=Nx8STZMkiXjCuECX"
+    - label: "Whatsapp"
+      icon: "fab fa-fw fa-whatsapp"
+      url: "http://wa.me/4915750181646"
   - feed:
     - label: "Sitemap"
       icon: "fas fa-sitemap"

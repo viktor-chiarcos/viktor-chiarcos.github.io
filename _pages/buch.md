@@ -30,9 +30,70 @@ Nun bin ich los gefahren.
 
 ## Kapitel 3: Die Siegerehrung
 
+
 Zum Schluss ging ich raus, aber habe die Axels nicht ausgelassen.
 Dann dauerte es nur eine Stunde bis zur Siegerehrung.
 Am Ende Dauerte es ein bischen, bis ich meine Uhrkunde, und meine Medallie bekommen.
 Ich hatte den 5. Platz, von 5. Plätzen
 
 ***Ende***
+
+# 1. Platz auf dem Bodensee Arena Cup 2025
+
+## Einführung
+
+Am 2025-01-18 hatte ich einen Wettbewerb.
+An diesem Wettbewerb war ich alleine in der ***Kategorie Basic Novice A Jungen.***
+
+## Kapitel 1: Die Ankunft
+
+Nach ***3 Stunden Fahrt bin ich angekommen.***
+Nach der Ankunft musste ich auf Papa im Cafe warten, Weil er kein Kostenlosen Parkplatz gefunden hat.
+Zuerst hat Tim Gloria Bescheid gesagt, aber wir mussten warten weil sich der Auftritt sich auf ***15 Minuten verspätet hat.***
+
+## Kapitel 2: Das Aufwärmen
+
+Nach **Ungefähr** ***40 Minuten*** hat ***das Aufwärmen*** begonnen. 
+Ich habe kurz meine Sprünge gesprungen, Meine Kür durchgegangen und noch die Drehungen auf den Spinner Gedreht.
+
+   ***Reihnfolge:***
+
+|wann | was |
+|-----|-----|
+|Als erstes |Aufwährmungsübungen|
+|Als zweites|Sprünge|
+|Als drittes|Drehungen|
+|Als viertes|Kür laufen| 
+|Als fünftes|Dehnen|
+
+## Kapitel 3: Der Auftritt 
+
+Nach dem ***Aufwärmen*** musste ich aufs Eis
+
+***Reihnfolge:***
+
+|Was | Was habe ich gemacht|
+|----|---------------------|
+|Als Erstes habe ich | Mich Angezogen|
+|Dannach bin ich | Aufs Eis gegangen|
+|Anschließend hat Andre versuchte Hasen zu mir zu werfen aber hat ihn nur |auf den Boden geworfen.|
+|Als ich meine Kür gelaufen habe|Bekam ich ein Flauschihasen|
+
+
+## Kapitel 4: Die Siegerehrung
+
+Um ***13:10*** hatte ich ***Siegerehrung***.
+Weil ich der einzige Junge in der Kategorie war hatte ich natürlich den # 1.PLATZ
+
+
+|Was | Welcher|
+|----|--------|
+|Platz| Erster|
+|Punkte|20|
+|Vergleich mit Mädchen |Nicht der schlechteste|
+
+
+# Schluss
+
+Ich habe mich gefreut, dass ich mehr Punkte als Gloria haben wollte bekommen habe, Und ganze 4 PUNKTE MEHR ALS BEIM LETZTEN WETTBEWERB:).
+ 
