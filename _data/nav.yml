@@ -3,6 +3,9 @@ header:
   - title: "Über mich"
     url: "/about/"
     description: "Ich bin Viktor"
+  - title: Information
+    url: "/info/"
+    description: "Über diese Seite"
   - title: "Blog"
     url: "/blog/"
     description: "Was ich immer schon schreiben wollte"
