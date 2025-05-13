@@ -35,59 +35,12 @@ feature_rows:
 ---
 
 
-<!--
----
-layout: home
-permalink: /
 
-title: "URL Viktor Chiarcos"
-
-feature_rows:
-  - title: "Über mich"
-    excerpt: "Ich bin Viktor"
-    url: "/about/"
-    img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
-    img_alt: "..."
-  - title: "Blog"
-    excerpt: "List of recent blogs.."
-    url: "/blog/"
-    img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
-    img_alt: "Blog"
-  - title: "Technik"
-    excerpt: "Ich interessiere mich für Technik"
-    url: "/tech/"
-    img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
-    img_alt: "Technik"
- - title: "Eiskunstlauf"
-    excerpt: "Ich bin Eiskunstläufer"
-    url: "/ice/"
-    img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
-    img_alt: "Eiskunstlauf"
-- title: "Spiele mit Andre"
-  excerpt: 
-  url: "/games/"
-  img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
-  img_alt: "Spiele"
-  
-    
----
--->
 # Über die Webseite
-## Webseite von Viktor | Stand 2.3.25
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jrbPJaX0QD0?si=fRTU95BTxhgYwSAG" title="Webseite von Viktor | Stand 2.3.25" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Webseite von Viktor | Neuigkeiten
 
-<!-- 
-![](Entwurf/Viktor-Studio-2025.jpg)
--->
+- Hui, die Webseite ist in Google angeeldet
 
-<div style="text-align: center;">
-        <img src="Entwurf/Viktor-Studio-2025.jpg" alt="Bild: Frohes Neues Jahr!" style="width: 100%" />
-</div>
-
-
-<!--
-![](Entwurf/herzlich-willkommen.jpg)
--->
 
 <div style="text-align: center;">
         <img src="Entwurf/herzlich-willkommen.jpg" alt="Bild: Herzlich Willkommen!" style="width: 100%" />
