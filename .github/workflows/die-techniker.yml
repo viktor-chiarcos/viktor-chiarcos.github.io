@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Die Techniker Absendung
+name: Die Techniker Absendung (Lone Wolf Theme) [viktor-chiarcos.github.io]
 
 on:
   # Runs on pushes targeting the default branch
