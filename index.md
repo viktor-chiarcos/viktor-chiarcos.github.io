@@ -2,8 +2,8 @@
 layout: home
 permalink: /
 
-title: "Viktor's GitHub page"
-excerpt: "Selber in Markdown und html geschrieben"
+title: "Viktor's eigene Webseite"
+excerpt: "Die wichtigste Seite von mir."
 action: true
 #action_btn:
 #  - label: "Download"
