@@ -39,10 +39,9 @@ feature_rows:
   - title: "GitHub"
     excerept: "Mein GitHub Konto"
     url: "https://github.com/viktor-chiarcos"
-    
 ---
 
-
+[Benachrichtigungen](##messages)
 
 # Über die Webseite
 ## Webseite von Viktor | Neuigkeiten
@@ -91,7 +90,7 @@ Das ist die aktuelle Version der Webseite ;)
   - [Google(erste Möglichkeit))](https://meet.google.com/qdp-pqtz-fso)
   - [Yandex (Zweite Möglichkeit)](https://telemost.yandex.ru/j/48912595575715)
 
-# Mitteilungen (Werden maximal 7 Tage Gelagert)
+<h1 id="##messages>"Mitteilungen</h1>
 ## [***Aktivieren sie die Elektronische Benachrichtigungen***](https://chat.whatsapp.com/L4rY65bQCVtIRQMpIIz06b)
 
 - Die Seite ist nun in Google angemeldet (16.05.2025)
