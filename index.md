@@ -31,8 +31,15 @@ feature_rows:
     excerpt: "Ich interessiere mich für Technik"
     url: "/tech/"
   - title: "Extras"
-    excerpt: "Extras auf dieser Seite"
+    excerpt: "Viktor's HTML Webseite"
     url: "/html/"
+  - title: "YouTube"
+    excerept: "YouTube Videos von mir und von anderen"
+    url: "/youtube/"
+  - title: "GitHub"
+    excerept: "Mein GitHub Konto"
+    url: "https://github.com/viktor-chiarcos"
+    
 ---
 
 
