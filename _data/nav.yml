@@ -1,5 +1,8 @@
 # header links
 header:
+  - title: "START"
+    url: "/"
+    description: ""
   - title: "Über mich"
     url: "/about/"
     description: "Ich bin Viktor"
