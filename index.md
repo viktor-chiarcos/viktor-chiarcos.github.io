@@ -91,6 +91,7 @@ Das ist die aktuelle Version der Webseite ;)
   - [Yandex (Zweite Möglichkeit)](https://telemost.yandex.ru/j/48912595575715)
 
 <h1 id="##messages">Mitteilungen</h1>
+
 ## [***Aktivieren sie die Elektronische Benachrichtigungen***](https://chat.whatsapp.com/L4rY65bQCVtIRQMpIIz06b)
 
 - Die Seite ist nun in Google angemeldet (16.05.2025)
