@@ -30,8 +30,9 @@ feature_rows:
   - title: "Technik"
     excerpt: "Ich interessiere mich für Technik"
     url: "/tech/"
-    #img_path: "/Entwurf/hallo.jpg"
-    #img_alt: "Todo"
+  - title: "Extras"
+    excerpt: "Extras auf dieser Seite"
+    url: "/html/"
 ---
 
 
