@@ -54,7 +54,10 @@ header:
   - title: "mehr anzeigen"
     url: "/menu/"
     description: "Wegen eines Fehler kann es hier nicht weiter gehen. Da schon."
-    # footer links
+    # Keinen Schritt Weiter
+    # sonst kann man die Liste nur noch halb sehen
+    # Extra Menü unter https://github.com/viktor-chiarcos/viktor-chiarcos.github.io/blob/main/_pages/menu.md
+# footer links
 footer:
   - owner: "Viktor Chiarcos"
     url: "https://github.com/viktor-chiarcos"
