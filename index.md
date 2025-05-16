@@ -34,7 +34,7 @@ feature_rows:
     excerpt: "Viktor's HTML Webseite"
     url: "/html/"
   - title: "YouTube"
-    excerept: "YouTube Videos von mir und von anderen"
+    excerept: "Videos von mir & von anderen"
     url: "/youtube/"
   - title: "GitHub"
     excerept: "Mein GitHub Konto"
