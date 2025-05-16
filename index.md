@@ -41,7 +41,7 @@ feature_rows:
     url: "https://github.com/viktor-chiarcos"
 ---
 
-[Benachrichtigungen](##messages)
+[Benachrichtigungen](#messages)
 
 # Über die Webseite
 ## Webseite von Viktor | Neuigkeiten
@@ -90,7 +90,7 @@ Das ist die aktuelle Version der Webseite ;)
   - [Google(erste Möglichkeit))](https://meet.google.com/qdp-pqtz-fso)
   - [Yandex (Zweite Möglichkeit)](https://telemost.yandex.ru/j/48912595575715)
 
-<h1 id="##messages">Mitteilungen</h1>
+<h1 id="#messages">Mitteilungen</h1>
 
 ## [***Aktivieren sie die Elektronische Benachrichtigungen***](https://chat.whatsapp.com/L4rY65bQCVtIRQMpIIz06b)
 
