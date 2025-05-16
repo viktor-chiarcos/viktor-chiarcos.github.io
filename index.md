@@ -42,10 +42,6 @@ feature_rows:
 ---
 
 
-
-# Infozentrum
-**Fehler**: *Bei Verwendung im Querformat: Fehler: Menü wird nicht vollständig angezeigt*\
-**Behebung**: *Bei Verwendung im Querformat: Behebung des Fehlers: Zoom (Größe) auf 80% stellen*
 ## Webseite von Viktor | Neuigkeiten
 
 - Hui, die Webseite ist in Google angeeldet
