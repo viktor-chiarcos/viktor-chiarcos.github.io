@@ -63,6 +63,9 @@ header:
   - title: "YouTube"
     url: "/youtube/"
     description: "Mein YouTube Kanal"
+  - title: "My GitHub"
+    url: "https://github.com/viktor-chiarcos"
+    description: "Mein GitHub Konto"
     
     # footer links
 footer:
