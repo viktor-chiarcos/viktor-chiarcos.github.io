@@ -7,7 +7,7 @@ permalink: /screensharing/
 
 # Empfänger
 
-<iframe src="httpd://tvee.app" width="900" height="400" name="SELFHTML" title="Empfänger" allowfullscreen>
+<iframe src="https://tvee.app" width="900" height="400" name="SELFHTML" title="Empfänger" allowfullscreen>
 
 # Sender (Nur Computer)
 
