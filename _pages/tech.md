@@ -4,7 +4,8 @@ title: "Technik"
 permalink: /tech/
 ---
 
-Ich interessiere mich für Technik. 
+Ich interessiere mich für Technik.\
+Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 
 - Mit [ZNATOK](https://znatok.ru) baue ich Schaltkreise und programmiere sie mit [GraphZ](https://znatok.ru/files/arduino_mobile/Znatok-Arduino-Mobile-Graph-Z-Manual-Rus_1.pdf)
 - Mit meinem Raspberry Pi 5 erkunde ich Linux 

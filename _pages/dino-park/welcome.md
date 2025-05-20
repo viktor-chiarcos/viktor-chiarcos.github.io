@@ -13,7 +13,8 @@ action: true
 [Startseite](/dino-park)\
 Über uns\
 [Lieder](/dino-park/songs)\
-[Stolz](https://viktor-chiarcos.github.io/dino-park/stolz)
+[Stolz](https://viktor-chiarcos.github.io/dino-park/stolz)\
+[Organisationen](/dino-park/orgas/)
 
 
 # Wir sind die Tritzi Familie im Dinopark

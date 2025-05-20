@@ -8,14 +8,13 @@ action: true
 #action_btn:
 
 ---
-
-
 # Dino Menü
 
 [Startseite](/dino-park)\
 [Über uns](/dino-park/welcome)\
 Lieder\
-[Stolz](/dino-park/stolz)
+[Stolz](/dino-park/stolz)\
+[Organisationen](/dino-park/orgas/)
 
 # Texte
 ## Tritzi Baby

@@ -2,8 +2,8 @@
 layout: home
 permalink: /
 
-title: "Viktors Webseite"
-excerpt: "Willkommen bei mir"
+title: "Viktor's eigene Webseite"
+excerpt: "Die wichtigste Seite von mir."
 action: true
 #action_btn:
 #  - label: "Download"
@@ -30,61 +30,22 @@ feature_rows:
   - title: "Technik"
     excerpt: "Ich interessiere mich für Technik"
     url: "/tech/"
-    #img_path: "/Entwurf/hallo.jpg"
-    #img_alt: "Todo"
+  - title: "Extras"
+    excerpt: "Viktor's HTML Webseite"
+    url: "/html/"
+  - title: "YouTube"
+    excerept: "Videos von mir & von anderen"
+    url: "/youtube/"
+  - title: "GitHub"
+    excerept: "Mein GitHub Konto"
+    url: "https://github.com/viktor-chiarcos"
 ---
 
 
-<!--
----
-layout: home
-permalink: /
+## Webseite von Viktor | Neuigkeiten
 
-title: "URL Viktor Chiarcos"
+- Hui, die Webseite ist in Google angeeldet
 
-feature_rows:
-  - title: "Über mich"
-    excerpt: "Ich bin Viktor"
-    url: "/about/"
-    img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
-    img_alt: "..."
-  - title: "Blog"
-    excerpt: "List of recent blogs.."
-    url: "/blog/"
-    img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
-    img_alt: "Blog"
-  - title: "Technik"
-    excerpt: "Ich interessiere mich für Technik"
-    url: "/tech/"
-    img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
-    img_alt: "Technik"
- - title: "Eiskunstlauf"
-    excerpt: "Ich bin Eiskunstläufer"
-    url: "/ice/"
-    img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
-    img_alt: "Eiskunstlauf"
-- title: "Spiele mit Andre"
-  excerpt: 
-  url: "/games/"
-  img_path: "Entwurf/VIKTOR-WEBBILD.jpg"
-  img_alt: "Spiele"
-  
-    
----
--->
-
-<!-- 
-![](Entwurf/Viktor-Studio-2025.jpg)
--->
-
-<div style="text-align: center;">
-        <img src="Entwurf/Viktor-Studio-2025.jpg" alt="Bild: Frohes Neues Jahr!" style="width: 100%" />
-</div>
-
-
-<!--
-![](Entwurf/herzlich-willkommen.jpg)
--->
 
 <div style="text-align: center;">
         <img src="Entwurf/herzlich-willkommen.jpg" alt="Bild: Herzlich Willkommen!" style="width: 100%" />
@@ -126,11 +87,18 @@ Das ist die aktuelle Version der Webseite ;)
 - [Bitte benachrichtigen (Bitte schreiben Sie die Nachricht: "Hallo ich bin ..., Ich will telefonieren und möchte folgende Möglichkeit verwenden")](https://chat.whatsapp.com/CggRJX5SJn8FMcLwCfd8VJ)
   - [Google(erste Möglichkeit))](https://meet.google.com/qdp-pqtz-fso)
   - [Yandex (Zweite Möglichkeit)](https://telemost.yandex.ru/j/48912595575715)
+  - 
+# Mitteilugen
 
-# Mitteilungen (Werden maximal 7 Tage Gelagert)
-## [Aktivieren sie die Elektronische Benachrichtigungen](https://chat.whatsapp.com/L4rY65bQCVtIRQMpIIz06b)
+## [***Aktivieren sie die Elektronische Benachrichtigungen***](https://chat.whatsapp.com/L4rY65bQCVtIRQMpIIz06b)
 
-- Der Viktor ChatBot ist jetzt verfügbar (2025-2-14)
+- Die Seite ist nun in Google angemeldet (16.05.2025)
+
+&nbsp;
+
+**Mitteilungszentrale**
+
+- Der Viktor ChatBot ist jetzt verfügbar (14.2.3035)
 
 <!--
 &nbsp;
@@ -139,20 +107,6 @@ Das ist die aktuelle Version der Webseite ;)
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/58/Hinweissignal_Baustelle.png)
---
 
-<!-- 
-# Was hierher soll
 
-<p>#Website Wunsch 1 (this_well_me.md[Markdown_Dokument]) (Für meine Webseite)[<a href="http://viktor-chiarcos.github.io">http://viktor-chiarcos.github.io</a>]</p>
-<p>Link zu [<a href="https://github.com/viktor-chiarcos">https://github.com/viktor-chiarcos</a>]</p>
-<p>Editor für Text und BIld und Video Dateien</p>
-<p>Audio Recorder [Bitte nur zu Download und nicht Öffentlich]</p>
-<p>Presentationen erstellen [mit Presentation meine ich: Folien Erstellen mit Effekten verknüpfungen und Dateien]</p>
-<p>Cloud Speicher (Bitte so viel Speicher wie möglich mindesten 2 TB)</p>
-<p>Meeting Link [Bitte 5 Links erstellen, bever Peresonen beitreten sollen sie ihren Vornamen und Nachnamen Hinterlassen]</p>
-<p>Einen Unterlink mit dem ich verschiedene Webseiten nach meiner Wahl öffnen Kann</p>
-<p>Ein Webseitnlogo mit meiеm Bild</p>
-<p>Ein Speicher Für Kontakte</p>
-
-   -->
+-->
