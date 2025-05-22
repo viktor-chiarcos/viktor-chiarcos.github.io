@@ -9,9 +9,17 @@ excerpt: "Ich schreibe ein Buch über mich und verwende dabei Persöhnliche Date
 
 # Viktor's Buch
 
-***Das bin [ich auf GitHub](https://github.com/viktor-chiarcos)***, und [dort](https://github.com/viktor-chiarcos/My-Book)] schreibe ich eine Geschichte.
+***Das bin [ich auf GitHub](https://github.com/viktor-chiarcos)***, und [dort](https://github.com/viktor-chiarcos/My-Book) schreibe ich eine Geschichte.
 
-# Geschichte 1: Mannheimer Nikolauswettbewerb 2024
+# Einfach witziges Dorf
+
+**Herr Jemand** zeigt seinen Traktor in der Waschmaschiene.\
+**Oma** kauft einen Traktor in einem kleinem Supermarkt.\
+**Der Lehrer** zeigt ein Spielzeug während dem Frühstück.\
+**Das Rettungsteam** löst den Einsatz in der Badewanne.\
+**Der Lehrer** geht immer Sonntags einkaufen.
+
+# Mannheimer Nikolauswettbewerb 2024
 
 ## Kapitel 1: Die Ankunft
 
@@ -66,7 +74,7 @@ Ich habe kurz meine Sprünge gesprungen, Meine Kür durchgegangen und noch die D
 |Als viertes|Kür laufen| 
 |Als fünftes|Dehnen|
 
-## Kapitel 3: Der Auftritt 
+## Der Auftritt 
 
 Nach dem ***Aufwärmen*** musste ich aufs Eis
 
@@ -80,7 +88,7 @@ Nach dem ***Aufwärmen*** musste ich aufs Eis
 |Als ich meine Kür gelaufen habe|Bekam ich ein Flauschihasen|
 
 
-## Kapitel 4: Die Siegerehrung
+## Die Siegerehrung
 
 Um ***13:10*** hatte ich ***Siegerehrung***.
 Weil ich der einzige Junge in der Kategorie war hatte ich natürlich den # 1.PLATZ
@@ -93,7 +101,7 @@ Weil ich der einzige Junge in der Kategorie war hatte ich natürlich den # 1.PLA
 |Vergleich mit Mädchen |Nicht der schlechteste|
 
 
-# Schluss
+## Schluss
 
-Ich habe mich gefreut, dass ich mehr Punkte als Gloria haben wollte bekommen habe, Und ganze 4 PUNKTE MEHR ALS BEIM LETZTEN WETTBEWERB:).
+Ich habe mich gefreut, dass ich mehr Punkte als Gloria haben wollte bekommen habe, Und ganze 4 PUNKTE MEHR ALS BEIM LETZTEN WETTBEWERB.
  
