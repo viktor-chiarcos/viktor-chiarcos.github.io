@@ -9,7 +9,16 @@ excerpt: "Ich schreibe ein Buch über mich und verwende dabei Persöhnliche Date
 
 # Buch
 
+- [Einfach witziges Dorf](#einfach-witziges-dorf)
+- [Mannheimer Nikolauswettbewerb 2024](#merc-nikolauswettbewerb-2024)
+- [1. Platz auf dem Bodensee Arena Cup 2025](#erster-platz-auf-dem-bodensee-arena-cup-2025)
+
+
+
 ***Das bin [ich auf GitHub](https://github.com/viktor-chiarcos)***, und [dort](https://github.com/viktor-chiarcos/My-Book) schreibe ich eine Geschichte.
+
+
+<a id="einfach-witziges-dorf"/>
 
 # Einfach witziges Dorf
 ## Einleitung
@@ -36,8 +45,9 @@ Plötzlich kam ein **Feuer**!\
    <img src="/fotos/feuer_polizei_einfach_witziges_dorf.jpeg" alt="Das Feuer" style="width: 75%;text-align: center;"/>
 </div><br />
 
-Weil auf dem Schild stand **Notruf bei Feuer: Polizei (Handy 110)** ruft **André** die Polizei an.\
-Die **Polizei** sagt: „Sie haben ein Feuer?“\
+Weil auf dem Schild stand **Notruf bei Feuer: Polizei (Handy 110)**\
+Nun ruft **André** die Polizei an.\
+Die **Polizei** fragt: „Haben sie ein Feuer?“\
 **André** antwortet: „Ja.“\
 Die **Polizei** lacht: „Dann sind sie bei uns falsch!“\
 **André** berichtet: „Aber auf dem Schild steht Das wir euch anrufen.“\
@@ -48,7 +58,10 @@ Der **Polizist** meint: „Die Nummer heißt 110.“
 der **Feuerwehrmann** reagiert: „Wir sind in einer Sekude da.“
 Es verging schon eine Stunde!\
 Jetzt waren sie da.\
-Das Feuer ist Jetzt weg.\
+Das Feuer wurde immer größer.\
+Nun sagte der **Scheff**: „Schnell! An die Arbeit.“
+Jetzt war das Feuer endlich gelöscht.
+Dannach mussten sie ein Neues Schild hinstellen:<br>
 
 <div>
    <img src="/fotos/feuer_feuerwehr_einfach_witziges_dorf" alt="Die Waschmaschiene" style="width: 75%;text-align: center;"/>
@@ -57,7 +70,7 @@ Das Feuer ist Jetzt weg.\
 Nun steht das richtige Schild auf seinem Platz.
 
 
-
+<a id="merc-nikolauswettbewerb-2024"/>
 
 # Mannheimer Nikolauswettbewerb 2024
 
@@ -85,6 +98,8 @@ Am Ende Dauerte es ein bischen, bis ich meine Uhrkunde, und meine Medallie bekom
 Ich hatte den 5. Platz, von 5. Plätzen
 
 ***Ende***
+
+<a id="erster-platz-auf-dem-bodensee-arena-cup-2025"/>
 
 # 1. Platz auf dem Bodensee Arena Cup 2025
 
