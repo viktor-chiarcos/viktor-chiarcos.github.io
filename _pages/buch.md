@@ -44,7 +44,7 @@ Die **Polizei** lacht: „Dann sind sie bei uns falsch!“\
 Die **Polizei** sagt: „Aber wir haben zurzeit kein Material! Rufe lieber die Feuerwehr an.“\
 **André** ist verzweifelt: „Ich kenne die Handynummer nicht!“\
 Der **Polizist** meint: „Die Nummer heißt 110.“
-**André** ruft sofort die Feuerwehr an: „Kommt schnell. Hier brennts!“ 
+**André** ruft sofort die Feuerwehr an: „Kommt schnell. Hier brennts!“\
 der **Feuerwehrmann** reagiert: „Wir sind in einer Sekude da.“
 Es verging schon eine Stunde!\
 Jetzt waren sie da.\
