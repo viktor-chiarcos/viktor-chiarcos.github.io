@@ -56,7 +56,7 @@ Der **Polizist** meint: „Die Nummer heißt 110.“
 **André** ruft sofort die Feuerwehr an: „Kommt schnell. Hier brennts!“\
 der **Feuerwehrmann** reagiert: „Wir sind in einer Sekude da.“
 Es verging schon eine Stunde!\
-Jetzt waren sie da.\
+Jetzt waren sie da.
 
 
 <div>
@@ -64,6 +64,13 @@ Jetzt waren sie da.\
 </div><br />
 
 Nun steht das richtige Schild auf seinem Platz.
+
+# Kapitel 2: Der Schnee Notruf
+<details>
+   Bei einem Schneesturm ruft André die Feuerwehr, weil das so auf dem Schild stand
+</details>
+
+
 
 
 <a id="merc-nikolauswettbewerb-2024"/>
