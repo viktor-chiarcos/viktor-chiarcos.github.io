@@ -31,7 +31,7 @@ Samstags und Sonntags geht **Malte** zur Schule. Montag bis Freitag in den Kinde
 
 Eines Tages Spazierte **Andrè** im Dorf.\
 Plötzlich kam ein **Feuer**!\
-**André** hatte an diesem Tag ein *Handy* dabei.\
+**André** hatte an diesem Tag ein *Handy* dabei.<br>
 <div>
    <img src="/fotos/feuer_polizei_einfach_witziges_dorf.jpeg" alt="Das Feuer" style="width: 75%;text-align: center;"/>
 </div><br />
@@ -48,7 +48,7 @@ Der **Polizist** meint: „Die Nummer heißt 110.“
 der **Feuerwehrmann** reagiert: „Wir sind in einer Sekude da.“
 Es verging schon eine Stunde!\
 Jetzt waren sie da.\
-Das Feuer ist Jetzt weg.\
+Das Feuer ist Jetzt weg.<br>
 
 <div>
    <img src="/fotos/feuer_feuerwehr_einfach_witziges_dorf.png" alt="Das neue Schild" style="width: 75%;text-align: center;"/>
