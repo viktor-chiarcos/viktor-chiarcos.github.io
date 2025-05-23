@@ -5,16 +5,19 @@ title: "Das ist das Buch vom Viktor"
 excerpt: "Ich schreibe ein Buch über mich und verwende dabei Persöhnliche Daten."
 ---
 
+# Blog
+
 {%- include archive-list.html list_items=site.categories -%}
 
-# Viktor's Buch
+# Buch
 
 ***Das bin [ich auf GitHub](https://github.com/viktor-chiarcos)***, und [dort](https://github.com/viktor-chiarcos/My-Book) schreibe ich eine Geschichte.
 
 # Einfach witziges Dorf
 
-**Herr Jemand** zeigt seinen Traktor in der Waschmaschiene.\
-**Oma** kauft einen Traktor in einem kleinem Supermarkt.\
+**Herr Jemand** *zeigt* und *wäscht* seinen Traktor in der Waschmaschiene.\
+![](/fotos/waschmaschiene_einfach_witziges_dorf.jpeg)
+**Oma** kauft den *Himmel* in einem kleinem Supermarkt.\
 **Der Lehrer** zeigt ein Spielzeug während dem Frühstück.\
 **Das Rettungsteam** löst den Einsatz in der Badewanne.\
 **Der Lehrer** geht immer Sonntags einkaufen.
