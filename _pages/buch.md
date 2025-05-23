@@ -65,14 +65,6 @@ Endlich sind sie da
 
 Nun steht das richtige Schild auf seinem Platz.
 
-# Kapitel 2: Der Schnee Notruf
-<details>
-   Bei einem Schneesturm ruft André die Feuerwehr, weil das so auf dem Schild stand
-</details>
-
-
-
-
 <a id="merc-nikolauswettbewerb-2024"/>
 
 # Mannheimer Nikolauswettbewerb 2024
