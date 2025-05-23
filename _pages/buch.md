@@ -51,7 +51,7 @@ Jetzt waren sie da.\
 Das Feuer ist Jetzt weg.\
 
 <div>
-   <img src="/fotos/feuer_feuerwehr_einfach_witziges_dorf" alt="Die Waschmaschiene" style="width: 75%;text-align: center;"/>
+   <img src="/fotos/feuer_feuerwehr_einfach_witziges_dorf.png" alt="Das neue Schild" style="width: 75%;text-align: center;"/>
 </div><br />
 
 Nun steht das richtige Schild auf seinem Platz.
