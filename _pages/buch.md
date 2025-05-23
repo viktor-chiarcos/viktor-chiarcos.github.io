@@ -22,7 +22,9 @@ excerpt: "Ich schreibe ein Buch über mich und verwende dabei Persöhnliche Date
 **Oma** kauft den *Himmel* in einem kleinem Supermarkt.\
 **Der Lehrer** zeigt ein Spielzeug während dem Frühstück.\
 **Das Rettungsteam** löst den Einsatz in der Badewanne.\
-**Der Lehrer** geht immer Sonntags einkaufen.
+**Der Lehrer** geht immer Sonntags einkaufen.\
+Samstags und Sonntags geht **Malte** zur Schule. Montag bis Freitag in den Kindergarten.\
+**Im Dorf** hassen die Menschen Samstag und Sonntag weil sie Da zu Universität müssen.
 
 # Mannheimer Nikolauswettbewerb 2024
 
