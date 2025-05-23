@@ -12,7 +12,7 @@ authors:
       url: "https://instagram.com/viktorchiarcos"
 
 # blog post share links
- share:
+share:
    - label: "LinkedIn"
      icon: "fab fa-fw fa-linkedin"
      url: # link
