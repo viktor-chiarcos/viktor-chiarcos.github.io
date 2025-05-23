@@ -56,7 +56,7 @@ Der **Polizist** meint: „Die Nummer heißt 110.“
 **André** ruft sofort die Feuerwehr an: „Kommt schnell. Hier brennts!“\
 der **Feuerwehrmann** reagiert: „Wir sind in einer Sekude da.“
 Es verging schon eine Stunde!\
-Jetzt waren sie da.\
+Jetzt waren sie da.<br>
 
 
 <div>
