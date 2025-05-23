@@ -14,7 +14,7 @@ excerpt: "Ich schreibe ein Buch über mich und verwende dabei Persöhnliche Date
 # Einfach witziges Dorf
 ## Einleitung
 
-**Herr Jemand** *zeigt* und *wäscht* seinen Traktor in der Waschmaschiene.\
+**Herr Jemand** *zeigt* und *wäscht* seinen Traktor in der Waschmaschiene.<br>
 <div>
    <img src="/fotos/waschmaschiene_einfach_witziges_dorf.jpeg" alt="Die Waschmaschiene" style="width: 75%;text-align: center;"/>
 </div><br />
