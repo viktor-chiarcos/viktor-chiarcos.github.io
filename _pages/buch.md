@@ -9,6 +9,7 @@ excerpt: "Ich schreibe ein Buch über mich und verwende dabei Persöhnliche Date
 
 # Buch
 
+- [id Zurücksetzen](/buch)
 - [Einfach witziges Dorf](#einfach-witziges-dorf)
 - [Mannheimer Nikolauswettbewerb 2024](#merc-nikolauswettbewerb-2024)
 - [1. Platz auf dem Bodensee Arena Cup 2025](#erster-platz-auf-dem-bodensee-arena-cup-2025)
