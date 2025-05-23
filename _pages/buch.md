@@ -18,12 +18,11 @@ excerpt: "Ich schreibe ein Buch über mich und verwende dabei Persöhnliche Date
 ***Das bin [ich auf GitHub](https://github.com/viktor-chiarcos)***, und [dort](https://github.com/viktor-chiarcos/My-Book) schreibe ich eine Geschichte.
 
 
-<a id="einfach-witziges-dorf"/>
 
 # Einfach witziges Dorf
 ## Einleitung
 
-**Herr Jemand** *zeigt* und *wäscht* seinen Traktor in der Waschmaschiene.\
+**Herr Jemand** *zeigt* und *wäscht* seinen Traktor in der Waschmaschiene.<br>
 <div>
    <img src="/fotos/waschmaschiene_einfach_witziges_dorf.jpeg" alt="Die Waschmaschiene" style="width: 75%;text-align: center;"/>
 </div><br />
@@ -40,7 +39,7 @@ Samstags und Sonntags geht **Malte** zur Schule. Montag bis Freitag in den Kinde
 
 Eines Tages Spazierte **Andrè** im Dorf.\
 Plötzlich kam ein **Feuer**!\
-**André** hatte an diesem Tag ein *Handy* dabei.\
+**André** hatte an diesem Tag ein *Handy* dabei.<br>
 <div>
    <img src="/fotos/feuer_polizei_einfach_witziges_dorf.jpeg" alt="Das Feuer" style="width: 75%;text-align: center;"/>
 </div><br />
@@ -54,17 +53,14 @@ Die **Polizei** lacht: „Dann sind sie bei uns falsch!“\
 Die **Polizei** sagt: „Aber wir haben zurzeit kein Material! Rufe lieber die Feuerwehr an.“\
 **André** ist verzweifelt: „Ich kenne die Handynummer nicht!“\
 Der **Polizist** meint: „Die Nummer heißt 110.“
-**André** ruft sofort die Feuerwehr an: „Kommt schnell. Hier brennts!“ 
+**André** ruft sofort die Feuerwehr an: „Kommt schnell. Hier brennts!“\
 der **Feuerwehrmann** reagiert: „Wir sind in einer Sekude da.“
 Es verging schon eine Stunde!\
 Jetzt waren sie da.\
-Das Feuer wurde immer größer.\
-Nun sagte der **Scheff**: „Schnell! An die Arbeit.“
-Jetzt war das Feuer endlich gelöscht.
-Dannach mussten sie ein Neues Schild hinstellen:<br>
+
 
 <div>
-   <img src="/fotos/feuer_feuerwehr_einfach_witziges_dorf" alt="Die Waschmaschiene" style="width: 75%;text-align: center;"/>
+   <img src="/fotos/feuer_feuerwehr_einfach_witziges_dorf.png" alt="Das neue Schild" style="width: 75%;text-align: center;"/>
 </div><br />
 
 Nun steht das richtige Schild auf seinem Platz.
