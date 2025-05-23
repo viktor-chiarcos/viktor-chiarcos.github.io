@@ -5,8 +5,6 @@ title: "Das ist das Buch vom Viktor"
 excerpt: "Ich schreibe ein Buch über mich und verwende dabei Persöhnliche Daten."
 ---
 
-# Blog
-
 {%- include archive-list.html list_items=site.categories -%}
 
 # Buch
