@@ -15,7 +15,7 @@ excerpt: "Ich schreibe ein Buch über mich und verwende dabei Persöhnliche Date
 
 **Herr Jemand** *zeigt* und *wäscht* seinen Traktor in der Waschmaschiene.\
 <div style="text-align: center;">
-   <img src="/fotos/waschmaschiene_einfach_witziges_dorf.jpeg" alt="Die Waschmaschiene" style="width: 75%;text-align: center;" />
+   <img src="/fotos/waschmaschiene_einfach_witziges_dorf.jpeg" alt="Die Waschmaschiene" style="width: 75%;text-align: center;/>
 </div>
 
 **Oma** kauft den *Himmel* in einem kleinem Supermarkt.\
