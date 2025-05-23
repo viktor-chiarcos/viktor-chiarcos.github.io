@@ -12,6 +12,7 @@ excerpt: "Ich schreibe ein Buch über mich und verwende dabei Persöhnliche Date
 ***Das bin [ich auf GitHub](https://github.com/viktor-chiarcos)***, und [dort](https://github.com/viktor-chiarcos/My-Book) schreibe ich eine Geschichte.
 
 # Einfach witziges Dorf
+## Einleitung
 
 **Herr Jemand** *zeigt* und *wäscht* seinen Traktor in der Waschmaschiene.\
 <div>
@@ -25,6 +26,38 @@ excerpt: "Ich schreibe ein Buch über mich und verwende dabei Persöhnliche Date
 **Der Lehrer** geht immer Sonntags einkaufen.\
 Samstags und Sonntags geht **Malte** zur Schule. Montag bis Freitag in den Kindergarten.\
 **Im Dorf** hassen die Menschen Samstag und Sonntag weil sie Da zu Universität müssen.
+
+# Kapitel 1: Das Feuer
+
+Eines Tages Spazierte **Andrè** im Dorf.\
+Plötzlich kam ein **Feuer**!\
+**André** hatte an diesem Tag ein *Handy* dabei.\
+<div>
+   <img src="/fotos/feuer_polizei_einfach_witziges_dorf.jpeg" alt="Das Feuer" style="width: 75%;text-align: center;"/>
+</div><br />
+
+Weil auf dem Schild stand **Notruf bei Feuer: Polizei (Handy 110)** ruft **André** die Polizei an.\
+Die **Polizei** sagt: „Sie haben ein Feuer?“\
+**André** antwortet: „Ja.“\
+Die **Polizei** lacht: „Dann sind sie bei uns falsch!“\
+**André** berichtet: „Aber auf dem Schild steht Das wir euch anrufen.“\
+Die **Polizei** sagt: „Aber wir haben zurzeit kein Material! Rufe lieber die Feuerwehr an.“\
+**André** ist verzweifelt: „Ich kenne die Handynummer nicht!“\
+Der **Polizist** meint: „Die Nummer heißt 110.“
+**André** ruft sofort die Feuerwehr an: „Kommt schnell. Hier brennts!“ 
+der **Feuerwehrmann** reagiert: „Wir sind in einer Sekude da.“
+Es verging schon eine Stunde!\
+Jetzt waren sie da.\
+Das Feuer ist Jetzt weg.\
+
+<div>
+   <img src="/fotos/feuer_feuerwehr_einfach_witziges_dorf" alt="Die Waschmaschiene" style="width: 75%;text-align: center;"/>
+</div><br />
+
+Nun steht das richtige Schild auf seinem Platz.
+
+
+
 
 # Mannheimer Nikolauswettbewerb 2024
 
