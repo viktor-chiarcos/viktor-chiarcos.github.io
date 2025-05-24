@@ -45,19 +45,20 @@ Plötzlich kam ein **Feuer**!\
    <img src="/fotos/feuer_polizei_einfach_witziges_dorf.jpeg" alt="Das Feuer" style="width: 75%;text-align: center;"/>
 </div><br />
 
-Weil auf dem Schild stand **Notruf bei Feuer: Polizei (Handy 110)**\
-Nun ruft **André** die Polizei an.\
+Weil auf dem Schild stand **Notruf bei Feuer: Polizei (Handy 110)** rufte André die **Polizei** an.\
 Die **Polizei** fragt: „Haben sie ein Feuer?“\
 **André** antwortet: „Ja.“\
 Die **Polizei** lacht: „Dann sind sie bei uns falsch!“\
 **André** berichtet: „Aber auf dem Schild steht Das wir euch anrufen.“\
 Die **Polizei** sagt: „Aber wir haben zurzeit kein Material! Rufe lieber die Feuerwehr an.“\
 **André** ist verzweifelt: „Ich kenne die Handynummer nicht!“\
-Der **Polizist** meint: „Die Nummer heißt 110.“
+Der **Polizist** meint: „Die Nummer heißt 112.“\
 **André** ruft sofort die Feuerwehr an: „Kommt schnell. Hier brennts!“\
 der **Feuerwehrmann** reagiert: „Wir sind in einer Sekude da.“
 Es verging schon eine Stunde!\
-Endlich sind sie da
+Endlich sind sie da\
+Schnell löschten sie das Feuer.\
+Jetzt stellten sie das Schild auf.<br>
 
 
 <div>
