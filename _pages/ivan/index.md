@@ -2,11 +2,12 @@
 layout: home
 permalink: /kurs/de-ru/
 
-title: "KURS RUSSIAN TO GERMAN"
-excerpt: "SOURCE: https://viktor-chiarcos.github.io"
+title: "KURS RUSSIAN TO GERMAN MOVED TO"
+excerpt: "https://fam-chiarcos.github.io/kurs/de-ru"
 action: true
 ---
 
+<!---
 <script>
 	function button1() {
     	alert("Antwort: Ja, Herzlich Willkommen")
@@ -228,3 +229,4 @@ a)
 𝚂𝚙𝚊𝚣𝚒𝚎𝚛𝚐𝚊𝚗𝚐 (Прогулка) 𝚜𝚙𝚊𝚣𝚒𝚎𝚛𝚎𝚗 (гулять)\
 𝙴𝚗𝚝𝚜𝚙𝚊𝚗𝚗𝚞𝚗𝚐 (отдых) - 𝚎𝚗𝚝𝚜𝚙𝚊𝚗𝚗𝚎𝚗 (отдыхать)\
 𝚂𝚙𝚒𝚎𝚕 (игра) - 𝚜𝚙𝚒𝚎𝚕𝚎𝚗 (играть)
+-->
