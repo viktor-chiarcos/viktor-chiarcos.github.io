@@ -39,7 +39,6 @@ feature_rows:
     url: "https://github.com/viktor-chiarcos"
 ---
 
-<title>Webseite von @ Viktor Chiarcos</title>
 
 ## Webseite von Viktor | Neuigkeiten
 
