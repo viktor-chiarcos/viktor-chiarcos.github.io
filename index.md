@@ -1,7 +1,8 @@
 ---
 layout: home
 permalink: /
-excerpt: "Die wichtigste Seite von mir."
+title: "Viktor Chiarcos"
+excerpt: "Die Webseite"
 action: true
 #action_btn:
 #  - label: "Download"
