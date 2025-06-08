@@ -1,8 +1,6 @@
 ---
 layout: home
 permalink: /
-
-title: "Viktor's eigene Webseite"
 excerpt: "Die wichtigste Seite von mir."
 action: true
 #action_btn:
@@ -15,7 +13,6 @@ action: true
 #    - label: "v1.0.2"
 #      url: "https://github.com/manid2/lone-wolf-theme/releases/tag/v1.0.2"
 #      fa_icon: "fas fa-arrow-down"
-
 feature_rows:
   - title: "Über mich"
     excerpt: "Ich bin Viktor"
@@ -41,6 +38,7 @@ feature_rows:
     url: "https://github.com/viktor-chiarcos"
 ---
 
+<title>Webseite von @ Viktor Chiarcos</title>
 
 ## Webseite von Viktor | Neuigkeiten
 
