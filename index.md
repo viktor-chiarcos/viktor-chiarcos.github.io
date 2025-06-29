@@ -71,6 +71,19 @@ ist jetzt im Menü oben
 - [404-Error Demonstration öffnen](http://viktor-chiarcos.github.io/404-error/demonstraion)
 
 -->
+<h1>Snake</h1>
+<details title="Unterstützte Geräte">
+	<ul>
+		<h1>Unterstützte Geräte</h1>
+		<li>Computer</li>
+		<h1>Tastenkürzel</h1>
+		<li>Hintergrund: g=Grüner Ramen ; r=Roter Ramen ; b=Blauer Ramen ; o=Originaler Ramen</li>
+		<li>Pfeiltasten: Rechts=Nach Rechts ; Oben=Nach Oben ; Unten=Nach Unten ; Links=Nach Links</li>
+	</ul>
+</details>
+<iframe width="680" height="471" frameborder="0" allowfullscreen="" allow="geolocation; microphone; camera" title="SNAKE" src="https://snap.berkeley.edu/embed?projectname=snake&amp;username=viktor%2dchiarcos&amp;showTitle=true&amp;showAuthor=true"> </iframe>
+<h1>Maler</h1>
+<iframe width="680" height="471" frameborder="0" allowfullscreen="" allow="geolocation; microphone; camera" title="MALER" src="https://snap.berkeley.edu/embed?projectname=maler&amp;username=viktor%2dchiarcos&amp;showTitle=true&amp;showAuthor=true"> </iframe>
 
 - ## Software: ViktorOS 2.5
 
