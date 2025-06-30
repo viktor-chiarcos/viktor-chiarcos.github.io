@@ -48,7 +48,7 @@ feature_rows:
 </details>
 <iframe width="680" height="471" frameBorder=0 allowfullscreen allow="geolocation; microphone; camera" title="SNAKE" src="https://snap.berkeley.edu/embed?projectname=snake&username=viktor%2dchiarcos&"> </iframe>
 <h1>Maler</h1>
-<iframe width="680" height="471" frameBorder=0 allowfullscreen allow="geolocation; microphone; camera" title="MALER" src="https://snap.berkeley.edu/embed?projectname=maler&username=viktor%2dchiarcos&> </iframe>
+<iframe width="680" height="471" frameBorder=0 allowfullscreen allow="geolocation; microphone; camera" title="MALER" src="https://snap.berkeley.edu/embed?projectname=maler&username=viktor%2dchiarcos&"> </iframe>
 <h1>Fangen</h1>Versuche einfach „alonzo“ zu fangen<br>
 <iframe width="680" height="471" frameBorder=0 allowfullscreen allow="geolocation; microphone; camera" title="Fangen" src="https://snap.berkeley.edu/embed?projectname=fangen&username=viktor%2dchiarcos&"> </iframe><br><br>
 
