@@ -2,9 +2,9 @@
 layout: page
 permalink: /menu/
 title: Menü
-excerpt: "Das Menü kann auf grund eines Fehlers nich voll sein. Das schon"
+excerpt: "Das Menü kann auf grund eines Fehlers nicht voll sein. Das schon"
 ---
-
+## [Ausführbare Inhalte (Computerspiele, Videos und vieles mehr)](/run/)
 ## [Über mich](/about/)
 ## [Information](/info/)
 ## [Technik](/tech/)
