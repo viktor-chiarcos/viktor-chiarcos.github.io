@@ -37,10 +37,14 @@ feature_rows:
   - title: "GitHub"
     excerept: "Mein GitHub Konto"
     url: "https://github.com/viktor-chiarcos"
+  - title: "Extras 2"
+    excerept: ""
+    url: "/extra2/"
 ---
 
 ## Webseite von Viktor | Neuigkeiten
 
+- NEU: Jetzt [Extras 2 ansehen](/extra2/)
 - NEU: [Ausführbare Inhalte](/run) im [Menü](/menu/)
 - Hui: die Webseite ist in Google angeeldet
 
