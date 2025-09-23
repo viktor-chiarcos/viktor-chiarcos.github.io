@@ -3,6 +3,19 @@
 ---
 
 <!DOCTYPE html>
+<script>
+  'use strict';
+(function () {
+	function init() {
+		var datum = new Date();
+		document.getElementById('zeit')
+			.innerHTML = datum;
+	}
+	document.addEventListener("DOMContentLoaded", function () {
+		init();
+	});
+}());
+</script>
 <html lang="{{ site.lang | slice: 0,2 | default: "en" }}">
 
 {% include head.html %}
@@ -14,6 +27,10 @@
     {% include header.html %}
     <!-- page content -->
     <main class="page-content" role="main">
+      <h1>Aktuelle Zeit</h1>
+<main>
+		<time aria-current="date" id="zeit"></time>
+</main>
       {{ content }}
     </main>
     <!-- page footer -->
