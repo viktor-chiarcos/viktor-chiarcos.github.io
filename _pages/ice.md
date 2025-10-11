@@ -8,6 +8,13 @@ Ich bin Eiskunstläufer, ich lade hier Bilder hoch, manche habe ich gemalt und m
 
 &nbsp;
 
+# Mein Profil
+Was dich dort erwartet:
+
+- Bestleistungen
+- Bestplatzierungen
+- Ergebnisse
+- und vieles mehr...
 [Mein Profil anzeigen](https://deu-s.de/athletinnen/name/viktorchiarcos)
 
 # Vereinsmeisterschaft 2024 in Mannheim
