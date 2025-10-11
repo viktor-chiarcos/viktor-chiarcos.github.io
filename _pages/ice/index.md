@@ -28,7 +28,7 @@ Datum: 11.10.2025\
 Platz: 2 von 2\
 Saison 2025/26\
 Stadt: Essen\
-Kategorie: Basic Novice A Jungen\
+Kategorie: Anwerter Jungen (Basic Novice A Jungen)\
 Punkte: 15
 
 Mehr Infos auf [deu-s.de](https://deu-s.de/wettbewerbe/RUHRC/25-26)
