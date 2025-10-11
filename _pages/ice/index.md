@@ -39,7 +39,7 @@ Noch nicht veröffentlicht
 ## Die Bilder
 
 <div style="text-align: center;">
-<img src="blob:https://github.com/ddf2cafd-9cc7-46c4-b404-4b903920fb2a" alt="Bild: Platz 1 in meiner Gruppe, gemalt" style="width: 60%;text-align: center;" />
+<img src="https://raw.githubusercontent.com/viktor-chiarcos/viktor-chiarcos.github.io/refs/heads/main/_pages/ice/IMG_9835.jpeg" style="width: 60%;text-align: center;" />
 </div>
 # Bereich alter veröffentlichungen
 
