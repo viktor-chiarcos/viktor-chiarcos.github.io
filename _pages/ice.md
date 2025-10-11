@@ -29,6 +29,7 @@ Stadt: Essen\
 Kategorie: Basic Novice A Jungen\
 Punkte: 15
 
+Mehr Infos auf [deu-s.de](https://deu-s.de/wettbewerbe/RUHRC/25-26)
 ## Die Geschichte
 
 Noch nicht veröffentlicht
@@ -36,6 +37,8 @@ Noch nicht veröffentlicht
 ## Die Bilder
 
 Noch nicht veröffentlicht
+
+# Bereich alter veröffentlichungen
 
 # Vereinsmeisterschaft 2024 in Mannheim
 
