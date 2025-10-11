@@ -38,8 +38,9 @@ Noch nicht veröffentlicht
 
 ## Die Bilder
 
-Noch nicht veröffentlicht
-
+<div style="text-align: center;">
+<img src="./IMG_9853" alt="Bild: Platz 1 in meiner Gruppe, gemalt" style="width: 60%;text-align: center;" />
+</div>
 # Bereich alter veröffentlichungen
 
 # Vereinsmeisterschaft 2024 in Mannheim
