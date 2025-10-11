@@ -18,6 +18,25 @@ Was dich dort erwartet:
 
 [Mein Profil anzeigen](https://deu-s.de/athletinnen/name/viktorchiarcos)
 
+# Berichte (Seit 11. Oktober 2025)
+
+# Bericht Nr. 1: Ruhr Cup 2025
+## Informationen
+Datum: 11.10.2025\
+Platz: 2 von 2\
+Saison 2025/26\
+Stadt: Essen\
+Kategorie: Basic Novice A Jungen\
+Punkte: 15
+
+## Die Geschichte
+
+Noch nicht veröffentlicht
+
+## Die Bilder
+
+Noch nicht veröffentlicht
+
 # Vereinsmeisterschaft 2024 in Mannheim
 
 <!-- 
