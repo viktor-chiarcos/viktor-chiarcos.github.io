@@ -18,7 +18,8 @@ Was dich dort erwartet:
 
 [Mein Profil anzeigen](https://deu-s.de/athletinnen/name/viktorchiarcos)
 
-# Berichte (Seit 11. Oktober 2025)
+# Berichte 
+(Berichte enthalten Infos über Termine. Dieses Projekt gibt es seit dem 11. Oktober 2025)
 
 # Bericht Nr. 1: Ruhr Cup 2025
 ## Informationen
