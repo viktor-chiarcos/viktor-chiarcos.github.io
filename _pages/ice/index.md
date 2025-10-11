@@ -51,7 +51,7 @@ Noch nicht veröffentlicht
 -->
 
 <div style="text-align: center;">
-<img src="../Entwurf/Viktor-Platz-1.jpg" alt="Bild: Platz 1 in meiner Gruppe, gemalt" style="width: 60%;text-align: center;" />
+<img src="../Entwurf/Viktor-Platz-1.jpg" alt="Bild: Platz 1 in meiner Gruppe, gemalt" style="width: 80%;text-align: center;" />
 </div>
 
 
@@ -59,5 +59,5 @@ Noch nicht veröffentlicht
 
 
 <div style="text-align: center;">
-<img src="/Entwurf/bundesjugendspiele.jpg" alt="Bild: Bundesjugendspiele 2025 (Urkunde)" style="width: 60%;text-align: center;" />
+<img src="/Entwurf/bundesjugendspiele.jpg" alt="Bild: Bundesjugendspiele 2025 (Urkunde)" style="width: 80%;text-align: center;" />
 </div>
