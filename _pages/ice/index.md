@@ -41,6 +41,7 @@ Noch nicht veröffentlicht
 <div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/viktor-chiarcos/viktor-chiarcos.github.io/refs/heads/main/_pages/ice/IMG_9835.jpeg" style="width: 60%;text-align: center;" />
 </div>
+
 # Bereich alter veröffentlichungen
 
 # Vereinsmeisterschaft 2024 in Mannheim
