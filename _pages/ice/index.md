@@ -39,7 +39,7 @@ Noch nicht veröffentlicht
 ## Die Bilder
 
 <div style="text-align: center;">
-<img src="./IMG_9853" alt="Bild: Platz 1 in meiner Gruppe, gemalt" style="width: 60%;text-align: center;" />
+<img src="blob:https://github.com/ddf2cafd-9cc7-46c4-b404-4b903920fb2a" alt="Bild: Platz 1 in meiner Gruppe, gemalt" style="width: 60%;text-align: center;" />
 </div>
 # Bereich alter veröffentlichungen
 
