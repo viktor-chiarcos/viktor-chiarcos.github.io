@@ -23,6 +23,7 @@ Was dich dort erwartet:
 
 # Bericht Nr. 1: Ruhr Cup 2025
 ## Informationen
+Typ: Wettbewerb\
 Datum: 11.10.2025\
 Platz: 2 von 2\
 Saison 2025/26\
