@@ -22,6 +22,16 @@ Was dich dort erwartet:
 (Berichte enthalten Infos über Termine. Dieses Projekt gibt es seit dem 11. Oktober 2025)
 
 # Bericht Nr. 1: Ruhr Cup 2025
+<a id="bericht=1">
+
+# Likes
+0 Likes **(Zuletzt aktualisiert am 12.10.2025)**
+[Like erstellen](https://chat.whatsapp.com/CggRJX5SJn8FMcLwCfd8VJ)\
+Wenn sie gleich auf den Link klicken dann geben sie im Chat ein:
+
+    Ich möchte ein Like erstellen
+    Link: https://viktor-chiarcos.github.io/ice#bericht=1
+
 ## Informationen
 Typ: Wettbewerb\
 Datum: 11.10.2025\
@@ -37,10 +47,7 @@ Mehr Infos auf [deu-s.de](https://deu-s.de/wettbewerbe/RUHRC/25-26)
 Noch nicht veröffentlicht
 
 ## Die Bilder
-
-<div style="text-align: center;">
-<img src="https://raw.githubusercontent.com/viktor-chiarcos/viktor-chiarcos.github.io/refs/heads/main/_pages/ice/IMG_9835.jpeg" style="width: 80%;text-align: center;" />
-</div>
+Noch keine Bilder veröffentlicht
 
 # Bereich alter veröffentlichungen
 
