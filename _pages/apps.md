@@ -1,7 +1,8 @@
 ---
 layout: home
-title: "Apps suf viktor-chiarcos.github.io"
+title: "Apps auf viktor-chiarcos.github.io"
 permalink: /apps/
+description: "Apps auf der Webseite"
 ---
 
 - #### [UhrzeitApp](/clock)
