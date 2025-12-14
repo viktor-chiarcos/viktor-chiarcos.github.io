@@ -4,6 +4,8 @@ permalink: /menu/
 title: Menü
 excerpt: "Das Menü kann auf grund eines Fehlers nicht voll sein. Das schon"
 ---
+
+## [Apps](/apps)
 ## [Extras 2](/extra2/)
 ## [Ausführbare Inhalte (Computerspiele, Videos und vieles mehr)](/run/)
 ## [Über mich](/about/)
