@@ -41,7 +41,13 @@ feature_rows:
     excerept: ""
     url: "/extra2/"
 ---
+# Aktuelle Version: ViktorOS 10.1
+## Neue Funktionen und Änderungen bei ViktorOS 10.1
 
+- Aktuelle Version — Übersicht jetzt ganz oben
+- NEU: Neue Funktionen — Übersicht: gleich unter der Aktuelle Version — Übersicht
+- **NEU: Browser-Apps**
+- ***NEU unter Browser-Apps: UhrzeitApp | gleich auf [viktor-chiarcos.github.io/clock](https://viktor-chiarcos.github.io/clock)***
 ## Webseite von Viktor | Neuigkeiten
 
 - NEU: Jetzt [Extras 2 ansehen](/extra2/)
@@ -75,10 +81,6 @@ ist jetzt im Menü oben
 
 -->
 
-
-- ## Software: ViktorOS 2.5
-
-Das ist die aktuelle Version der Webseite ;)
 
 - [Änderungen Vorschlagen und Vornehmen, Kommentare Senden und Webseite Bewerten](https://chat.whatsapp.com/CggRJX5SJn8FMcLwCfd8VJ)
 
