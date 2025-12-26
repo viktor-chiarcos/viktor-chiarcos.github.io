@@ -47,7 +47,8 @@ feature_rows:
 - Aktuelle Version — Übersicht jetzt ganz oben
 - NEU: Neue Funktionen — Übersicht: gleich unter der Aktuelle Version — Übersicht
 - **NEU: Browser-Apps**
-- ***NEU unter Browser-Apps: UhrzeitApp | gleich auf [viktor-chiarcos.github.io/clock](https://viktor-chiarcos.github.io/clock)***
+- ***NEU unter Browser-Apps: UhrzeitApp — gleich auf [viktor-chiarcos.github.io/clock](https://viktor-chiarcos.github.io/clock)***
+
 ## Webseite von Viktor | Neuigkeiten
 
 - NEU: Jetzt [Extras 2 ansehen](/extra2/)
