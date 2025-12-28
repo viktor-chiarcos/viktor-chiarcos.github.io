@@ -44,7 +44,9 @@ feature_rows:
 # Aktuelle Version: ViktorOS 10.1.2
 ## Verbesserungen bei ViktorOS 10.1.2
 
-- Fehlerbehebungen im Design von `index.md` ([https://github.com/viktor-chiarcos/viktor-chiarcos.github.io/blob/main/index.md](https://github.com/viktor-chiarcos/viktor-chiarcos.github.io/blob/main/index.md)
+- Fehlerbehebungen im Design von `index.md` ([https://github.com/viktor-chiarcos/viktor-chiarcos.github.io/blob/main/index.md](https://github.com/viktor-chiarcos/viktor-chiarcos.github.io/blob/main/index.md))
+
+
 ## Verbesserungen bei ViktorOS 10.1.1
 
 - Fehlerbehebungen beim Design in `markdown`
