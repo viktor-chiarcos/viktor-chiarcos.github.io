@@ -106,6 +106,16 @@ Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 
 &nbsp;
 
+# Backup
+
+     sudo tar -cvzpf /media/wohnzimmer/FamilyBox/backup-viktor/linux-viktor/2026-01-25.tgz /usr/ /bin/ /home/ /root /etc /var /lib /Public /opt /sbin /snap /srv /sys
+
+                     _________________________________________________________________     __________________________________________________________________________
+
+## Unterstrichene Orte sollen ersetzt werden
+
+**Strich 1:** Speicherort (tgz muss sein!)\
+**Strich 2:** Pfade zum speichern (**EMPFOHLEN: /usr /home /sbin /sys /srv /var /lib /etc**)
 ## ZNATOK
 
 - Meine [GraphZ](https://znatok.ru/link/?start-graphz))-Schaltkreise auf [GitHub](https://github.com/viktor-chiarcos/GraphZ)
@@ -123,3 +133,4 @@ Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 <!-- 
 ![](../assets/images/2024-11-23-wir-lernen-git.jpg)
 -->
+
