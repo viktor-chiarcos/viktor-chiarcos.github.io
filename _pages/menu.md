@@ -5,6 +5,7 @@ title: Menü
 excerpt: "Das Menü kann auf grund eines Fehlers nicht voll sein. Das schon"
 ---
 
+## [Linux Demo (Google Konto erforderlich)](https://colab.research.google.com/drive/1JJt8dlBqrJfr-xZHELYJfqCtBVrMX5S8?usp=sharing)
 ## [Apps](/apps)
 ## [Extras 2](/extra2/)
 ## [Ausführbare Inhalte (Computerspiele, Videos und vieles mehr)](/run/)
