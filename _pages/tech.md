@@ -48,7 +48,7 @@ Erstelle **an einem beliebigen Ort** eine *Datei* mit der Endung *.ics*
 
 #### Schritt 2: Vorlage einfügen und bearbeiten
 
-Öffne deine Datei mit deinem *Texteditor*.\
+Öffne deine Datei mit deinem *Texteditor*.
 
 Füge folgenden Inhalt ein:
 
@@ -72,19 +72,19 @@ So gebe ich die Zeit an:
 **Start**
 
 
-    DTEND: <Dein Jahr><Dein Monat><Dein Tag>T<Zeit (Stunde)><Zeit (Minute)><Zeit (Sekunde)>Z
-
-**Ein Beispiel**
-
-    DTENDT:20260222T200000Z
-
-**Ende**
-
     DTSTART: <Dein Jahr><Dein Monat><Dein Tag>T<Zeit (Stunde)><Zeit (Minute)><Zeit (Sekunde)>Z
 
 **Ein Beispiel**
 
     DTSTART:20260222T200000Z
+
+**Ende**
+
+    DTEND: <Dein Jahr><Dein Monat><Dein Tag>T<Zeit (Stunde)><Zeit (Minute)><Zeit (Sekunde)>Z
+
+**Ein Beispiel**
+
+    DTEND:20260222T200000Z
 
 **Sonst Titel/Kommentar/Beschreibungstext wie ich schreiben**
 
