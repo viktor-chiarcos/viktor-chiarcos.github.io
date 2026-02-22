@@ -21,7 +21,7 @@ Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 
 # ics Dateien
 
-<a id="wiki/ics"">
+<a id="wiki/ics">
 
 Eine ics Datei ist für ein Kalendereintrag gedacht.
 
