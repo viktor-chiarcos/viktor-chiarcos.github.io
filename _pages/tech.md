@@ -17,6 +17,76 @@ Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 <!--
 ![](../assets/images/2024-10-13-technoseum-ausschnitt.jpg)
 -->
+# Wiki
+
+# ics Dateien
+
+<a id="wiki/ics"">
+
+Eine ics Datei ist für ein Kalendereintrag gedacht.
+
+## Wie erstelle ich eine ics-Datei?
+
+### Methode 1: Über [kurzlinks.de](https://kurzlinks.de)
+
+#### Schritt 1: Webseite öffnen
+
+Öffne nun die Webseite [kurzlinks.de/qrcode#ical](https://kurzlinks.de/qrcode#ical)
+
+#### Schritt 2: Daten eingeben
+
+Gib nun Daten ein.\
+**Achte darauf:** Die Felder Titel, Beginn und Ende sind verpflichtend auszufüllen. Alle anderen Angaben sind optional
+
+Speichere deine Datei. Dann bist du fertig.
+
+### Methode 2: Datei mit Vorlage erstellen **[empfohlen]**
+
+#### Schritt 1: Datei erstellen
+
+Erstelle **an einem beliebigen Ort** eine *Datei* mit der Endung *.ics*
+
+#### Schritt 2: Vorlage einfügen und bearbeiten
+
+Öffne deine Datei mit deinem *Texteditor*.\
+
+Füge folgenden Inhalt ein:
+
+    BEGIN:VCALENDAR
+    VERSION:2.0
+    CALSCALE:GREGORIAN
+    METHOD:PUBLISH
+    BEGIN:VEVENT
+    SUMMARY:Mein Name fürs Event 
+    DESCRIPTION:Meine Beschreibung fürs Event
+    LOCATION:Mein Ort fürs Event
+    DTSTART:20260222T200000Z
+    DTEND:20260222T235900Z
+    DTSTAMP:20260222T161928Z
+    COMMENT:Mein Kommentar fürs Event
+    END:VEVENT
+    END:VCALENDAR
+
+So gebe ich die Zeit an: 
+
+**Start**
+
+
+    DTEND: <Dein Jahr><Dein Monat><Dein Tag>T<Zeit (Stunde)><Zeit (Minute)><Zeit (Sekunde)>Z
+
+**Ein Beispiel**
+
+    DTENDT:20260222T200000Z
+
+**Ende**
+
+    DTSTART: <Dein Jahr><Dein Monat><Dein Tag>T<Zeit (Stunde)><Zeit (Minute)><Zeit (Sekunde)>Z
+
+**Ein Beispiel**
+
+    DTSTART:20260222T200000Z
+
+**Sonst Titel/Kommentar/Beschreibungstext wie ich schreiben**
 
 # Linux Terminal 
 
@@ -133,4 +203,6 @@ Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 <!-- 
 ![](../assets/images/2024-11-23-wir-lernen-git.jpg)
 -->
+
+
 
