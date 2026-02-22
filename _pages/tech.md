@@ -20,7 +20,7 @@ Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 
 # Inhaltsverzeichnis
 
-- [Einleitung](#/text/einleitung)
+<!--- [Einleitung](#/text/einleitung)-->
 - [**Wiki**](#/wiki)
 - [**Wiki:** ics Dateien](#/wiki/ics)
 - [**Wiki: Linux-Terminal**](#/wiki/linux-terminal)
