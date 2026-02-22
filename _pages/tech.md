@@ -4,6 +4,10 @@ title: "Technik"
 permalink: /tech/
 ---
 
+<a id="/text/einleitung">
+
+# Einleitung
+  
 Ich interessiere mich für Technik.\
 Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 
@@ -14,14 +18,30 @@ Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 	<img src="../assets/images/2024-10-13-technoseum-ausschnitt.jpg" alt="Bild: GraphZ-Programmierung" style="width: 75%;text-align: center;" />
 </div>
 
+# Inhaltsverzeichnis
+
+- [Einleitung](#/text/einleitung)
+- [**Wiki**](#/wiki)
+- [**Wiki:** ics Dateien](#/wiki/ics)
+- [**Wiki: Linux-Terminal**](#/wiki/linux-terminal)
+- [**Wiki: Linux-Terminal:** Wie kann ich ein Verzeichnis öffnen?](#/wiki/linux-terminal/cd)
+- [**Wiki: Linux-Terminal:** Was bedeutet der Befehl sudo?](#/wiki/linux-terminal/sudo)
+- [**Wiki: Linux-Terminal:** Wie kann ich einen Benutzer hinzufügen?](#/wiki/linux-terminal/adduser)
+- [**Wiki: Linux-Terminal:** Backups](#/wiki/linux-terminal/backup)
+- [Znatok](#/znatok)
+
+
+
 <!--
 ![](../assets/images/2024-10-13-technoseum-ausschnitt.jpg)
 -->
+<a id="/wiki">
+
 # Wiki
 
 # ics Dateien
 
-<a id="wiki/ics">
+<a id="/wiki/ics">
 
 Eine ics Datei ist für ein Kalendereintrag gedacht.
 
@@ -88,7 +108,11 @@ So gebe ich die Zeit an:
 
 **Sonst Titel/Kommentar/Beschreibungstext wie ich schreiben**
 
+<a id="/wiki/linux-terminal">
+
 # Linux Terminal 
+
+<a id="/wiki/linux-terminal/cd">
 
 ## Wie kann ich ein Verzeichnis  öffnen?
 
@@ -115,6 +139,8 @@ So gebe ich die Zeit an:
 
 &nbsp;
 
+<a id="/wiki/linux-terminal/sudo">
+  
 ## Was bedeutet der Befehl `sudo`?
 
 - `sudo` ist ein Befehl, um Administratorrechte zu aktivieren
@@ -126,6 +152,8 @@ So gebe ich die Zeit an:
 
 
 &nbsp;
+
+<a id="/wiki/linux-terminal/adduser">
 
 # Wie kann ich einen Benutzer Hinzufügen?
 
@@ -178,6 +206,8 @@ So gebe ich die Zeit an:
 
 # Backup
 
+<a id="/wiki/linux-terminal/backup">
+
      sudo tar -cvzpf /media/wohnzimmer/FamilyBox/backup-viktor/linux-viktor/2026-01-25.tgz /usr/ /bin/ /home/ /root /etc /var /lib /Public /opt /sbin /snap /srv /sys
 
                      _________________________________________________________________     __________________________________________________________________________
@@ -186,6 +216,9 @@ So gebe ich die Zeit an:
 
 **Strich 1:** Speicherort (tgz muss sein!)\
 **Strich 2:** Pfade zum speichern (**EMPFOHLEN: /usr /home /sbin /sys /srv /var /lib /etc**)
+
+<a id="/znatok">
+  
 ## ZNATOK
 
 - Meine [GraphZ](https://znatok.ru/link/?start-graphz))-Schaltkreise auf [GitHub](https://github.com/viktor-chiarcos/GraphZ)
