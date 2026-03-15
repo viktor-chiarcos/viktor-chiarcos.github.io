@@ -3,6 +3,20 @@
 ---
 
 <!DOCTYPE html>
+<a id="position_oben"/>
+<script>
+  'use strict';
+(function () {
+	function init() {
+		var datum = new Date();
+		document.getElementById('zeit')
+			.innerHTML = datum;
+	}
+	document.addEventListener("DOMContentLoaded", function () {
+		init();
+	});
+}());
+</script>
 <html lang="{{ site.lang | slice: 0,2 | default: "en" }}">
 
 {% include head.html %}
@@ -14,12 +28,25 @@
     {% include header.html %}
     <!-- page content -->
     <main class="page-content" role="main">
-      {{ content }}
+      <a href="/menu" colour="green">Vollständiges Menü anzeigen</a><br>
+      <a href="/apps" colour="green">Apps anzeigen</a><br>
+<a href="javascript:history.go%20(-1)">Zurück</a><br>
+<a href=".">Seite neu laden</a><br>
+<a href="javascript:history.go%20(1)">Vor</a>
+      <h1>Aktuelle Zeit</h1>
+<main>
+		<time aria-current="date" id="zeit"></time>
+</main>
+<a href="/clock">UhrzeitApp öffnen</a>
+
+{{ content }}
     </main>
     <!-- page footer -->
     {% include footer.html %}
   </div>
   {% include scripts.html %}
+
+
 </body>
 
 </html>

@@ -41,6 +41,23 @@ feature_rows:
     excerept: ""
     url: "/extra2/"
 ---
+# Aktuelle Version: ViktorOS 10.1.2
+## Verbesserungen bei ViktorOS 10.1.2
+
+- Fehlerbehebungen im Design von `index.md` ([https://github.com/viktor-chiarcos/viktor-chiarcos.github.io/blob/main/index.md](https://github.com/viktor-chiarcos/viktor-chiarcos.github.io/blob/main/index.md))
+
+
+## Verbesserungen bei ViktorOS 10.1.1
+
+- Fehlerbehebungen beim Design in `markdown`
+
+
+## Neue Funktionen und Änderungen bei ViktorOS 10.1
+
+- Aktuelle Version — Übersicht jetzt ganz oben
+- NEU: Neue Funktionen — Übersicht: gleich unter der Aktuelle Version — Übersicht
+- **NEU: Browser-Apps**
+- ***NEU unter Browser-Apps: UhrzeitApp — gleich auf [viktor-chiarcos.github.io/clock](https://viktor-chiarcos.github.io/clock)***
 
 ## Webseite von Viktor | Neuigkeiten
 
@@ -76,10 +93,6 @@ ist jetzt im Menü oben
 -->
 
 
-- ## Software: ViktorOS 2.5
-
-Das ist die aktuelle Version der Webseite ;)
-
 - [Änderungen Vorschlagen und Vornehmen, Kommentare Senden und Webseite Bewerten](https://chat.whatsapp.com/CggRJX5SJn8FMcLwCfd8VJ)
 
 &nbsp;
@@ -111,4 +124,7 @@ Das ist die aktuelle Version der Webseite ;)
 ![](https://upload.wikimedia.org/wikipedia/commons/5/58/Hinweissignal_Baustelle.png)
 
 
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ4NTk0Nzg1OF19
 -->

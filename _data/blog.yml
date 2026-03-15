@@ -19,3 +19,5 @@ share:
    - label: "Twitter"
      icon: "fab fa-fw fa-twitter-square"
      url: # link
+   - label: "Instagram"
+     icon: "fab fa-fw-fa-instagram"

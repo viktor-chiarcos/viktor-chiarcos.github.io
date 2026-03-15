@@ -4,6 +4,10 @@ title: "Technik"
 permalink: /tech/
 ---
 
+<a id="/text/einleitung">
+
+# Einleitung
+  
 Ich interessiere mich für Technik.\
 Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 
@@ -14,11 +18,101 @@ Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 	<img src="../assets/images/2024-10-13-technoseum-ausschnitt.jpg" alt="Bild: GraphZ-Programmierung" style="width: 75%;text-align: center;" />
 </div>
 
+# Inhaltsverzeichnis
+
+<!--- [Einleitung](#/text/einleitung)-->
+- [**Wiki**](#/wiki)
+- [**Wiki:** ics Dateien](#/wiki/ics)
+- [**Wiki: Linux-Terminal**](#/wiki/linux-terminal)
+- [**Wiki: Linux-Terminal:** Wie kann ich ein Verzeichnis öffnen?](#/wiki/linux-terminal/cd)
+- [**Wiki: Linux-Terminal:** Was bedeutet der Befehl sudo?](#/wiki/linux-terminal/sudo)
+- [**Wiki: Linux-Terminal:** Wie kann ich einen Benutzer hinzufügen?](#/wiki/linux-terminal/adduser)
+- [**Wiki: Linux-Terminal:** Backups](#/wiki/linux-terminal/backup)
+- [Znatok](#/znatok)
+
+
+
 <!--
 ![](../assets/images/2024-10-13-technoseum-ausschnitt.jpg)
 -->
+<a id="/wiki">
+
+# Wiki
+
+# ics Dateien
+
+<a id="/wiki/ics">
+
+Eine ics Datei ist für ein Kalendereintrag gedacht.
+
+## Wie erstelle ich eine ics-Datei?
+
+### Methode 1: Über [kurzlinks.de](https://kurzlinks.de)
+
+#### Schritt 1: Webseite öffnen
+
+Öffne nun die Webseite [kurzlinks.de/qrcode#ical](https://kurzlinks.de/qrcode#ical)
+
+#### Schritt 2: Daten eingeben
+
+Gib nun Daten ein.\
+**Achte darauf:** Die Felder Titel, Beginn und Ende sind verpflichtend auszufüllen. Alle anderen Angaben sind optional
+
+Speichere deine Datei. Dann bist du fertig.
+
+### Methode 2: Datei mit Vorlage erstellen **[empfohlen]**
+
+#### Schritt 1: Datei erstellen
+
+Erstelle **an einem beliebigen Ort** eine *Datei* mit der Endung *.ics*
+
+#### Schritt 2: Vorlage einfügen und bearbeiten
+
+Öffne deine Datei mit deinem *Texteditor*.
+
+Füge folgenden Inhalt ein:
+
+    BEGIN:VCALENDAR
+    VERSION:2.0
+    CALSCALE:GREGORIAN
+    METHOD:PUBLISH
+    BEGIN:VEVENT
+    SUMMARY:Mein Name fürs Event 
+    DESCRIPTION:Meine Beschreibung fürs Event
+    LOCATION:Mein Ort fürs Event
+    DTSTART:20260222T200000Z
+    DTEND:20260222T235900Z
+    DTSTAMP:20260222T161928Z
+    COMMENT:Mein Kommentar fürs Event
+    END:VEVENT
+    END:VCALENDAR
+
+So gebe ich die Zeit an: 
+
+**Start**
+
+
+    DTSTART: <Dein Jahr><Dein Monat><Dein Tag>T<Zeit (Stunde)><Zeit (Minute)><Zeit (Sekunde)>Z
+
+**Ein Beispiel**
+
+    DTSTART:20260222T200000Z
+
+**Ende**
+
+    DTEND: <Dein Jahr><Dein Monat><Dein Tag>T<Zeit (Stunde)><Zeit (Minute)><Zeit (Sekunde)>Z
+
+**Ein Beispiel**
+
+    DTEND:20260222T200000Z
+
+**Sonst Titel/Kommentar/Beschreibungstext wie ich schreiben**
+
+<a id="/wiki/linux-terminal">
 
 # Linux Terminal 
+
+<a id="/wiki/linux-terminal/cd">
 
 ## Wie kann ich ein Verzeichnis  öffnen?
 
@@ -45,6 +139,8 @@ Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 
 &nbsp;
 
+<a id="/wiki/linux-terminal/sudo">
+  
 ## Was bedeutet der Befehl `sudo`?
 
 - `sudo` ist ein Befehl, um Administratorrechte zu aktivieren
@@ -56,6 +152,8 @@ Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 
 
 &nbsp;
+
+<a id="/wiki/linux-terminal/adduser">
 
 # Wie kann ich einen Benutzer Hinzufügen?
 
@@ -106,6 +204,21 @@ Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 
 &nbsp;
 
+# Backup
+
+<a id="/wiki/linux-terminal/backup">
+
+     sudo tar -cvzpf /media/wohnzimmer/FamilyBox/backup-viktor/linux-viktor/2026-01-25.tgz /usr/ /bin/ /home/ /root /etc /var /lib /Public /opt /sbin /snap /srv /sys
+
+                     _________________________________________________________________     __________________________________________________________________________
+
+## Unterstrichene Orte sollen ersetzt werden
+
+**Strich 1:** Speicherort (tgz muss sein!)\
+**Strich 2:** Pfade zum speichern (**EMPFOHLEN: /usr /home /sbin /sys /srv /var /lib /etc**)
+
+<a id="/znatok">
+  
 ## ZNATOK
 
 - Meine [GraphZ](https://znatok.ru/link/?start-graphz))-Schaltkreise auf [GitHub](https://github.com/viktor-chiarcos/GraphZ)
@@ -123,3 +236,6 @@ Du auch? [Dann tritt bei unserer Organisation bei](/tech/organisation/).
 <!-- 
 ![](../assets/images/2024-11-23-wir-lernen-git.jpg)
 -->
+
+
+
